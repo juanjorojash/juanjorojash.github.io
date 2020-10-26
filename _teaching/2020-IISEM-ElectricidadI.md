@@ -9,8 +9,6 @@ location: "Cartago, Costa Rica"
 ---
 Electricidad I es un curso introductorio de fundamentos de circuitos eléctricos. En el curso se estudia los conceptos básicos, teoremas y métodos de análisis de circuitos en corriente directa, para luego estudiar esos mismos conceptos aplicando corriente alterna.
 
-# Electricidad I - II Semestre 2020
-
 ## Aspectos administrativos del curso
 >* [Contenidos](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EVaOJRUI9w5Jmdfyp8dRXrkB_AuiWS1EckN7caUPLrCAPQ?e=2yWGvi) (versión mas reciente de este documento) 
 >* [Programa](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EZZl7rFI68VNtBrs6WFiOuQBJ9Sd86FVkVO-xIx6xiPwoA?e=S97mfi)
