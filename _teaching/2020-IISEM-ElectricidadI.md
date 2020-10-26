@@ -1,3 +1,14 @@
+---
+title: "Electricidad I - II Semestre 2020"
+collection: teaching
+type: "Undergraduate course"
+permalink: /teaching/2020-IISEM-ElectricidadI
+venue: "Instituto Tenológico de Costa Rica, Escuela de Ingeniería Eletromecánica"
+date: 2020-01-01
+location: "Cartago, Costa Rica"
+---
+This is a description of a teaching experience. You can use markdown like any other post.
+
 # Electricidad I - II Semestre 2020
 
 ## Aspectos administrativos del curso
