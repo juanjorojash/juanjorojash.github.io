@@ -7,7 +7,7 @@ venue: "Instituto Tenológico de Costa Rica, Escuela de Ingeniería Eletromecán
 date: 2020-01-01
 location: "Cartago, Costa Rica"
 ---
-This is a description of a teaching experience. You can use markdown like any other post.
+Electricidad I es un curso introductorio de fundamentos de circuitos eléctricos. En el curso se estudia los conceptos básicos, teoremas y métodos de análisis de circuitos en corriente directa, para luego estudiar esos mismos conceptos aplicando corriente alterna.
 
 # Electricidad I - II Semestre 2020
 
