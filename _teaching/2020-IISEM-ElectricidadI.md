@@ -1,9 +1,9 @@
 ---
 title: "Electricidad I - II Semestre 2020"
 collection: teaching
-type: "Undergraduate course"
+type: "Curso de pregrado"
 permalink: /teaching/2020-IISEM-ElectricidadI
-venue: "Instituto Tenológico de Costa Rica, Escuela de Ingeniería Eletromecánica"
+venue: "Instituto Tecnológico de Costa Rica, Escuela de Ingeniería Eletromecánica"
 date: 2020-01-01
 location: "Cartago, Costa Rica"
 ---
