@@ -101,7 +101,7 @@ Electricidad I es un curso introductorio de fundamentos de circuitos eléctricos
 * [Presentación](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EdnLh7WZxmREvPI-lw2myjIBZ42VMhivW3q-FdhhX3HQ-g?e=qz6hqv) 
 * [Clase asincrónica](https://youtu.be/DVXDBRD85T0) 
 * [Problema 7.43](https://youtu.be/bT0H98jkcHI) 
-* [Problema propio 9.1](https://youtu.be/KfdFjnZ6Od) 
+* [Problema propio 9.1](https://youtu.be/KfdFjnZ6Odk) 
 
 ### Respuesta completa: RL
 * [Presentación](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/ET-SLZCVH3BItk7UXLgY-pIBiTfeNhSdnM96Z8ne2f9kxg?e=E1I7fB) 
@@ -113,7 +113,6 @@ Electricidad I es un curso introductorio de fundamentos de circuitos eléctricos
 
 ## Semana 11
 ### Practica para examen
-
 
 ## Semana 12
 ### Examen II
