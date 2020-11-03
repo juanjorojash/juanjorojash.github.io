@@ -108,12 +108,12 @@ Electricidad I es un curso introductorio de fundamentos de circuitos eléctricos
 * [Clase asincrónica](https://youtu.be/vlQVe7FLDxc) 
 * [Problema 7.57](https://youtu.be/U299hKS-g34) 
 
-## Semana 11
-### Fundamentos de la transformada de Laplace
-*   Pendiente
+### Tarea # 3
+* [Enunciado -pendiente]()
 
-### Analisis de circuitos RLC en serie y paralelo usando Laplace
-*   Pendiente
+## Semana 11
+### Practica para examen
+
 
 ## Semana 12
 ### Examen II
