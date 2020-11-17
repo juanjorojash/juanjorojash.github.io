@@ -78,6 +78,7 @@ Electricidad I es un curso introductorio de fundamentos de circuitos eléctricos
 
 ## Semana 8
 ### Examen I
+* [Enunciado](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EULKiGMSY5ZMtrnKGccjq_8B_A8kJ5-1dY2TRHJBALQLlA?e=UsPx51)
 ### Entrega de Tarea #2
 
 ## Semana 9
@@ -116,6 +117,7 @@ Electricidad I es un curso introductorio de fundamentos de circuitos eléctricos
 
 ## Semana 12
 ### Examen II
+* [Enunciado](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/Edpreo2lDBdFvutOSz8hA0gBmuoN-8wIpUa2Dnb22-bkQQ?e=yCEeOo)
 
 ## Semana 13
 ### Senoides y Fasores
