@@ -109,15 +109,14 @@ Electricidad I es un curso introductorio de fundamentos de circuitos eléctricos
 * [Clase asincrónica](https://youtu.be/vlQVe7FLDxc) 
 * [Problema 7.57](https://youtu.be/U299hKS-g34) 
 
-### Tarea # 3
-* [Enunciado -pendiente]()
-
 ## Semana 11
 ### Practica para examen
 
 ## Semana 12
 ### Examen II
 * [Enunciado](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/Edpreo2lDBdFvutOSz8hA0gBmuoN-8wIpUa2Dnb22-bkQQ?e=yCEeOo)
+### Tarea # 3
+* [Enunciado](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EZ8vUBdzTWpJrHtpKPL-rBMB3wuvm-FdhdG3S7tru-XLoA?e=hKvK3H)
 
 ## Semana 13
 ### Senoides y Fasores
@@ -130,8 +129,14 @@ Electricidad I es un curso introductorio de fundamentos de circuitos eléctricos
 
 ### Potencia y corrección del factor de potencia
 
-## Semanas 14 y 15
-### Análisis de circuitos en CA
+## Semana 14
+### Leyes básicas en CA
+### Nodos y mallas en CA
+
+## Semana 15
+### Transformación de fuentes en CA
+### Thevenin, Norton y Máxima transferencia de potencia en CA
+### Entrega de Tarea #2
 
 ## Semana 16
 ### Examen III
