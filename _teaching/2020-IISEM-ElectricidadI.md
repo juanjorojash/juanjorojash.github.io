@@ -74,14 +74,18 @@ Electricidad I es un curso introductorio de fundamentos de circuitos eléctricos
 * [Ejemplo en vivo 4.9\. Teorema de Thévenin](https://youtu.be/uZMb7ePdymo) 
 
 ## Semana 7
+
 ### Practica para examen
 
 ## Semana 8
+
 ### Examen I
 * [Enunciado](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EULKiGMSY5ZMtrnKGccjq_8B_A8kJ5-1dY2TRHJBALQLlA?e=UsPx51)
+
 ### Entrega de Tarea #2
 
 ## Semana 9
+
 ### Capacitores e Inductores
 * [Presentación](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EZvnmhEBkJVJuOCaliv-besBELxW99esvsSI8oO35qGHwQ?e=8grKoe)
 * [Clase asincrónica](https://youtu.be/Icl9_5sV-6E)
@@ -94,6 +98,7 @@ Electricidad I es un curso introductorio de fundamentos de circuitos eléctricos
 * [Problema 7.10: Respuesta Natural RC](https://youtu.be/37KDKfhaRO8)
 
 ## Semana 10
+
 ### Funciones de singularidad
 * [Presentación](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EWxw4OtTsO9Et0ntAA_VUSEBMgKxyXnWrtWoIK7XEB_R4w?e=muWcrQ)
 * [Clase asincrónica](https://youtu.be/-DqJL51fJ6w)
@@ -110,15 +115,19 @@ Electricidad I es un curso introductorio de fundamentos de circuitos eléctricos
 * [Problema 7.57](https://youtu.be/U299hKS-g34) 
 
 ## Semana 11
+
 ### Practica para examen
 
 ## Semana 12
+
 ### Examen II
 * [Enunciado](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/Edpreo2lDBdFvutOSz8hA0gBmuoN-8wIpUa2Dnb22-bkQQ?e=yCEeOo)
+
 ### Tarea # 3
 * [Enunciado](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EZ8vUBdzTWpJrHtpKPL-rBMB3wuvm-FdhdG3S7tru-XLoA?e=hKvK3H)
 
 ## Semana 13
+
 ### Senoides y Fasores
 * [Presentación](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EVYOP_XB1gdFiPg6MVrzPLMBTNCxnatSmHSIpyypY196Aw?e=7xqIyl) 
 * [Clase asincrónica](https://youtu.be/kkTsLRy2c8A) 
@@ -130,13 +139,19 @@ Electricidad I es un curso introductorio de fundamentos de circuitos eléctricos
 ### Potencia y corrección del factor de potencia
 
 ## Semana 14
+
 ### Leyes básicas en CA
+
 ### Nodos y mallas en CA
 
 ## Semana 15
+
 ### Transformación de fuentes en CA
+
 ### Thevenin, Norton y Máxima transferencia de potencia en CA
+
 ### Entrega de Tarea #2
 
 ## Semana 16
+
 ### Examen III
