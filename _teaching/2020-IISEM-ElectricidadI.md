@@ -136,6 +136,9 @@ Electricidad I es un curso introductorio de fundamentos de circuitos eléctricos
 * [Presentación](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EcDmsGjSbjVFtCWDZFHpB6kBNMMx6xz1hd2Atu_Yw9_0lw?e=g1BMhs) 
 * [Clase asincrónica](https://youtu.be/G33ZNiWucew)  
 
+### Trabajo de investigación
+* [Enunciado](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EZL2AHOdkF1LsIXK8l04vw8BwhWkzy0TwoC9_PP5mcix-A?e=aQQZl7)
+
 ### Potencia y corrección del factor de potencia
 
 ## Semana 14
@@ -155,3 +158,7 @@ Electricidad I es un curso introductorio de fundamentos de circuitos eléctricos
 ## Semana 16
 
 ### Examen III
+
+## Semana 17
+
+### Entrega de presentaciones en video del trabajo de investigación
