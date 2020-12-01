@@ -139,9 +139,13 @@ Electricidad I es un curso introductorio de fundamentos de circuitos eléctricos
 ### Trabajo de investigación
 * [Enunciado](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EZL2AHOdkF1LsIXK8l04vw8BwhWkzy0TwoC9_PP5mcix-A?e=aQQZl7)
 
-### Potencia y corrección del factor de potencia
+### Potencia en CA
+
+* [Problema 11.63](https://youtu.be/k7_hb1OJUnA)
 
 ## Semana 14
+
+### Corrección del factor de potencia
 
 ### Leyes básicas en CA
 
