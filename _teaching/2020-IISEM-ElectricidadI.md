@@ -143,6 +143,9 @@ Electricidad I es un curso introductorio de fundamentos de circuitos eléctricos
 
 ### Nodos en CA
 
+* [Problema 10.17](https://youtu.be/UD9dGjgiBio)
+* [Script de Scilab para resolver simultaneas con complejos](https://estudianteccr-my.sharepoint.com/:u:/g/personal/prof_juan_rojas_estudiantec_cr/ETgs2uXo-g5KiC6y7zesvMkBk4MZNIyjrMSa_68RP0pf1g?e=0npVFu)
+
 ### Mallas en CA
 
 ### Transformación de fuentes en CA
