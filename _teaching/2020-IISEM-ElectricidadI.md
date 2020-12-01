@@ -153,6 +153,8 @@ Electricidad I es un curso introductorio de fundamentos de circuitos eléctricos
 
 ### Transformación de fuentes en CA
 
+* [Problema 10.52](https://youtu.be/0pd06IfKtqU)
+
 ## Semana 15
 
 ### Teorema de superposición en CA
