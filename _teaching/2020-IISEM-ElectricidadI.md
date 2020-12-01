@@ -55,7 +55,7 @@ Electricidad I es un curso introductorio de fundamentos de circuitos eléctricos
 * [Enunciado](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EQI3TLyXxs1KsAOHbLVKb4sBE7uT22Te4ki8OsjiRnKCpg?e=kVTSwS)
 
 ## Semana 5
-### Superposición y transformación de fuentes - Semana 5
+### Superposición y transformación de fuentes
 * [Presentación](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EU6dkityo91HiX5SHxoYQi0BbpC8iSpzy6Y8u_hBykzXwA?e=3Mdo06)
 * [Clase asincrónica](https://youtu.be/j3InyCSizoU)
 * [Problema en vivo P1-EP1-IS-2020. Transformación de fuentes](https://youtu.be/sDLgUlPzi-Q)
@@ -139,25 +139,28 @@ Electricidad I es un curso introductorio de fundamentos de circuitos eléctricos
 ### Trabajo de investigación
 * [Enunciado](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EZL2AHOdkF1LsIXK8l04vw8BwhWkzy0TwoC9_PP5mcix-A?e=aQQZl7)
 
-### Potencia en CA
-
-* [Problema 11.63](https://youtu.be/k7_hb1OJUnA)
-
 ## Semana 14
 
-### Corrección del factor de potencia
+### Nodos en CA
 
-### Leyes básicas en CA
-
-### Nodos y mallas en CA
-
-## Semana 15
+### Mallas en CA
 
 ### Transformación de fuentes en CA
 
-### Thevenin, Norton y Máxima transferencia de potencia en CA
+## Semana 15
 
-### Entrega de Tarea #2
+### Thevenin y Norton en CA
+
+### Potencia compleja
+
+* [Problema 11.51](https://youtu.be/6K_Q6n64tAM)
+* [Problema 11.63](https://youtu.be/k7_hb1OJUnA)
+
+### Corrección del factor de potencia
+
+### Máxima transferencia de potencia promedio
+
+### Entrega de Tarea #3
 
 ## Semana 16
 
