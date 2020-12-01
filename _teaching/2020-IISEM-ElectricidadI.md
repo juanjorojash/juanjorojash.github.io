@@ -153,7 +153,6 @@ Electricidad I es un curso introductorio de fundamentos de circuitos eléctricos
 
 ### Transformación de fuentes en CA
 
-
 ## Semana 15
 
 ### Teorema de superposición en CA
@@ -165,16 +164,16 @@ Electricidad I es un curso introductorio de fundamentos de circuitos eléctricos
 * [Problema 11.51](https://youtu.be/6K_Q6n64tAM)
 * [Problema 11.63](https://youtu.be/k7_hb1OJUnA)
 
-### Corrección del factor de potencia
-
-### Máxima transferencia de potencia promedio
-
 ### Entrega de Tarea #3
 
 ## Semana 16
 
-### Examen III
+### Corrección del factor de potencia
+
+### Máxima transferencia de potencia promedio
 
 ## Semana 17
+
+### Examen III
 
 ### Entrega de presentaciones en video del trabajo de investigación
