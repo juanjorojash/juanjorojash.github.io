@@ -144,13 +144,19 @@ Electricidad I es un curso introductorio de fundamentos de circuitos eléctricos
 ### Nodos en CA
 
 * [Problema 10.17](https://youtu.be/UD9dGjgiBio)
-* [Script de Scilab para resolver simultaneas con complejos](https://estudianteccr-my.sharepoint.com/:u:/g/personal/prof_juan_rojas_estudiantec_cr/ETgs2uXo-g5KiC6y7zesvMkBk4MZNIyjrMSa_68RP0pf1g?e=0npVFu)
+* [Script de Scilab. Problema 10.17](https://estudianteccr-my.sharepoint.com/:u:/g/personal/prof_juan_rojas_estudiantec_cr/ETgs2uXo-g5KiC6y7zesvMkBk4MZNIyjrMSa_68RP0pf1g?e=0npVFu)
 
 ### Mallas en CA
 
+* [Problema 10.38](https://youtu.be/Ra_zuZzI260)
+* [Script de Scilab. Problema 10.38](https://estudianteccr-my.sharepoint.com/:u:/g/personal/prof_juan_rojas_estudiantec_cr/EcclYRMU4bhOlAZZWj0BcWAB8npVVjgQZVWFZ7M_53hMmQ?e=GaLicE)
+
 ### Transformación de fuentes en CA
 
+
 ## Semana 15
+
+### Teorema de superposición en CA
 
 ### Thevenin y Norton en CA
 
