@@ -14,10 +14,6 @@ Electricidad I es un curso introductorio de fundamentos de circuitos eléctricos
 Se incluye Manual, machote de informe y machote de investigación previa
 * Click [aquí](https://www.overleaf.com/read/fpkwnmzdkrqj)
 
-## LVSIM
- * Click [aquí](https://lvsim.labvolt.com/) para abrir en la web
- * Usar codigo 6764A-D4D91-11523-AAAEC 
-
 ## Tinkercad
  * Click [aquí](https://www.tinkercad.com/dashboard) para abrir en la web
 
@@ -121,7 +117,7 @@ Se incluye Manual, machote de informe y machote de investigación previa
 
 ### Lab 10. Circuitos mixto RLC en corriente alterna
 * Se realizará de forma sincrónica, primero en una reunión por grupo para aclarar aspectos generales y luego una reunión por subgrupo.
-* El software a utilizar será LVSIM y LTSpice
+* El software a utilizar será LTSpice
 
 ## Semana 13
 ### Entrega de informe del Lab 10. Tec Digital
@@ -130,7 +126,7 @@ Se incluye Manual, machote de informe y machote de investigación previa
 
 ### Lab 11. Mejoramiento del factor de potencia
 * Se realizará de forma sincrónica, primero en una reunión por grupo para aclarar aspectos generales y luego una reunión por subgrupo.
-* El software a utilizar será LVSIM y LTSpice
+* El software a utilizar será LTSpice
 
 ## Semanas 14
 ### Entrega de informe del Lab 11. Tec Digital
