@@ -157,22 +157,24 @@ Electricidad I es un curso introductorio de fundamentos de circuitos eléctricos
 
 ## Semana 15
 
-### Teorema de superposición en CA
+[//]: # (Teorema de superposición en CA) 
 
 ### Thevenin y Norton en CA
+
+* [Problema 10.61](https://youtu.be/n1VCitzyp0E)
 
 ### Potencia compleja
 
 * [Problema 11.51](https://youtu.be/6K_Q6n64tAM)
 * [Problema 11.63](https://youtu.be/k7_hb1OJUnA)
 
-### Entrega de Tarea #3
-
 ## Semana 16
 
 ### Corrección del factor de potencia
 
 ### Máxima transferencia de potencia promedio
+
+### Entrega de Tarea #3
 
 ## Semana 17
 
