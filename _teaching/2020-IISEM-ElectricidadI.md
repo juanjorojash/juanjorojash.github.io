@@ -162,6 +162,7 @@ Electricidad I es un curso introductorio de fundamentos de circuitos eléctricos
 ### Thevenin y Norton en CA
 
 * [Problema 10.61](https://youtu.be/n1VCitzyp0E)
+* [Problema 10.64](https://youtu.be/XXcemoZO-pU)
 
 ### Potencia compleja
 
