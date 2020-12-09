@@ -138,6 +138,8 @@ Se incluye Manual, machote de informe y machote de investigación previa
 ### Entrega de investigación previa de Lab 11. Tec Digital
 
 ### Lab 12. Taller de Arduino
+* [Taller en Tinkercad](https://www.tinkercad.com/things/00XSsyQP5VD-taller-de-arduino-para-compartir/editel?sharecode=3dEBu1hJXJjOPsg61HVRpZL9qakxp6PbK2RGhVFPKJw)
+* [Datasheet del TMP36](https://www.analog.com/media/en/technical-documentation/data-sheets/TMP35_36_37.pdf)
 
 ## Semana 16
 ### Entrega de informe del Lab 12. Tec Digital
