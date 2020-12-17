@@ -174,6 +174,7 @@ Electricidad I es un curso introductorio de fundamentos de circuitos eléctricos
 ### Corrección del factor de potencia
 
 ### Máxima transferencia de potencia promedio
+* [Problema 11.15](https://youtu.be/Cs8oqEDo1tQ)
 
 ### Entrega de Tarea #3
 
