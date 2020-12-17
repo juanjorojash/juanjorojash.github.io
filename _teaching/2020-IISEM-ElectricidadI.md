@@ -172,6 +172,7 @@ Electricidad I es un curso introductorio de fundamentos de circuitos eléctricos
 ## Semana 16
 
 ### Corrección del factor de potencia
+* [Problema 11.72](https://youtu.be/BAZltzFz_S4)
 
 ### Máxima transferencia de potencia promedio
 * [Problema 11.15](https://youtu.be/Cs8oqEDo1tQ)
