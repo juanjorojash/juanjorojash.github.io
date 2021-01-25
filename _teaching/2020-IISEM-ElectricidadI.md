@@ -18,7 +18,7 @@ Electricidad I es un curso introductorio de fundamentos de circuitos eléctricos
 
 ## Recursos
 * [Ejemplo: como leer un csv en Python](https://estudianteccr-my.sharepoint.com/:f:/g/personal/prof_juan_rojas_estudiantec_cr/EvjVJWhEUBBAhBRuGMC8m8kBYVudl8yevSIwp0_VWEQxZg) 
-* [Solución de tarea #2](https://mybinder.org/v2/gh/juanjorojash/notebooks/master?filepath=Sol_t2.ipynb)
+* [Soluciones:](https://mybinder.org/v2/gh/juanjorojash/notebooks/c14d6118cac0a732bf6576e896bd23c2eb883272) se debe ingresar a la carpera de soluciones luego de cargar el Binder
 
 # Contenidos
 
