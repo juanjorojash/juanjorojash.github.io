@@ -1,10 +1,10 @@
 ---
-title: "Laboratorio de Electricidad I - II Semestre 2020"
+title: "Laboratorio de Electricidad I - I Semestre 2021"
 collection: teaching
 type: "Curso de pregrado"
 permalink: /teaching/2020-IISEM-LabElectricidadI
 venue: "Instituto Tecnológico de Costa Rica, Escuela de Ingeniería Eletromecánica"
-date: 2020-01-01
+date: 2021-01-01
 location: "Cartago, Costa Rica"
 ---
 Electricidad I es un curso introductorio de fundamentos de circuitos eléctricos. En el curso se estudia los conceptos básicos, teoremas y métodos de análisis de circuitos en corriente directa, para luego estudiar esos mismos conceptos aplicando corriente alterna.

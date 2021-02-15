@@ -1,10 +1,10 @@
 ---
-title: "Electricidad I - II Semestre 2020"
+title: "Electricidad I - I Semestre 2021"
 collection: teaching
 type: "Curso de pregrado"
 permalink: /teaching/2020-IISEM-ElectricidadI
 venue: "Instituto Tecnológico de Costa Rica, Escuela de Ingeniería Eletromecánica"
-date: 2020-01-01
+date: 2021-01-01
 location: "Cartago, Costa Rica"
 ---
 Electricidad I es un curso introductorio de fundamentos de circuitos eléctricos. En el curso se estudia los conceptos básicos, teoremas y métodos de análisis de circuitos en corriente directa, para luego estudiar esos mismos conceptos aplicando corriente alterna.
@@ -13,12 +13,11 @@ Electricidad I es un curso introductorio de fundamentos de circuitos eléctricos
 * [Programa](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EZZl7rFI68VNtBrs6WFiOuQBJ9Sd86FVkVO-xIx6xiPwoA?e=S97mfi)
 * [Cronograma](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/ERcQ4Ar5FF5CrTkj47-sEBUBA5ScynzkV4yrZE3WK_USNw?e=RYAqks)
 * Horario
-   * De las 13:00 a las 14:30
+   * De las 13:30 a las 14:30
    * De las 14:50 a las 15:50
 
 ## Recursos
-* [Ejemplo: como leer un csv en Python](https://estudianteccr-my.sharepoint.com/:f:/g/personal/prof_juan_rojas_estudiantec_cr/EvjVJWhEUBBAhBRuGMC8m8kBYVudl8yevSIwp0_VWEQxZg) 
-* [Soluciones:](https://mybinder.org/v2/gh/juanjorojash/notebooks/a458485eb1b8cdce2a53e74315beb6173897887d) se debe ingresar a la carpera de soluciones luego de cargar el Binder
+* [Ejemplo: como leer un csv en Python](https://estudianteccr-my.sharepoint.com/:f:/g/personal/prof_juan_rojas_estudiantec_cr/EvjVJWhEUBBAhBRuGMC8m8kBYVudl8yevSIwp0_VWEQxZg)
 
 # Contenidos
 
