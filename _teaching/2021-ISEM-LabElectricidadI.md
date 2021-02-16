@@ -2,7 +2,7 @@
 title: "Laboratorio de Electricidad I - I Semestre 2021"
 collection: teaching
 type: "Curso de pregrado"
-permalink: /teaching/2020-IISEM-LabElectricidadI
+permalink: /teaching/2021-IISEM-LabElectricidadI
 venue: "Instituto Tecnológico de Costa Rica, Escuela de Ingeniería Eletromecánica"
 date: 2021-01-01
 location: "Cartago, Costa Rica"
@@ -23,6 +23,10 @@ Se incluye Manual, machote de informe y machote de investigación previa
 ### Aspectos administrativos del curso
 * [Programa](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/ESqhT4gziylLrGIJULWr7PsBU3nvWZLKBZ5rzY-wtIwgqw?e=5ykGwT)
 * [Cronograma](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EcR9EazOKlVKi6UjezfMHQ4BWBKMp9B0p2lxswi2pfOO5Q?e=kJBaEi)
+* Horario 
+   * Grupo 1: Martes, de las 13:00 a las 14:50
+   * Grupo 2: Martes, de las 15:00 a las 16:50
+
 
 ## Semana 2
 ### Entrega de investigación previa del Lab 1. Tec Digital

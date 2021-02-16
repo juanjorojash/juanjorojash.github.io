@@ -2,7 +2,7 @@
 title: "Electricidad I - I Semestre 2021"
 collection: teaching
 type: "Curso de pregrado"
-permalink: /teaching/2020-IISEM-ElectricidadI
+permalink: /teaching/2021-IISEM-ElectricidadI
 venue: "Instituto Tecnológico de Costa Rica, Escuela de Ingeniería Eletromecánica"
 date: 2021-01-01
 location: "Cartago, Costa Rica"
@@ -11,10 +11,11 @@ Electricidad I es un curso introductorio de fundamentos de circuitos eléctricos
 
 ## Aspectos administrativos del curso
 * [Programa](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EZZl7rFI68VNtBrs6WFiOuQBJ9Sd86FVkVO-xIx6xiPwoA?e=S97mfi)
-* [Cronograma](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/ERcQ4Ar5FF5CrTkj47-sEBUBA5ScynzkV4yrZE3WK_USNw?e=RYAqks)
+
+[//]: #(*[Cronograma](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/ERcQ4Ar5FF5CrTkj47-sEBUBA5ScynzkV4yrZE3WK_USNw?e=RYAqks))
+
 * Horario
-   * De las 13:30 a las 14:30
-   * De las 14:50 a las 15:50
+   * Miercoles, de las 13:30 a las 14:30 y de las 14:50 a las 15:50
 
 ## Recursos
 * [Ejemplo: como leer un csv en Python](https://estudianteccr-my.sharepoint.com/:f:/g/personal/prof_juan_rojas_estudiantec_cr/EvjVJWhEUBBAhBRuGMC8m8kBYVudl8yevSIwp0_VWEQxZg)
@@ -25,6 +26,9 @@ Electricidad I es un curso introductorio de fundamentos de circuitos eléctricos
 
 ### Estuctura atómica, carga y campo eléctrico
 * [Presentación](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EYVDyVyqFV5DmNMbQuG5k7MBgPYQV2FaFqxZWcm6uNSqCw?e=h8tLa0) 
+* Videos complementarios de otros autores:
+   * [Niveles de energía](https://www.youtube.com/watch?v=J-DjEIlynjE) 
+   * [Configuración electrónica](https://www.youtube.com/watch?v=diCGRJskeDA)
 
 ## Semana 2
 ### Conceptos básicos
