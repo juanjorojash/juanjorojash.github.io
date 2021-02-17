@@ -15,7 +15,7 @@ Electricidad I es un curso introductorio de fundamentos de circuitos eléctricos
 [//]: #(*[Cronograma](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/ERcQ4Ar5FF5CrTkj47-sEBUBA5ScynzkV4yrZE3WK_USNw?e=RYAqks))
 
 * Horario
-   * Miercoles, de las 13:30 a las 14:30 y de las 14:50 a las 15:50
+   * Martes, de las 13:30 a las 14:30 y de las 14:50 a las 15:50
 
 ## Recursos
 * [Ejemplo: como leer un csv en Python](https://estudianteccr-my.sharepoint.com/:f:/g/personal/prof_juan_rojas_estudiantec_cr/EvjVJWhEUBBAhBRuGMC8m8kBYVudl8yevSIwp0_VWEQxZg)
