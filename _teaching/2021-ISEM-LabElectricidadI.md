@@ -14,8 +14,11 @@ Electricidad I es un curso introductorio de fundamentos de circuitos eléctricos
 Se incluye Manual, machote de informe y machote de investigación previa
 * Click [aquí](https://www.overleaf.com/read/fpkwnmzdkrqj)
 
-## Tinkercad
- * Click [aquí](https://www.tinkercad.com/dashboard) para abrir en la web
+## Software
+* [LVSIM](https://lvsim.labvolt.com/)
+* [Thinkercad](https://www.tinkercad.com/dashboard)
+* [LT Spice](https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html)
+
 
 # Contenidos
 
