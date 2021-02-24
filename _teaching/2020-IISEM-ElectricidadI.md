@@ -33,6 +33,7 @@ Electricidad I es un curso introductorio de fundamentos de circuitos eléctricos
 
 ### Tarea # 1
 * [Enunciado](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EdId4HEXT1ZKu_CcYqp8Xf8B7jW8GP4yU-h0etowk2Nqyw?e=mayS3C)
+* [Factura](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EfNNNE3dI6dLq29VWFIT1bcBwr2_w5rCRptFvFyK1loNIQ?e=U1XJ1m)
 
 ## Semana 3
 ### Leyes básicas
@@ -52,7 +53,7 @@ Electricidad I es un curso introductorio de fundamentos de circuitos eléctricos
 ### Entrega de Tarea # 1
 
 ### Tarea # 2
-* [Enunciado](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EQI3TLyXxs1KsAOHbLVKb4sBE7uT22Te4ki8OsjiRnKCpg?e=kVTSwS)
+* [Enunciado pendiente]()
 
 ## Semana 5
 ### Superposición y transformación de fuentes
