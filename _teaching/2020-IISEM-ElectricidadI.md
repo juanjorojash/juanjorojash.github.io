@@ -38,6 +38,7 @@ Electricidad I es un curso introductorio de fundamentos de circuitos eléctricos
 ## Semana 3
 ### Leyes básicas
 * [Presentación](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EXAR_6UUSDRDhEgHbSyTmsEBpfdmH8W_TJ2gwwVXluJ3iw?e=fzxrgp)
+* [Problemas complementarios](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EXghntOtq8dNqkAFBQZkLrwBrMzkyhJjFnjL6CMNF6P1_w?e=qCsxtG)
 
 ## Semana 4
 ### Nodos y supernodos
