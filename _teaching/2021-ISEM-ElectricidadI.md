@@ -18,7 +18,11 @@ Electricidad I es un curso introductorio de fundamentos de circuitos eléctricos
    * Martes, de las 13:30 a las 14:30 y de las 14:50 a las 15:50
 
 ## Recursos
-* [Ejemplo: como leer un csv en Python](https://estudianteccr-my.sharepoint.com/:f:/g/personal/prof_juan_rojas_estudiantec_cr/EvjVJWhEUBBAhBRuGMC8m8kBYVudl8yevSIwp0_VWEQxZg)
+* [Ejemplos en Python](https://estudianteccr-my.sharepoint.com/:f:/g/personal/prof_juan_rojas_estudiantec_cr/EvjVJWhEUBBAhBRuGMC8m8kBYVudl8yevSIwp0_VWEQxZg), incluye:
+   * func_rangos.py: archivo ejemplo para evaluar funciones en rangos y graficarlas
+   * leer_csv.py: archivo ejemplo para leer csv's en Python 
+   * resp_comp_RC.csv: archivo separado por comas con información de un circuito RC, usado en leer_csv.py
+   * simul_eq.py: archivo ejemplo para resolver ecuaciones simultaneas
 
 # Contenidos
 
