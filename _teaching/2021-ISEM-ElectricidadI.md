@@ -57,11 +57,7 @@ Electricidad I es un curso introductorio de fundamentos de circuitos eléctricos
 ### Mallas y supermallas
 * [Presentación](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/ETGkhf00n9NCtXuHF0dySoQBWQNbVpv7V8iwSw6vIi0I0Q?e=dJ821n)
 * [Clase asincrónica](https://youtu.be/5EhkEt3EgDc) 
-
-### Entrega de Tarea # 1
-
-### Tarea # 2
-* [Enunciado](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EQI3TLyXxs1KsAOHbLVKb4sBE7uT22Te4ki8OsjiRnKCpg?e=kVTSwS)
+* [Problema 3.63. Mallas y supermallas](https://youtu.be/eoNDHvzIkPw)
 
 ## Semana 5
 ### Superposición y transformación de fuentes
@@ -69,6 +65,11 @@ Electricidad I es un curso introductorio de fundamentos de circuitos eléctricos
 * [Clase asincrónica](https://youtu.be/j3InyCSizoU)
 * [Problema en vivo P1-EP1-IS-2020. Transformación de fuentes](https://youtu.be/sDLgUlPzi-Q)
 * [Problema en vivo P2&P3-EP1-IS-2020. Superposición](https://youtu.be/iInz_GyKwDA)
+
+### Entrega de Tarea # 1
+
+### Tarea # 2
+* [Enunciado pendiente]()
 
 ## Semana 6
 ### Thevenin, Norton y Máxima transferencia de potencia
