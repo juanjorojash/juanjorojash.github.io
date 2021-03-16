@@ -69,7 +69,7 @@ Electricidad I es un curso introductorio de fundamentos de circuitos eléctricos
 ### Entrega de Tarea # 1
 
 ### Tarea # 2
-* [Enunciado pendiente]()
+* [Enunciado](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EQI3TLyXxs1KsAOHbLVKb4sBE7uT22Te4ki8OsjiRnKCpg)
 
 ## Semana 6
 ### Thevenin, Norton y Máxima transferencia de potencia
