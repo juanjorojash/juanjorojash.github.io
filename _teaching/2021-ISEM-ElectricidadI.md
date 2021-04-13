@@ -91,8 +91,7 @@ Electricidad I es un curso introductorio de fundamentos de circuitos eléctricos
 
 ### Examen I
 * [Enunciado](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EULKiGMSY5ZMtrnKGccjq_8B_A8kJ5-1dY2TRHJBALQLlA?e=UsPx51)
-
-### Entrega de Tarea #2
+* [Solución]()
 
 ## Semana 9
 
@@ -106,6 +105,8 @@ Electricidad I es un curso introductorio de fundamentos de circuitos eléctricos
 * [LTSpice file: RC natural](https://estudianteccr-my.sharepoint.com/:u:/g/personal/prof_juan_rojas_estudiantec_cr/EWeKitVTa0FLvPEaJvVG7IYBOFi1O9ZILTM4cX5QgKMv-Q?e=ebs6g9)
 * [LTSpice file: RL natural](https://estudianteccr-my.sharepoint.com/:u:/g/personal/prof_juan_rojas_estudiantec_cr/EdmQ-c0GtrFIrJkNcYpxsLIB_lt7fMs6CsHAWZiUx6TK7A?e=g1owQd)
 * [Problema 7.10: Respuesta Natural RC](https://youtu.be/37KDKfhaRO8)
+
+### Entrega de Tarea #2
 
 ## Semana 10
 
