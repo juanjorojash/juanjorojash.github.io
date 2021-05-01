@@ -125,6 +125,9 @@ Electricidad I es un curso introductorio de fundamentos de circuitos eléctricos
 * [Clase asincrónica](https://youtu.be/vlQVe7FLDxc) 
 * [Problema 7.57](https://youtu.be/U299hKS-g34) 
 
+### Tarea # 3
+* [Enunciado](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EZ8vUBdzTWpJrHtpKPL-rBMB3wuvm-FdhdG3S7tru-XLoA)
+
 ## Semana 11
 
 ### Practica para examen
@@ -133,9 +136,6 @@ Electricidad I es un curso introductorio de fundamentos de circuitos eléctricos
 
 ### Examen II
 * [Enunciado](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/Edpreo2lDBdFvutOSz8hA0gBmuoN-8wIpUa2Dnb22-bkQQ?e=yCEeOo)
-
-### Tarea # 3
-* [Enunciado](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EZ8vUBdzTWpJrHtpKPL-rBMB3wuvm-FdhdG3S7tru-XLoA?e=hKvK3H)
 
 ## Semana 13
 
@@ -147,8 +147,10 @@ Electricidad I es un curso introductorio de fundamentos de circuitos eléctricos
 * [Presentación](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EcDmsGjSbjVFtCWDZFHpB6kBNMMx6xz1hd2Atu_Yw9_0lw?e=g1BMhs) 
 * [Clase asincrónica](https://youtu.be/G33ZNiWucew)  
 
+### Entrega de Tarea #3
+
 ### Trabajo de investigación
-* [Enunciado](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EZL2AHOdkF1LsIXK8l04vw8BwhWkzy0TwoC9_PP5mcix-A?e=aQQZl7)
+* [Enunciado]()
 
 ## Semana 14
 
@@ -187,8 +189,6 @@ Electricidad I es un curso introductorio de fundamentos de circuitos eléctricos
 
 ### Máxima transferencia de potencia promedio
 * [Problema 11.15](https://youtu.be/Cs8oqEDo1tQ)
-
-### Entrega de Tarea #3
 
 ## Semana 17
 
