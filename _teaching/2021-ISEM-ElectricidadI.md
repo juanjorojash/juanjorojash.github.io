@@ -158,6 +158,7 @@ Electricidad I es un curso introductorio de fundamentos de circuitos eléctricos
 ### Nodos en CA
 
 * [Problema 10.17](https://youtu.be/UD9dGjgiBio)
+* [Script de Python. Problema 10.17](https://estudianteccr-my.sharepoint.com/:u:/g/personal/prof_juan_rojas_estudiantec_cr/ESrosX2tblFGrzP6uIy6z80BTZ-2urGwmlFA0ydWnQDX-Q?e=2x53wq)
 * [Script de Scilab. Problema 10.17](https://estudianteccr-my.sharepoint.com/:u:/g/personal/prof_juan_rojas_estudiantec_cr/ETgs2uXo-g5KiC6y7zesvMkBk4MZNIyjrMSa_68RP0pf1g?e=0npVFu)
 
 ### Mallas en CA
