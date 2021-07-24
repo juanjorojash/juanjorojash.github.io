@@ -1,5 +1,5 @@
 ---
-title: "Laboratorio de Electricidad I - I Semestre 2021"
+title: "Laboratorio de Electricidad I - II Semestre 2021"
 collection: teaching
 type: "Curso de pregrado"
 permalink: /teaching/2021-IISEM-LabElectricidadI
