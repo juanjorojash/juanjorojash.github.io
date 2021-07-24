@@ -1,5 +1,5 @@
 ---
-title: "Electricidad I - I Semestre 2021"
+title: "Electricidad I - II Semestre 2021"
 collection: teaching
 type: "Curso de pregrado"
 permalink: /teaching/2021-IISEM-ElectricidadI
@@ -10,12 +10,12 @@ location: "Cartago, Costa Rica"
 Electricidad I es un curso introductorio de fundamentos de circuitos eléctricos. En el curso se estudia los conceptos básicos, teoremas y métodos de análisis de circuitos en corriente directa, para luego estudiar esos mismos conceptos aplicando corriente alterna.
 
 ## Aspectos administrativos del curso
-* [Programa](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EZZl7rFI68VNtBrs6WFiOuQBJ9Sd86FVkVO-xIx6xiPwoA?e=S97mfi)
+* [Programa](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EZZl7rFI68VNtBrs6WFiOuQBJ9Sd86FVkVO-xIx6xiPwoA)
 
 [//]: #(*[Cronograma](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/ERcQ4Ar5FF5CrTkj47-sEBUBA5ScynzkV4yrZE3WK_USNw?e=RYAqks))
 
 * Horario
-   * Martes, de las 13:30 a las 14:30 y de las 14:50 a las 15:50
+   * Lunes, de las 17:30 a las 18:30 y de las 18:50 a las 19:50
 
 ## Recursos
 * [Ejemplos en Python](https://estudianteccr-my.sharepoint.com/:f:/g/personal/prof_juan_rojas_estudiantec_cr/EvjVJWhEUBBAhBRuGMC8m8kBYVudl8yevSIwp0_VWEQxZg), incluye:
@@ -39,13 +39,15 @@ Electricidad I es un curso introductorio de fundamentos de circuitos eléctricos
 * [Presentación](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/Eem9AsZIy8tDnncCvBGQaL4B1SHKZufIOKxpGpWiJoU5og?e=8BRyOp)
 
 ### Tarea # 1
-* [Enunciado](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EdId4HEXT1ZKu_CcYqp8Xf8B7jW8GP4yU-h0etowk2Nqyw?e=mayS3C)
-* [Factura](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EfNNNE3dI6dLq29VWFIT1bcBwr2_w5rCRptFvFyK1loNIQ?e=U1XJ1m)
+* [Enunciado]()
 
 ## Semana 3
 ### Leyes básicas
 * [Presentación](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EXAR_6UUSDRDhEgHbSyTmsEBpfdmH8W_TJ2gwwVXluJ3iw?e=fzxrgp)
 * [Problemas complementarios](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EXghntOtq8dNqkAFBQZkLrwBrMzkyhJjFnjL6CMNF6P1_w?e=qCsxtG)
+
+### Tarea # 2
+* [Enunciado]()
 
 ## Semana 4
 ### Nodos y supernodos
@@ -59,6 +61,9 @@ Electricidad I es un curso introductorio de fundamentos de circuitos eléctricos
 * [Clase asincrónica](https://youtu.be/5EhkEt3EgDc) 
 * [Problema 3.63. Mallas y supermallas](https://youtu.be/eoNDHvzIkPw)
 
+### Tarea # 3
+* [Enunciado]()
+
 ## Semana 5
 ### Superposición y transformación de fuentes
 * [Presentación](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EU6dkityo91HiX5SHxoYQi0BbpC8iSpzy6Y8u_hBykzXwA?e=3Mdo06)
@@ -66,10 +71,8 @@ Electricidad I es un curso introductorio de fundamentos de circuitos eléctricos
 * [Problema en vivo P1-EP1-IS-2020. Transformación de fuentes](https://youtu.be/sDLgUlPzi-Q)
 * [Problema en vivo P2&P3-EP1-IS-2020. Superposición](https://youtu.be/iInz_GyKwDA)
 
-### Entrega de Tarea # 1
-
-### Tarea # 2
-* [Enunciado](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EQI3TLyXxs1KsAOHbLVKb4sBE7uT22Te4ki8OsjiRnKCpg)
+### Tarea # 4
+* [Enunciado]()
 
 ## Semana 6
 ### Thevenin, Norton y Máxima transferencia de potencia
@@ -82,6 +85,9 @@ Electricidad I es un curso introductorio de fundamentos de circuitos eléctricos
 * [LTSpice file: Problema 4.69](https://estudianteccr-my.sharepoint.com/:u:/g/personal/prof_juan_rojas_estudiantec_cr/EZnjc13bR31GroF88r1VRbEBPYCZtKoTTbPSCpI6qyuzOQ?e=AtgTax)
 * [Problema en vivo 4.92\. Máxima transferencia de potencia](https://youtu.be/bCPKjsO13qw) 
 * [Ejemplo en vivo 4.9\. Teorema de Thévenin](https://youtu.be/uZMb7ePdymo) 
+
+### Tarea # 5
+* [Enunciado]()
 
 ## Semana 7
 
@@ -106,7 +112,8 @@ Electricidad I es un curso introductorio de fundamentos de circuitos eléctricos
 * [LTSpice file: RL natural](https://estudianteccr-my.sharepoint.com/:u:/g/personal/prof_juan_rojas_estudiantec_cr/EdmQ-c0GtrFIrJkNcYpxsLIB_lt7fMs6CsHAWZiUx6TK7A?e=g1owQd)
 * [Problema 7.10: Respuesta Natural RC](https://youtu.be/37KDKfhaRO8)
 
-### Entrega de Tarea #2
+### Tarea # 6
+* [Enunciado]()
 
 ## Semana 10
 
@@ -125,8 +132,8 @@ Electricidad I es un curso introductorio de fundamentos de circuitos eléctricos
 * [Clase asincrónica](https://youtu.be/vlQVe7FLDxc) 
 * [Problema 7.57](https://youtu.be/U299hKS-g34) 
 
-### Tarea # 3
-* [Enunciado](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EZ8vUBdzTWpJrHtpKPL-rBMB3wuvm-FdhdG3S7tru-XLoA)
+### Tarea # 7
+* [Enunciado]()
 
 ## Semana 11
 
@@ -148,10 +155,11 @@ Electricidad I es un curso introductorio de fundamentos de circuitos eléctricos
 * [Presentación](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EcDmsGjSbjVFtCWDZFHpB6kBNMMx6xz1hd2Atu_Yw9_0lw?e=g1BMhs) 
 * [Clase asincrónica](https://youtu.be/G33ZNiWucew)  
 
-### Entrega de Tarea #3
-
 ### Trabajo de investigación
 * [Enunciado](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EZL2AHOdkF1LsIXK8l04vw8BwhWkzy0TwoC9_PP5mcix-A)
+
+### Tarea # 8
+* [Enunciado]()
 
 ## Semana 14
 
@@ -170,6 +178,9 @@ Electricidad I es un curso introductorio de fundamentos de circuitos eléctricos
 
 * [Problema 10.52](https://youtu.be/0pd06IfKtqU)
 
+### Tarea # 9
+* [Enunciado]()
+
 ## Semana 15
 
 [//]: # (Teorema de superposición en CA) 
@@ -184,6 +195,9 @@ Electricidad I es un curso introductorio de fundamentos de circuitos eléctricos
 * [Problema 11.51](https://youtu.be/6K_Q6n64tAM)
 * [Problema 11.63](https://youtu.be/k7_hb1OJUnA)
 
+### Tarea # 10
+* [Enunciado]()
+
 ## Semana 16
 
 ### Corrección del factor de potencia
@@ -195,5 +209,3 @@ Electricidad I es un curso introductorio de fundamentos de circuitos eléctricos
 ## Semana 17
 
 ### Examen III
-
-### Entrega de presentaciones en video del trabajo de investigación
