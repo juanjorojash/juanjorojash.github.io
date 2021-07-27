@@ -7,12 +7,12 @@ venue: "Instituto Tecnológico de Costa Rica, Escuela de Ingeniería Eletromecá
 date: 2021-01-01
 location: "Cartago, Costa Rica"
 ---
-Electricidad I es un curso introductorio de fundamentos de circuitos eléctricos. En el curso se estudia los conceptos básicos, teoremas y métodos de análisis de circuitos en corriente directa, para luego estudiar esos mismos conceptos aplicando corriente alterna.
+Este curso comprende el estudio de los conceptos básicos de la instrumentación industrial y proporciona una base sólida en varios tópicos que quienes son profesionales en Ingeniería Física deben dominar para un exitoso desempeño con los sistemas de medición, presentes en un sinnúmero de actividades de ingeniería del mundo real.
 
 # Generales
 ## Repositorio de Overleaf
-Se incluye Manual, machote de informe y machote de investigación previa
-* Click [aquí](https://www.overleaf.com/read/fpkwnmzdkrqj)
+Se incluye instructivo, machote de informe, presentaciones, tareas, etc. 
+* Click [aquí](https://www.overleaf.com/read/zjkbkmvfnrcc)
 
 ## Software
 * [Thinkercad](https://www.tinkercad.com/dashboard)
@@ -34,46 +34,55 @@ Se incluye Manual, machote de informe y machote de investigación previa
    * Profesor: MSc. Hugo Sanchez Ortiz
 
 ## Semana 2
-### 1. Introducción a la Instrumentación Industrial
+### Introducción a la Instrumentación Industrial. Sesión 1
 
 ## Semana 3
-### Lecturas, ejercicios de tarea y examen corto - Tema 1
+### Introducción a la Instrumentación Industrial. Sesión 2
+### Tarea 1. 
+* [Enunciado]()
 
 ## Semana 4
 ### Lab 1. Características generales de instrumentos
 
 ## Semana 5
-### 2. Medidas de temperatura
+### Medidas de temperatura.
+### Tarea 2. 
+* [Enunciado]()
 
 ## Semana 6
-### Lecturas, ejercicios de tarea y examen corto - Tema 2
-
-## Semana 7
 ### Lab 2. Sensores de temperatura
 
-## Semana 8
+## Semana 7
 ### 3. Medidas de presión
-### Lecturas, ejercicios de tarea y examen corto - Tema 3
+### Tarea 3: 
+* [Enunciado]()
 
-## Semana 9
+## Semana 8
 ### Lab 3. Sensores de presión
 
-## Semana 10
-### 4. Medidas de nivel
-### Lecturas, ejercicios de tarea y examen corto - Tema 4
+## Semana 9
+### Medidas de nivel
+### Tarea 4: 
+* [Enunciado]()
 
-## Semana 11
+## Semana 10
 ### Lab 4. Sensores de nivel
 
-## Semana 12
-### 5. Medidas de fuerza y vibración
-### Lecturas, ejercicios de tarea y examen corto - Tema 5
+## Semana 11
+### Medidas de fuerza y vibración
+### Tarea 5: 
+* [Enunciado]()
 
-## Semana 13
+## Semana 12
 ### Lab 5. Sensores de fuerza y vibración
 
+## Semana 13
+### Medidas de propiedades ópticas 
+### Tarea 6: 
+* [Enunciado]()
+
 ## Semana 14
-### 6. Medidas de propiedades ópticas 
+### Lab 6. Sensores de fuerza y vibración
 
 ## Semana 15
-### Lab 6. Sensores de fuerza y vibración
+### Reposición de laboratorio
