@@ -35,6 +35,7 @@ Se incluye instructivo, machote de informe, presentaciones, tareas, etc.
 
 ## Semana 2
 ### Introducción a la Instrumentación Industrial. Sesión 1
+* [Presentación](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EQdAJYjvaEhMroNYkio9ku4BEX20iHap58oArHoGIT5gXw?e=bZzgfh)
 
 ## Semana 3
 ### Introducción a la Instrumentación Industrial. Sesión 2
