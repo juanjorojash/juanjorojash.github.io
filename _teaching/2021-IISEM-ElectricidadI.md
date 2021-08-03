@@ -29,7 +29,8 @@ Electricidad I es un curso introductorio de fundamentos de circuitos eléctricos
 ## Semana 1
 
 ### Estuctura atómica, carga y campo eléctrico
-* [Presentación](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EYVDyVyqFV5DmNMbQuG5k7MBgPYQV2FaFqxZWcm6uNSqCw?e=h8tLa0) 
+* [Presentación](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EYVDyVyqFV5DmNMbQuG5k7MBgPYQV2FaFqxZWcm6uNSqCw?e=h8tLa0)
+* [Clase asincrónica](https://youtu.be/twXnxkySVHo) 
 * Videos complementarios de otros autores:
    * [Niveles de energía](https://www.youtube.com/watch?v=J-DjEIlynjE) 
    * [Configuración electrónica](https://www.youtube.com/watch?v=diCGRJskeDA)
