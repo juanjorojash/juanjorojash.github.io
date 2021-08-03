@@ -3,7 +3,7 @@ title: "Instrumentación I - II Semestre 2021"
 collection: teaching
 type: "Curso de pregrado"
 permalink: /teaching/2021-IISEM-InstrumentacionI
-venue: "Instituto Tecnológico de Costa Rica, Escuela de Ingeniería Eletromecánica"
+venue: "Instituto Tecnológico de Costa Rica, Escuela de Física"
 date: 2021-01-01
 location: "Cartago, Costa Rica"
 ---
