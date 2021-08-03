@@ -38,6 +38,7 @@ Electricidad I es un curso introductorio de fundamentos de circuitos eléctricos
 ## Semana 2
 ### Conceptos básicos
 * [Presentación](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/Eem9AsZIy8tDnncCvBGQaL4B1SHKZufIOKxpGpWiJoU5og?e=8BRyOp)
+* [Clase asincrónica](https://youtu.be/CoiBW32Tq9c) 
 
 ### Tarea # 1
 * [Enunciado]()
