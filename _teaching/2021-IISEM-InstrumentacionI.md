@@ -15,8 +15,11 @@ Se incluye instructivo, machote de informe, presentaciones, tareas, etc.
 * Click [aquí](https://www.overleaf.com/read/zjkbkmvfnrcc)
 
 ## Software
-* [Thinkercad](https://www.tinkercad.com/dashboard)
-* [LT Spice](https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html)
+### [Thinkercad](https://www.tinkercad.com/dashboard)
+### [LT Spice](https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html)
+* Taller sobre funciones avanzadas de LTSpice
+   * [Video](https://www.youtube.com/watch?v=zHD7Y2LBVH0)
+   * [Enunciado](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EfXS7vWKRZdGuhqq1opP8FEBYMEAtVKjedhkPwLMo09v0Q?e=YjHzTk)
 
 
 # Contenidos
@@ -28,10 +31,10 @@ Se incluye instructivo, machote de informe, presentaciones, tareas, etc.
 [//]: #(*[Cronograma](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EcR9EazOKlVKi6UjezfMHQ4BWBKMp9B0p2lxswi2pfOO5Q?e=kJBaEi))
 * Grupo 1 
    * Horario: Martes, de las 15:00 a las 14:50.
-   * Profesor: Dr-Ing. Juan J. Rojas
+   * Profesor: MSc. Hugo Sanchez Ortiz
 * Grupo 2
    * Horario: Viernes, de las 09:30 a las 11:20
-   * Profesor: MSc. Hugo Sanchez Ortiz
+   * Profesor: Dr-Ing. Juan J. Rojas
 
 ## Semana 2
 ### Introducción a la Instrumentación Industrial. Sesión 1
