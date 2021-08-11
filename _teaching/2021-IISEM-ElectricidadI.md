@@ -26,8 +26,6 @@ Electricidad I es un curso introductorio de fundamentos de circuitos eléctricos
 
 # Contenidos
 
----
-
 ## Semana 1
 
 ### Estuctura atómica, carga y campo eléctrico
@@ -36,8 +34,6 @@ Electricidad I es un curso introductorio de fundamentos de circuitos eléctricos
 * Videos complementarios de otros autores:
    * [Niveles de energía](https://www.youtube.com/watch?v=J-DjEIlynjE) 
    * [Configuración electrónica](https://www.youtube.com/watch?v=diCGRJskeDA)
-
----
 
 ## Semana 2
 
