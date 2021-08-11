@@ -1,4 +1,4 @@
-
+---
 title: "Electricidad I - II Semestre 2021"
 collection: teaching
 type: "Curso de pregrado"
@@ -6,7 +6,7 @@ permalink: /teaching/2021-IISEM-ElectricidadI
 venue: "Instituto Tecnológico de Costa Rica, Escuela de Ingeniería Eletromecánica"
 date: 2021-01-01
 location: "Cartago, Costa Rica"
-
+---
 Electricidad I es un curso introductorio de fundamentos de circuitos eléctricos. En el curso se estudia los conceptos básicos, teoremas y métodos de análisis de circuitos en corriente directa, para luego estudiar esos mismos conceptos aplicando corriente alterna.
 
 ## Aspectos administrativos del curso
