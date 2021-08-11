@@ -25,6 +25,7 @@ Electricidad I es un curso introductorio de fundamentos de circuitos eléctricos
    * simul_eq.py: archivo ejemplo para resolver ecuaciones simultaneas
 
 # Contenidos
+
 ---
 ## Semana 1
 
@@ -34,6 +35,7 @@ Electricidad I es un curso introductorio de fundamentos de circuitos eléctricos
 * Videos complementarios de otros autores:
    * [Niveles de energía](https://www.youtube.com/watch?v=J-DjEIlynjE) 
    * [Configuración electrónica](https://www.youtube.com/watch?v=diCGRJskeDA)
+
 ---
 ## Semana 2
 ### Conceptos básicos
@@ -42,6 +44,7 @@ Electricidad I es un curso introductorio de fundamentos de circuitos eléctricos
 
 ### Tarea # 1
 * [Enunciado](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EdId4HEXT1ZKu_CcYqp8Xf8B7jW8GP4yU-h0etowk2Nqyw)
+
 ---
 ## Semana 3
 ### Leyes básicas
@@ -52,6 +55,7 @@ Electricidad I es un curso introductorio de fundamentos de circuitos eléctricos
 
 ### Tarea # 2
 * [Enunciado](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EQI3TLyXxs1KsAOHbLVKb4sBE7uT22Te4ki8OsjiRnKCpg)
+
 ---
 ## Semana 4
 ### Nodos y supernodos
@@ -69,6 +73,7 @@ Electricidad I es un curso introductorio de fundamentos de circuitos eléctricos
 
 ### Tarea # 3
 * [Enunciado]()
+
 ---
 ## Semana 5
 ### Superposición y transformación de fuentes
@@ -82,6 +87,7 @@ Electricidad I es un curso introductorio de fundamentos de circuitos eléctricos
 
 ### Problemas complementarios
 * [Documento de problemas con respuesta](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EZZcY8qIUGhPjIQ98L8q4x0BRS-EcCZb2NU--OP7j9dkcA?e=OPHDpY)
+
 ---
 ## Semana 6
 ### Thevenin, Norton y Máxima transferencia de potencia
@@ -97,16 +103,19 @@ Electricidad I es un curso introductorio de fundamentos de circuitos eléctricos
 
 ### Tarea # 5
 * [Enunciado]()
+
 ---
 ## Semana 7
 
 ### Practica para examen
+
 ---
 ## Semana 8
 
 ### Examen I
 * [Enunciado]()
 * [Solución]()
+
 ---
 ## Semana 9
 
@@ -123,6 +132,7 @@ Electricidad I es un curso introductorio de fundamentos de circuitos eléctricos
 
 ### Tarea # 6
 * [Enunciado]()
+
 ---
 ## Semana 10
 
@@ -143,16 +153,19 @@ Electricidad I es un curso introductorio de fundamentos de circuitos eléctricos
 
 ### Tarea # 7
 * [Enunciado]()
+
 ---
 ## Semana 11
 
 ### Practica para examen
+
 ---
 ## Semana 12
 
 ### Examen II
 * [Enunciado]()
 * [Solución]()
+
 ---
 ## Semana 13
 
@@ -169,6 +182,7 @@ Electricidad I es un curso introductorio de fundamentos de circuitos eléctricos
 
 ### Tarea # 8
 * [Enunciado]()
+
 ---
 ## Semana 14
 
@@ -189,6 +203,7 @@ Electricidad I es un curso introductorio de fundamentos de circuitos eléctricos
 
 ### Tarea # 9
 * [Enunciado]()
+
 ---
 ## Semana 15
 
@@ -206,6 +221,7 @@ Electricidad I es un curso introductorio de fundamentos de circuitos eléctricos
 
 ### Tarea # 10
 * [Enunciado]()
+
 ---
 ## Semana 16
 
@@ -214,6 +230,7 @@ Electricidad I es un curso introductorio de fundamentos de circuitos eléctricos
 
 ### Máxima transferencia de potencia promedio
 * [Problema 11.15](https://youtu.be/Cs8oqEDo1tQ)
+
 ---
 ## Semana 17
 
