@@ -20,7 +20,9 @@ Se incluye instructivo, machote de informe, presentaciones, tareas, etc.
 * Taller sobre funciones avanzadas de LTSpice
    * [Video](https://www.youtube.com/watch?v=zHD7Y2LBVH0)
    * [Enunciado](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EfXS7vWKRZdGuhqq1opP8FEBYMEAtVKjedhkPwLMo09v0Q?e=YjHzTk)
-
+   
+### Capstone
+   * [Video sobre configuración](https://youtu.be/JOZz-7b-sLE)
 
 # Contenidos
 
