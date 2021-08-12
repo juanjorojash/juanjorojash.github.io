@@ -45,7 +45,8 @@ Se incluye instructivo, machote de informe, presentaciones, tareas, etc.
 ## Semana 3
 ### Introducción a la Instrumentación Industrial. Sesión 2
 ### Tarea 1. 
-* [Enunciado]()
+* [Enunciado](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EUqIVmje6itFozSxAuQR-8ABA0w8OqvgGvdAClBRB-T72Q?e=L0qkLj)
+* [Datos](https://estudianteccr-my.sharepoint.com/:x:/g/personal/prof_juan_rojas_estudiantec_cr/EdPgXIwyTmhMgulR94-n6JUBvSWLipoVPb18x3d9gS7syg?e=nHJdWq)
 
 ## Semana 4
 ### Lab 1. Características generales de instrumentos
