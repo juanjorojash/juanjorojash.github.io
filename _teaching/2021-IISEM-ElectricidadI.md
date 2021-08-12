@@ -36,6 +36,7 @@ Electricidad I es un curso introductorio de fundamentos de circuitos eléctricos
    * [Configuración electrónica](https://www.youtube.com/watch?v=diCGRJskeDA)
 
 ## Semana 2
+
 ### Conceptos básicos
 * [Presentación](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/Eem9AsZIy8tDnncCvBGQaL4B1SHKZufIOKxpGpWiJoU5og?e=8BRyOp)
 * [Clase asincrónica](https://youtu.be/CoiBW32Tq9c) 
@@ -46,27 +47,33 @@ Electricidad I es un curso introductorio de fundamentos de circuitos eléctricos
 ## Semana 3
 ### Leyes básicas
 * [Presentación](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EXAR_6UUSDRDhEgHbSyTmsEBpfdmH8W_TJ2gwwVXluJ3iw?e=fzxrgp)
-* [Problemas complementarios](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EXghntOtq8dNqkAFBQZkLrwBrMzkyhJjFnjL6CMNF6P1_w?e=qCsxtG)
+
+### Problemas complementarios
+* [Documento de problemas con respuesta](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EXghntOtq8dNqkAFBQZkLrwBrMzkyhJjFnjL6CMNF6P1_w?e=qCsxtG)
 
 ### Tarea # 2
-* [Enunciado]()
+* [Enunciado](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EQI3TLyXxs1KsAOHbLVKb4sBE7uT22Te4ki8OsjiRnKCpg)
 
 ## Semana 4
+
 ### Nodos y supernodos
 * [Presentación](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EU8BeM5li-VJq3YxytFAChgB6jW2f6IUqtBDUlzYd_z2YQ?e=3FGTQQ)
 * [Clase asincrónica](https://youtu.be/0yTrAKQYVVw) 
-* [Problema 3.30. Nodos y supernodos](https://youtu.be/eJkdc0B9UF4) 
-* [Problema en vivo 3.88. Nodos y supernodos](https://youtu.be/w5-UEOt6S-8)
-
 ### Mallas y supermallas
 * [Presentación](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/ETGkhf00n9NCtXuHF0dySoQBWQNbVpv7V8iwSw6vIi0I0Q?e=dJ821n)
-* [Clase asincrónica](https://youtu.be/5EhkEt3EgDc) 
+* [Clase asincrónica](https://youtu.be/5EhkEt3EgDc)
+
+### Problemas complementarios
+* [Documento de problemas con respuesta](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/Eafs2rLGw1lKkOvyRTnTaEQBhmP-ubh5qDJLgwGdKDoYtA?e=B5cmHa)
+* [Problema 3.30. Nodos y supernodos](https://youtu.be/eJkdc0B9UF4) 
+* [Problema en vivo 3.88. Nodos y supernodos](https://youtu.be/w5-UEOt6S-8)
 * [Problema 3.63. Mallas y supermallas](https://youtu.be/eoNDHvzIkPw)
 
 ### Tarea # 3
 * [Enunciado]()
 
 ## Semana 5
+
 ### Superposición y transformación de fuentes
 * [Presentación](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EU6dkityo91HiX5SHxoYQi0BbpC8iSpzy6Y8u_hBykzXwA?e=3Mdo06)
 * [Clase asincrónica](https://youtu.be/j3InyCSizoU)
@@ -76,7 +83,11 @@ Electricidad I es un curso introductorio de fundamentos de circuitos eléctricos
 ### Tarea # 4
 * [Enunciado]()
 
+### Problemas complementarios
+* [Documento de problemas con respuesta](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EZZcY8qIUGhPjIQ98L8q4x0BRS-EcCZb2NU--OP7j9dkcA?e=OPHDpY)
+
 ## Semana 6
+
 ### Thevenin, Norton y Máxima transferencia de potencia
 * [Presentación](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/ETu6AjHpI3pDj4dUFmlXmN8BU7aVi5BcU_HQwVsLQbYosQ?e=5CtmEy)
 * [Clase asincrónica](https://youtu.be/cjt_Yn3We_U) 
@@ -98,8 +109,8 @@ Electricidad I es un curso introductorio de fundamentos de circuitos eléctricos
 ## Semana 8
 
 ### Examen I
-* [Enunciado](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EULKiGMSY5ZMtrnKGccjq_8B_A8kJ5-1dY2TRHJBALQLlA?e=UsPx51)
-* [Solución](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EQIIS7wup8hNioJewLKgAxQBJXr79qeEzgtE7J8Ip7C8Ww)
+* [Enunciado]()
+* [Solución]()
 
 ## Semana 9
 
@@ -144,7 +155,7 @@ Electricidad I es un curso introductorio de fundamentos de circuitos eléctricos
 ## Semana 12
 
 ### Examen II
-* [Enunciado](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/Edpreo2lDBdFvutOSz8hA0gBmuoN-8wIpUa2Dnb22-bkQQ?e=bftijY)
+* [Enunciado]()
 * [Solución]()
 
 ## Semana 13
