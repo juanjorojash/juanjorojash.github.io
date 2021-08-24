@@ -81,7 +81,7 @@ Electricidad I es un curso introductorio de fundamentos de circuitos eléctricos
 * [Problema en vivo P2&P3-EP1-IS-2020. Superposición](https://youtu.be/iInz_GyKwDA)
 
 ### Tarea # 4
-* [Enunciado]()
+* [Enunciado](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/ETBpTWaVMEBOkPersUHVOgkBU1ErfcKv71jvfxtPNChO4A?e=hg5Sms)
 
 ### Problemas complementarios
 * [Documento de problemas con respuesta](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EZZcY8qIUGhPjIQ98L8q4x0BRS-EcCZb2NU--OP7j9dkcA?e=OPHDpY)
