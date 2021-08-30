@@ -100,7 +100,7 @@ Electricidad I es un curso introductorio de fundamentos de circuitos eléctricos
 * [Ejemplo en vivo 4.9\. Teorema de Thévenin](https://youtu.be/uZMb7ePdymo) 
 
 ### Tarea # 5
-* [Enunciado]()
+* [Enunciado](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EXiN6WQEg51NoI-RvwW_V4EBcbhl3x0nw_gDy29AIf7RwA?e=GMO6V1)
 
 ## Semana 7
 
