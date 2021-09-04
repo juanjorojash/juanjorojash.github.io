@@ -20,6 +20,9 @@ Se incluye instructivo, machote de informe, presentaciones, tareas, etc.
 * Taller sobre funciones avanzadas de LTSpice
    * [Video](https://www.youtube.com/watch?v=zHD7Y2LBVH0)
    * [Enunciado](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EfXS7vWKRZdGuhqq1opP8FEBYMEAtVKjedhkPwLMo09v0Q?e=YjHzTk)
+### Python
+* [Leer .csv en python](https://colab.research.google.com/drive/1YVJyWnTlSJ3F9WBlO-NQANxnusqROjwX?usp=sharing)
+* [data.csv](https://estudianteccr-my.sharepoint.com/:u:/g/personal/prof_juan_rojas_estudiantec_cr/ET9qN1KRqj5Eq4c7srjrPkIB2AyT9_MevsOqnhR0aFeE8w?e=2PGylx)
    
 ### Capstone
    * [Video sobre configuración](https://youtu.be/JOZz-7b-sLE)
