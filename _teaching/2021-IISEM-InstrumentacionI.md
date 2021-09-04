@@ -56,8 +56,9 @@ Se incluye instructivo, machote de informe, presentaciones, tareas, etc.
 
 ## Semana 5
 ### Medidas de temperatura.
+* [Presentación](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/Ed88IgFv1JJFlF11Ptvp-B8B1a-PYg_5mOA5Fd1NSwKdOw?e=o8fkjY)
 ### Tarea 2. 
-* [Enunciado]()
+* [Enunciado](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EYwKHsRoPglMkMnXzDuFH2YBhzGzAtbqLTMPM5ecHEor6g?e=Y4PeTW)
 
 ## Semana 6
 ### Lab 2. Sensores de temperatura
