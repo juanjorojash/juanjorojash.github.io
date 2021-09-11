@@ -16,6 +16,7 @@ Se incluye instructivo, machote de informe, presentaciones, tareas, etc.
 
 ## Software
 ### [Thinkercad](https://www.tinkercad.com/dashboard)
+* [Medición de temperatura y resistencia usando Arduino](https://www.tinkercad.com/things/388IamUa3SP-copy-of-temperatura-y-resistencia-con-arduino/editel?sharecode=QrfIFVOtNjDwwy28nUcJXTL2-pqxoz6O9-MtxGTbABM)
 ### [LT Spice](https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html)
 * Taller sobre funciones avanzadas de LTSpice
    * [Video](https://www.youtube.com/watch?v=zHD7Y2LBVH0)
