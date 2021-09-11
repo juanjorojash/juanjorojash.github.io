@@ -47,6 +47,7 @@ Se incluye instructivo, machote de informe, presentaciones, tareas, etc.
 
 ## Semana 3
 ### Introducción a la Instrumentación Industrial. Sesión 2
+* [Presentación](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/Ec5JXy17Q5FAkW60xv15trIBdjdaG3Fd-XEphw109JX96w?e=3kF7yh)
 ### Tarea 1. 
 * [Enunciado](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EUqIVmje6itFozSxAuQR-8ABA0w8OqvgGvdAClBRB-T72Q?e=L0qkLj)
 * [Datos](https://estudianteccr-my.sharepoint.com/:x:/g/personal/prof_juan_rojas_estudiantec_cr/EdPgXIwyTmhMgulR94-n6JUBvSWLipoVPb18x3d9gS7syg?e=nHJdWq)
@@ -65,8 +66,9 @@ Se incluye instructivo, machote de informe, presentaciones, tareas, etc.
 
 ## Semana 7
 ### 3. Medidas de presión
+* [Presentación](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EfRyAQhsU4dAjSUAWhamDVoBM6l8ClwSxgoweDSb746LpA?e=XgCYad)
 ### Tarea 3: 
-* [Enunciado]()
+* [Enunciado](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/Ec6DSOSBAGVBgWcqJp7HDWQBp2uZwC1XzToAE_DlQVx44A?e=PAOIQd)
 
 ## Semana 8
 ### Lab 3. Sensores de presión
