@@ -15,12 +15,15 @@ Se incluye instructivo, machote de informe, presentaciones, tareas, etc.
 * Click [aquí](https://www.overleaf.com/read/zjkbkmvfnrcc)
 
 ## Software
+
 ### [Thinkercad](https://www.tinkercad.com/dashboard)
 * [Medición de temperatura y resistencia usando Arduino](https://www.tinkercad.com/things/388IamUa3SP-copy-of-temperatura-y-resistencia-con-arduino/editel?sharecode=QrfIFVOtNjDwwy28nUcJXTL2-pqxoz6O9-MtxGTbABM)
+
 ### [LT Spice](https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html)
 * Taller sobre funciones avanzadas de LTSpice
    * [Video](https://www.youtube.com/watch?v=zHD7Y2LBVH0)
    * [Enunciado](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EfXS7vWKRZdGuhqq1opP8FEBYMEAtVKjedhkPwLMo09v0Q?e=YjHzTk)
+   
 ### Python
 * [Leer .csv en python](https://colab.research.google.com/drive/1YVJyWnTlSJ3F9WBlO-NQANxnusqROjwX?usp=sharing)
 * [data.csv](https://estudianteccr-my.sharepoint.com/:u:/g/personal/prof_juan_rojas_estudiantec_cr/ET9qN1KRqj5Eq4c7srjrPkIB2AyT9_MevsOqnhR0aFeE8w?e=2PGylx)
