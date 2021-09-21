@@ -10,7 +10,7 @@ location: "Cartago, Costa Rica"
 Electricidad I es un curso introductorio de fundamentos de circuitos eléctricos. En el curso se estudia los conceptos básicos, teoremas y métodos de análisis de circuitos en corriente directa, para luego estudiar esos mismos conceptos aplicando corriente alterna.
 
 ## Aspectos administrativos del curso
-* [Programa](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EZZl7rFI68VNtBrs6WFiOuQBJ9Sd86FVkVO-xIx6xiPwoA)
+* [Programa](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EVsO8UpGzEdCsu6VnKvw0ZQB3TNQR-yWH2ljdYBtsRAQAw?e=kzZH3u)
 
 [//]: #(*[Cronograma](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/ERcQ4Ar5FF5CrTkj47-sEBUBA5ScynzkV4yrZE3WK_USNw?e=RYAqks))
 
@@ -89,7 +89,7 @@ Electricidad I es un curso introductorio de fundamentos de circuitos eléctricos
 ## Semana 6
 
 ### Thevenin, Norton y Máxima transferencia de potencia
-* [Presentación](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/ETu6AjHpI3pDj4dUFmlXmN8BU7aVi5BcU_HQwVsLQbYosQ?e=5CtmEy)
+* [Presentación](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EaoLycwevS5KipXM7ZG2Ai4BKVvp7Oxh8NlUCA_01KheoQ?e=JS5jOa)
 * [Clase asincrónica](https://youtu.be/cjt_Yn3We_U) 
 * [Problema en vivo 4.53\. Teorema de Norton](https://youtu.be/J3qmHVAxVng) 
 * [LTSpice: Máxima transferencia de potencia](https://youtu.be/LQFKj_J37cA)
@@ -115,11 +115,11 @@ Electricidad I es un curso introductorio de fundamentos de circuitos eléctricos
 ## Semana 9
 
 ### Capacitores e Inductores
-* [Presentación](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EZvnmhEBkJVJuOCaliv-besBELxW99esvsSI8oO35qGHwQ?e=8grKoe)
+* [Presentación](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EaIH-3Q7sz5JiEUXiDEErZQBQ8u3SOznNmbj_yyphSLcbA?e=CnwR9g)
 * [Clase asincrónica](https://youtu.be/Icl9_5sV-6E)
 
 ### Respuestas naturales
-* [Presentación](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/ESTlJhKW55VBpSR9bSES3JwBYGla4uc24LI87NZeNDPcUA?e=TFqLwD)
+* [Presentación](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EQVhKx8KR3FCs8RoM1OiWIIBwNwVmplCW38HwU4CXISJzg?e=RgNyH6)
 * [Clase asincrónica](https://youtu.be/bWRGyjY0niY)
 * [LTSpice file: RC natural](https://estudianteccr-my.sharepoint.com/:u:/g/personal/prof_juan_rojas_estudiantec_cr/EWeKitVTa0FLvPEaJvVG7IYBOFi1O9ZILTM4cX5QgKMv-Q?e=ebs6g9)
 * [LTSpice file: RL natural](https://estudianteccr-my.sharepoint.com/:u:/g/personal/prof_juan_rojas_estudiantec_cr/EdmQ-c0GtrFIrJkNcYpxsLIB_lt7fMs6CsHAWZiUx6TK7A?e=g1owQd)
@@ -131,17 +131,17 @@ Electricidad I es un curso introductorio de fundamentos de circuitos eléctricos
 ## Semana 10
 
 ### Funciones de singularidad
-* [Presentación](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EWxw4OtTsO9Et0ntAA_VUSEBMgKxyXnWrtWoIK7XEB_R4w?e=muWcrQ)
+* [Presentación](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/Ec2r74zTcJdEpK5MOtv-lHcBA4JsnZZ0V6WwAs9IikJDhA?e=eh9ytH)
 * [Clase asincrónica](https://youtu.be/-DqJL51fJ6w)
 
 ### Respuesta completa: RC
-* [Presentación](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EdnLh7WZxmREvPI-lw2myjIBZ42VMhivW3q-FdhhX3HQ-g?e=qz6hqv) 
+* [Presentación](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/Ebq_urdNBgtMu2d4ONdeNzcBHEs6MRPOl0eT2CO51PKFnw?e=otHOoM) 
 * [Clase asincrónica](https://youtu.be/DVXDBRD85T0) 
 * [Problema 7.43](https://youtu.be/bT0H98jkcHI) 
 * [Problema propio 9.1](https://youtu.be/KfdFjnZ6Odk) 
 
 ### Respuesta completa: RL
-* [Presentación](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/ET-SLZCVH3BItk7UXLgY-pIBiTfeNhSdnM96Z8ne2f9kxg?e=E1I7fB) 
+* [Presentación](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/ETCQcDeJJeBMuQoUAcKPpbsBBZS9DoT61pjdTp6XJuD6Mw?e=Wv69es) 
 * [Clase asincrónica](https://youtu.be/vlQVe7FLDxc) 
 * [Problema 7.57](https://youtu.be/U299hKS-g34) 
 
@@ -165,11 +165,8 @@ Electricidad I es un curso introductorio de fundamentos de circuitos eléctricos
 * [Clase asincrónica](https://youtu.be/kkTsLRy2c8A) 
 
 ### Impedancia y admitancia
-* [Presentación](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EcDmsGjSbjVFtCWDZFHpB6kBNMMx6xz1hd2Atu_Yw9_0lw?e=g1BMhs) 
+* [Presentación](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EcDmsGjSbjVFtCWDZFHpB6kBNMMx6xz1hd2Atu_Yw9_0lw?e=VWDD2r) 
 * [Clase asincrónica](https://youtu.be/G33ZNiWucew)  
-
-### Trabajo de investigación
-* [Enunciado](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EZL2AHOdkF1LsIXK8l04vw8BwhWkzy0TwoC9_PP5mcix-A)
 
 ### Tarea # 8
 * [Enunciado]()
