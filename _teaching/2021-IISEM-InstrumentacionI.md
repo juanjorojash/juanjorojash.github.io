@@ -87,37 +87,41 @@ Se incluye instructivo, machote de informe, presentaciones, tareas, etc.
 
 ## Semana 9
 
+### [Taller sobre visualización de datos en Python](https://teams.microsoft.com/l/channel/19%3AEY0dO9PbvVOWya-1G_42RFysF_EHeb6317TFUwJAmOU1%40thread.tacv2/tab%3A%3Aaec2ee15-b4bc-46ea-8feb-0252d7dd017f?groupId=95733c28-d2d0-4b20-879a-5687d5c03149&tenantId=bfcf1d9d-93ea-43b1-b902-1daa68a64248)
+
+## Semana 10
+
 ### Medidas de nivel
 
 ### Tarea 4: 
 * [Enunciado]()
 
-## Semana 10
+## Semana 11
 
 ### Lab 4. Sensores de nivel
 
-## Semana 11
+## Semana 12
 
 ### Medidas de fuerza y vibración
 
 ### Tarea 5: 
 * [Enunciado]()
 
-## Semana 12
+## Semana 13
 
 ### Lab 5. Sensores de fuerza y vibración
 
-## Semana 13
+## Semana 14
 
 ### Medidas de propiedades ópticas 
 
 ### Tarea 6: 
 * [Enunciado]()
 
-## Semana 14
+## Semana 15
 
 ### Lab 6. Sensores de fuerza y vibración
 
-## Semana 15
+## Semana 16
 
 ### Reposición de laboratorio
