@@ -126,7 +126,7 @@ Electricidad I es un curso introductorio de fundamentos de circuitos eléctricos
 * [Problema 7.10: Respuesta Natural RC](https://youtu.be/37KDKfhaRO8)
 
 ### Tarea # 6
-* [Enunciado]()
+* [Enunciado](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EXsZ6qnJCXFIu8Wj6bfSc-EBIpGHLcxo9If9Thkqd7Bdcw?e=GZ0Qif)
 
 ## Semana 10
 
