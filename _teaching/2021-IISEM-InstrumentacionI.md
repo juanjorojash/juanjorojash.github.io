@@ -92,6 +92,7 @@ Se incluye instructivo, machote de informe, presentaciones, tareas, etc.
 ## Semana 10
 
 ### Medidas de nivel
+* [Presentación](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EXYwHhL0y1xNnX3zOtBfaw0BHq6fZdA72Si6iXUrVGk3aA?e=Qxoi9L)
 
 ### Tarea 4: 
 * [Enunciado]()
