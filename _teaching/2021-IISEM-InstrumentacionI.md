@@ -95,7 +95,7 @@ Se incluye instructivo, machote de informe, presentaciones, tareas, etc.
 * [Presentación](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EXYwHhL0y1xNnX3zOtBfaw0BHq6fZdA72Si6iXUrVGk3aA?e=Qxoi9L)
 
 ### Tarea 4: 
-* [Enunciado]()
+* [Enunciado](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EVWTrQYTWAZJj9ArW29HPOUBS_RqVoTUMsjnaooZWMHeow?e=wlSvG3)
 
 ## Semana 11
 
@@ -106,7 +106,7 @@ Se incluye instructivo, machote de informe, presentaciones, tareas, etc.
 ### Medidas de fuerza y vibración
 
 ### Tarea 5: 
-* [Enunciado]()
+* [Enunciado](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/ETqIF_VW_hxIjYTjjOebjg4B5rrl3iWz9SefTHgDDFkZkw?e=os6cOp)
 
 ## Semana 13
 
