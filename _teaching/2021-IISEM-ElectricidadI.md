@@ -169,7 +169,7 @@ Electricidad I es un curso introductorio de fundamentos de circuitos eléctricos
 * [Clase asincrónica](https://youtu.be/G33ZNiWucew)  
 
 ### Tarea # 8
-* [Enunciado]()
+* [Enunciado](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EXeebsN47HlPueqTS7RM77cBjTVxgNetLy4xfNEETdupMQ?e=tCS8Gm)
 
 ## Semana 14
 
