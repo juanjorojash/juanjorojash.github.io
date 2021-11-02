@@ -207,7 +207,7 @@ Electricidad I es un curso introductorio de fundamentos de circuitos eléctricos
 * [Problema 11.63](https://youtu.be/k7_hb1OJUnA)
 
 ### Tarea # 10
-* [Enunciado]()
+* [Enunciado](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EVLC3X1jpjhBkyZMi6WGssYB6RPIrkuBGp8xrgx7l4ZmQg?e=mHH0Nb)
 
 ## Semana 16
 
