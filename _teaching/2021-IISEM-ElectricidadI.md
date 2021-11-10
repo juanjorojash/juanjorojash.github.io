@@ -203,6 +203,7 @@ Electricidad I es un curso introductorio de fundamentos de circuitos eléctricos
 
 ### Potencia compleja
 
+* [Presentación](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/Ebv2j8RFBDBOvAuU7gQR6zsB8Hf4IbbraLr70P_ng-CerQ?e=G7FBrN)
 * [Problema 11.51](https://youtu.be/6K_Q6n64tAM)
 * [Problema 11.63](https://youtu.be/k7_hb1OJUnA)
 
