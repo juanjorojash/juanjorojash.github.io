@@ -141,12 +141,13 @@ Se incluye Manual, machote de informe y machote de investigación previa
 
 ### Segunda prueba de destrezas de laboratorio
 * Se realizará de forma individual por medio de un formulario de MS Forms 
+* [Solución](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/ETvAHL7gq2ZIskPQ0nEWVPMBdvSxDVEnlHCE3DcCiNkOYA?e=3qgsfg)
 
 ## Semana 15
 ### Entrega de investigación previa de Lab 11. Tec Digital
 
 ### Lab 12. Taller de Arduino
-* [Taller en Tinkercad](https://www.tinkercad.com/things/03BTHwza0Ef-copy-of-taller-de-arduino/editel?sharecode=zMFvkFTmE6VeuNQtS3ChZuNHkAnRTc3PJdjhOu7pPt4)
+* [Taller en Tinkercad](https://www.tinkercad.com/things/4n3Qfu5grMc-copy-of-temperatura-resistencia-corriente/editel?sharecode=5xvvrFeOsp4mgZHsY2LKc4oBZCRPxLzElVT3C_S1wu4)
 * [Datasheet del TMP36](https://www.analog.com/media/en/technical-documentation/data-sheets/TMP35_36_37.pdf)
 
 ## Semana 16

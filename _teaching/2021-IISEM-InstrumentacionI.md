@@ -126,4 +126,6 @@ Se incluye instructivo, machote de informe, presentaciones, tareas, etc.
 
 ## Semana 16
 
-### Reposición de laboratorio
+### Taller de Arduino
+* [Taller en Tinkercad](https://www.tinkercad.com/things/4n3Qfu5grMc-copy-of-temperatura-resistencia-corriente/editel?sharecode=5xvvrFeOsp4mgZHsY2LKc4oBZCRPxLzElVT3C_S1wu4)
+* [Datasheet del TMP36](https://www.analog.com/media/en/technical-documentation/data-sheets/TMP35_36_37.pdf)
