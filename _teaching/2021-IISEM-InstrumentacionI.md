@@ -118,7 +118,7 @@ Se incluye instructivo, machote de informe, presentaciones, tareas, etc.
 ### Medidas de propiedades ópticas 
 
 ### Tarea 6: 
-* [Enunciado]()
+* [Enunciado](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EV7n37iejB5DviOEq5QT_30B9-FejHRtQOklDrIyStvIKg?e=tOYXJr)
 
 ## Semana 15
 
