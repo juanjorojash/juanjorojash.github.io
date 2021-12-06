@@ -222,4 +222,4 @@ Electricidad I es un curso introductorio de fundamentos de circuitos eléctricos
 
 ### Examen III
 * [Enunciado](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EZI39opnuzdMjrJK_b6jtRwBvJUeCblqKjm0iB4d0AgrRA)
-* [Solución]()
+* [Solución](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/ERi3nCyxQ4VKlYE5qZm6qVABAhtZoZUsPjPIj2F2BAJOfg?e=dJmau1)
