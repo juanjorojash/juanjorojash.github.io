@@ -99,7 +99,7 @@ Hacer una cuenta con su correo de estudianTEC en [National Instruments](https://
 ## Semana 10
 ### Máquinas de estados
 * Definición de estados con enums
-* Estructur de ejecución por casos para máquinas de estados
+* Estructura de ejecución por casos para máquinas de estados
 * Medición basada en máquinas de estados
 
 ### Tarea 5
