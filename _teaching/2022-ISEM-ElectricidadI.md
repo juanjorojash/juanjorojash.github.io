@@ -1,8 +1,8 @@
 ---
 title: "Electricidad I - I Semestre 2022"
 collection: teaching
-type: "Curso de pregrado"
-permalink: /teaching/2022-IISEM-ElectricidadI
+type: "Curso de grado"
+permalink: /teaching/2022-ISEM-ElectricidadI
 venue: "Instituto Tecnológico de Costa Rica, Escuela de Ingeniería Eletromecánica"
 date: 2022-01-01
 location: "Cartago, Costa Rica"
