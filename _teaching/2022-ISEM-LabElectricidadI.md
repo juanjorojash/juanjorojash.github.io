@@ -19,12 +19,18 @@ Se incluye Manual, machote de informe y machote de investigación previa
 * [Thinkercad](https://www.tinkercad.com/dashboard)
 * [LT Spice](https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html)
 
+## Materiales que debe aportar el estudiante
+* [Breadboard](https://www.microjpm.com/products/mb-102-breadboard-830-pts/)
+* Resistencias (5 de c/u): [10Ω@1W](https://www.microjpm.com/products/a10o-1w-resistencia/); [20Ω@0.5W](https://www.microjpm.com/products/a20o-1-2-w-resistencia/); [100Ω@0.5W](https://www.microjpm.com/products/a100o-1-2-w-resistencia/); [20Ω@0.5W](https://www.microjpm.com/products/a200o-1-2-w-resistencia/); [330Ω@0.5W](https://www.microjpm.com/products/a330o-1-2-w-resistencia/9); [510Ω@0.5W](https://www.microjpm.com/products/a510o-1-2-w-resistencia/); [1kΩ@0.25W](https://www.microjpm.com/products/resistencia-1-4-w-1-ko/); [2kΩ@0.25W](https://www.microjpm.com/products/resistencia-1-4-w-2-ko/); [5.1kΩ@0.25W](https://www.microjpm.com/products/resistencia-1-4-w-5-1-ko/); [7.5kΩ@0.25W](https://www.microjpm.com/products/resistencia-1-4-w-7-5-ko/); [10kΩ@0.25W](https://www.microjpm.com/products/resistencia-1-4-w-10-ko/)
+* [2 potenciometros lineales de 10kΩ](https://www.microjpm.com/products/b10k-potenciometro-lineal-rotativo-10ko-pcb/)
+* [Cables macho-macho](https://www.crcibernetica.com/jumper-wire-kit-140pcs/) (también se pueden hacer usando cable telefónico 22AWG)
+* [Peladora 22-30AWG](https://www.microjpm.com/products/wire-strippers-30awg-hakko/)
+* [Multimetro digital TrueRMS](https://www.microjpm.com/products/ad58323/)
 
 # Contenidos
 
 ## Semana 1
 ### Aspectos administrativos del curso
-* Virtual
 * [Programa](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/ESqhT4gziylLrGIJULWr7PsBU3nvWZLKBZ5rzY-wtIwgqw)
 
 [//]: #(*[Cronograma](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EcR9EazOKlVKi6UjezfMHQ4BWBKMp9B0p2lxswi2pfOO5Q?e=kJBaEi))
