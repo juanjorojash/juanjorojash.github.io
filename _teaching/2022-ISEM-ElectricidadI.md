@@ -55,7 +55,8 @@ Electricidad I es un curso introductorio de fundamentos de circuitos eléctricos
 ### Nodos y supernodos
 * [Presentación](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EU8BeM5li-VJq3YxytFAChgB6jW2f6IUqtBDUlzYd_z2YQ?e=3FGTQQ)
 * [Clase asincrónica](https://youtu.be/0yTrAKQYVVw)
- 
+
+
 ### Mallas y supermallas
 * [Presentación](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/ETGkhf00n9NCtXuHF0dySoQBWQNbVpv7V8iwSw6vIi0I0Q?e=dJ821n)
 * [Clase asincrónica](https://youtu.be/5EhkEt3EgDc)
