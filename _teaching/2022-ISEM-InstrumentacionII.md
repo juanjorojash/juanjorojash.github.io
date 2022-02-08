@@ -10,6 +10,16 @@ location: "Cartago, Costa Rica"
 Este curso comprende el estudio de los conceptos intermedios de la instrumentación industrial y proporciona una base sólida en varios tópicos que quienes son profesionales en Ingeniería Física deben dominar para un exitoso desempeño con los sistemas de medición, presentes en un sinnúmero de actividades de ingeniería del mundo real.
 
 # Generales
+
+## Aspectos administrativos del curso
+* [Programa](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/Ed7ek1-q20hNu2qrLJxd20YB0GYuBZM9vuaQKYIwY5eKQA?e=NpbWlr)
+
+[//]: #(*[Cronograma](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EcR9EazOKlVKi6UjezfMHQ4BWBKMp9B0p2lxswi2pfOO5Q?e=kJBaEi))
+* Grupo 1 
+   * Horario: Martes, de las 09:30 a las 11:20.
+* Grupo 2
+   * Horario: Martes, de las 13:00 a las 14:50
+
 ## Repositorio de Overleaf (en proceso)
 Se incluye instructivo, machote de informe, presentaciones, tareas, etc. 
 * Click [aquí](https://www.overleaf.com/read/wvfwnwwfxqrb)
@@ -27,14 +37,6 @@ Hacer una cuenta con su correo de estudianTEC en [National Instruments](https://
 # Contenidos
 
 ## Semana 1.
-### Aspectos administrativos del curso
-* [Programa](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/Ed7ek1-q20hNu2qrLJxd20YB0GYuBZM9vuaQKYIwY5eKQA?e=NpbWlr)
-
-[//]: #(*[Cronograma](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EcR9EazOKlVKi6UjezfMHQ4BWBKMp9B0p2lxswi2pfOO5Q?e=kJBaEi))
-* Grupo 1 
-   * Horario: Martes, de las 09:30 a las 11:20.
-* Grupo 2
-   * Horario: Martes, de las 13:00 a las 14:50
 
 ### Introducción a la adquisición de datos y el entorno de LabVIEW
 * Tipos de señales
