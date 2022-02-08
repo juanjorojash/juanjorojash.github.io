@@ -39,9 +39,16 @@ Hacer una cuenta con su correo de estudianTEC en [National Instruments](https://
 ## Semana 1.
 
 ### Introducción a la adquisición de datos y el entorno de LabVIEW
-* Tipos de señales
-* Acondicionamiento de señales
-* Entorno de LabVIEW
+* Videos
+   * [Introducción a LabVIEW](https://learn.ni.com/learn/course/introduccin-a-labview-1/introduccin-a-labview/lesson-content?page=1)
+   * [Primera toma de medida](https://learn.ni.com/learn/course/primera-medida-dispositivo-ni-daq/primera-medida-dispositivo-ni-daq/lesson-content?page=1)
+
+* Temas
+   * Tipos de señales
+   * Acondicionamiento de señales
+   * Entorno de LabVIEW
+
+
 
 ## Semana 2
 ### Implementación de un instrumento virtual básico y su interfaz de usuario
