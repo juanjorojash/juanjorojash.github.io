@@ -24,6 +24,14 @@ Este curso comprende el estudio de los conceptos intermedios de la instrumentaci
 Se incluye instructivo, machote de informe, presentaciones, tareas, etc. 
 * Click [aquí](https://www.overleaf.com/read/wvfwnwwfxqrb)
 
+## Materiales que *puede* aportar el estudiante
+* [Breadboard](https://www.microjpm.com/products/mb-102-breadboard-830-pts/)
+* Resistencias (5 de c/u): [10Ω@1W](https://www.microjpm.com/products/a10o-1w-resistencia/); [20Ω@0.5W](https://www.microjpm.com/products/a20o-1-2-w-resistencia/); [47Ω@0.5W](https://www.microjpm.com/products/a47o-1-2-w-resistencia/); [100Ω@0.5W](https://www.microjpm.com/products/a100o-1-2-w-resistencia/); [200Ω@0.5W](https://www.microjpm.com/products/a200o-1-2-w-resistencia/); [330Ω@0.5W](https://www.microjpm.com/products/a330o-1-2-w-resistencia/9); [510Ω@0.5W](https://www.microjpm.com/products/a510o-1-2-w-resistencia/); [1kΩ@0.25W](https://www.microjpm.com/products/resistencia-1-4-w-1-ko/); [2kΩ@0.25W](https://www.microjpm.com/products/resistencia-1-4-w-2-ko/); [5.1kΩ@0.25W](https://www.microjpm.com/products/resistencia-1-4-w-5-1-ko/); [7.5kΩ@0.25W](https://www.microjpm.com/products/resistencia-1-4-w-7-5-ko/); [10kΩ@0.25W](https://www.microjpm.com/products/resistencia-1-4-w-10-ko/)
+* [2 LEDs rojos de 3mm difusos](https://www.microjpm.com/products/led-rojo-3mm-difuso/)
+* [2 potenciometros lineales de 10kΩ](https://www.microjpm.com/products/b10k-potenciometro-lineal-rotativo-10ko-pcb/)
+* [Cables macho-macho](https://www.crcibernetica.com/jumper-wire-kit-140pcs/) (también se pueden hacer usando cable telefónico 22AWG)
+* [Peladora 22-30AWG](https://www.microjpm.com/products/wire-strippers-30awg-hakko/)
+
 ## Software
 
 ### LabView
@@ -56,7 +64,7 @@ Hacer una cuenta con su correo de estudianTEC en [National Instruments](https://
 * Interfaz básica para medición de corriente y voltaje
 
 ### Tarea 1
-* Enunciado
+* [Enunciado]{https://estudianteccr-my.sharepoint.com/:f:/g/personal/prof_juan_rojas_estudiantec_cr/EnRzzkyXVadOpA_f6Xye5cUB8Bd9gybjBHux4Go529PRaQ?e=QWF7jp}
 
 ## Semana 3
 ### Práctica 1
