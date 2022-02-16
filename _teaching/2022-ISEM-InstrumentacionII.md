@@ -64,7 +64,7 @@ Hacer una cuenta con su correo de estudianTEC en [National Instruments](https://
 * Interfaz básica para medición de corriente y voltaje
 
 ### Tarea 1
-* [Enunciado]{https://estudianteccr-my.sharepoint.com/:f:/g/personal/prof_juan_rojas_estudiantec_cr/EnRzzkyXVadOpA_f6Xye5cUB8Bd9gybjBHux4Go529PRaQ?e=QWF7jp}
+* [Enunciado](https://estudianteccr-my.sharepoint.com/:f:/g/personal/prof_juan_rojas_estudiantec_cr/EnRzzkyXVadOpA_f6Xye5cUB8Bd9gybjBHux4Go529PRaQ?e=QWF7j)
 
 ## Semana 3
 ### Práctica 1
