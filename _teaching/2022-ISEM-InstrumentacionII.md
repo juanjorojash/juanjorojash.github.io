@@ -34,6 +34,9 @@ Hacer una cuenta con su correo de estudianTEC en [National Instruments](https://
 ### Python
 * [Recursos de programación en Python](https://colab.research.google.com/drive/1TrtqVwD_lF93SbthUov8ByRv9OJy6gMx?usp=sharing)
 
+### ASCCI
+* [Tabla ASCII](https://ilearn.fife.ac.uk/pluginfile.php/18961/mod_resource/content/1/ASCII%20Table.jpg)
+
 # Contenidos
 
 ## Semana 1.
@@ -70,6 +73,8 @@ Hacer una cuenta con su correo de estudianTEC en [National Instruments](https://
 * Clústers
 * Enums
 * Mediciones multicanal y multimuestral
+
+* [Estructuras de datos en LabVIEW](https://www.ni.com/getting-started/labview-basics/esa/data-structures)
 
 ### Tarea 2
 * Enunciado
