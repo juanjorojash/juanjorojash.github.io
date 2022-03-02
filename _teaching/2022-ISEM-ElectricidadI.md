@@ -107,8 +107,8 @@ Electricidad I es un curso introductorio de fundamentos de circuitos eléctricos
 ## Semana 8
 
 ### Examen I
-* [Enunciado](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EULKiGMSY5ZMtrnKGccjq_8B_A8kJ5-1dY2TRHJBALQLlA)
-* [Solución](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EbDPJ53GqnVBuib4wqp0NhoB-OqCd2Xg6KgKy1ieVlJkFQ?e=UWOTIU)
+* [Enunciado]()
+* [Solución]()
 
 ## Semana 9
 
@@ -153,8 +153,8 @@ Electricidad I es un curso introductorio de fundamentos de circuitos eléctricos
 ## Semana 12
 
 ### Examen II
-* [Enunciado](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/Edpreo2lDBdFvutOSz8hA0gBmuoN-8wIpUa2Dnb22-bkQQ)
-* [Solución](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EQjkcDT3sQlDuGnQLIYT4jsB3AJ30J39F5l_eR0qzVqznA?e=Y7mW2h)
+* [Enunciado]()
+* [Solución]()
 
 ## Semana 13
 
@@ -218,5 +218,5 @@ Electricidad I es un curso introductorio de fundamentos de circuitos eléctricos
 ## Semana 17
 
 ### Examen III
-* [Enunciado](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EZI39opnuzdMjrJK_b6jtRwBvJUeCblqKjm0iB4d0AgrRA)
+* [Enunciado]()
 * [Solución]()
