@@ -48,7 +48,7 @@ Electricidad I es un curso introductorio de fundamentos de circuitos eléctricos
 * [Documento de problemas con respuesta](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EXghntOtq8dNqkAFBQZkLrwBrMzkyhJjFnjL6CMNF6P1_w?e=qCsxtG)
 
 ### Tarea # 2
-* [Enunciado]()
+* [Enunciado](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EQI3TLyXxs1KsAOHbLVKb4sBE7uT22Te4ki8OsjiRnKCpg)
 
 ## Semana 4
 
@@ -68,7 +68,7 @@ Electricidad I es un curso introductorio de fundamentos de circuitos eléctricos
 * [Problema 3.63. Mallas y supermallas](https://youtu.be/eoNDHvzIkPw)
 
 ### Tarea # 3
-* [Enunciado]()
+* [Enunciado](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EZ8vUBdzTWpJrHtpKPL-rBMB3wuvm-FdhdG3S7tru-XLoA)
 
 ## Semana 5
 
