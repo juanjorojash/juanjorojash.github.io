@@ -82,10 +82,11 @@ Hacer una cuenta con su correo de estudianTEC en [National Instruments](https://
 * Enums
 * Mediciones multicanal y multimuestral
 
+### Lectura extraclase
 * [Estructuras de datos en LabVIEW](https://www.ni.com/getting-started/labview-basics/esa/data-structures)
 
 ### Tarea 2
-* Enunciado
+* [Enunciado](file:///C:/Users/juanj/OneDrive%20-%20Estudiantes%20ITCR/Instrumentaci%C3%B3n%20II/Tareas/t2_enunciado.pdf)
 
 ## Semana 5
 ### Práctica 2
