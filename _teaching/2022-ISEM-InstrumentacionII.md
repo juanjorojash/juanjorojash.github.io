@@ -86,7 +86,7 @@ Hacer una cuenta con su correo de estudianTEC en [National Instruments](https://
 * [Estructuras de datos en LabVIEW](https://www.ni.com/getting-started/labview-basics/esa/data-structures)
 
 ### Tarea 2
-* [Enunciado](file:///C:/Users/juanj/OneDrive%20-%20Estudiantes%20ITCR/Instrumentaci%C3%B3n%20II/Tareas/t2_enunciado.pdf)
+* [Enunciado](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EYChsp9EOF9Nls0_UV33GagBIJjNcCVbgfAdYlPXDJgVRA)
 
 ## Semana 5
 ### Práctica 2
