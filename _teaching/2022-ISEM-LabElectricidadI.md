@@ -68,7 +68,7 @@ Se incluye Manual, machote de informe y machote de investigación previa
 ### Entrega de investigación previa de Lab 4. Tec Digital
 
 ### Lab 4. Taller de simulación de circuitos
-* Virtual
+* Presencial
 * [Video](https://youtu.be/zHD7Y2LBVH0)
 
 ## Semana 6
