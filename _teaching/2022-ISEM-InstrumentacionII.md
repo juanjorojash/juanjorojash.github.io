@@ -100,7 +100,7 @@ Hacer una cuenta con su correo de estudianTEC en [National Instruments](https://
 * Mediciones temporizadas detenidas programáticamente
 
 ### Tarea 3
-* Enunciado
+* [Enunciado](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EftqSmHizehKlhgCN9N0p_4BlyE4OitN_96rgeF0GfBy9Q?e=zb3ygo)
 
 ## Semana 7
 ### Práctica 3
