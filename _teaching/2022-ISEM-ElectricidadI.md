@@ -107,7 +107,7 @@ Electricidad I es un curso introductorio de fundamentos de circuitos eléctricos
 ## Semana 8
 
 ### Examen I
-* [Enunciado]()
+* [Enunciado](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EY4GqMhb3D5GvJYHwOtenRIBIjdsmOLKB1SSsxMTbw6Wfg?e=bdKeFV)
 * [Solución]()
 
 ## Semana 9
