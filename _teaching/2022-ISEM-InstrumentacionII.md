@@ -109,7 +109,11 @@ Hacer una cuenta con su correo de estudianTEC en [National Instruments](https://
 ### Manejo de archivos y protocolos de comunicación serial
 * Guardado de datos medidos en archivos
 * Comunicación serial básica entre dos dispositivos
+   * [Video UART](https://www.youtube.com/watch?v=odN66E85J5E)
 * Comunicación con sensores usando protocolo I2C o SPI
+   * [Video: SPI](https://www.youtube.com/watch?v=GaXtDamw5As)
+   * [Video: I2C](https://www.youtube.com/watch?v=7CgNF78pYQM)
+
 
 ### Tarea 4
 * Enunciado
