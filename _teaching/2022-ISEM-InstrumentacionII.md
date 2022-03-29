@@ -117,6 +117,9 @@ Hacer una cuenta con su correo de estudianTEC en [National Instruments](https://
    * [Video: SPI](https://www.youtube.com/watch?v=GaXtDamw5As)
    * [Video: I2C](https://www.youtube.com/watch?v=7CgNF78pYQM)
 
+### MAX31855 con myRIO
+* [Video](https://youtu.be/QxHD7xIKugQ)
+
 
 ### Tarea 4
 * Enunciado
