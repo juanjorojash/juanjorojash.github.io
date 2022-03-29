@@ -99,6 +99,9 @@ Hacer una cuenta con su correo de estudianTEC en [National Instruments](https://
 * Túneles
 * Mediciones temporizadas detenidas programáticamente
 
+### Lectura extraclase 
+* [Estructuras de ejecución en LabVIEW](https://www.ni.com/getting-started/labview-basics/esa/execution-structures)
+
 ### Tarea 3
 * [Enunciado](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EftqSmHizehKlhgCN9N0p_4BlyE4OitN_96rgeF0GfBy9Q?e=zb3ygo)
 
