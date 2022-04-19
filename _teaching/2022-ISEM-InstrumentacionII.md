@@ -34,7 +34,7 @@ Se incluye instructivo, machote de informe, presentaciones, tareas, etc.
 
 ## Software
 
-### LabView
+### LabVIEW
 Hacer una cuenta con su correo de estudianTEC en [National Instruments](https://www.ni.com/es-cr.html). 
 * Descargar LabVIEW 2021, versión "Comunidad" [acá](https://www.ni.com/es-cr/support/downloads/software-products/download.labview.html#411209)
 * Descargar DAQmx [acá](https://www.ni.com/es-cr/support/downloads/drivers/download/packaged.ni-daqmx.428058.html)
@@ -120,10 +120,6 @@ Hacer una cuenta con su correo de estudianTEC en [National Instruments](https://
 ### MAX31855 con myRIO
 * [Video](https://youtu.be/QxHD7xIKugQ)
 
-
-### Tarea 4
-* Enunciado
-
 ## Semana 9
 ### Práctica 4
 
@@ -133,7 +129,10 @@ Hacer una cuenta con su correo de estudianTEC en [National Instruments](https://
 * Estructura de ejecución por casos para máquinas de estados
 * Medición basada en máquinas de estados
 
-### Tarea 5
+### Maquina de estados en LabVIEW
+* [Video](https://youtu.be/Mz9dNbMK1iA)
+
+### Tarea 4
 * Enunciado
 
 ## Semana 11
