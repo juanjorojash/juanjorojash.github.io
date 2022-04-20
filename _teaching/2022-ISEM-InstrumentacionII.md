@@ -133,7 +133,7 @@ Hacer una cuenta con su correo de estudianTEC en [National Instruments](https://
 * [Video](https://youtu.be/Mz9dNbMK1iA)
 
 ### Tarea 4
-* Enunciado
+* [Enunciado](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EZJDIJGXJeVGj-D7-qSxP5wBfVA3eemsDpZHcZ4OfjNkyA?e=2rzWzL)
 
 ## Semana 11
 ### Práctica 5
