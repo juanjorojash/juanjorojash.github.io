@@ -143,6 +143,9 @@ Hacer una cuenta con su correo de estudianTEC en [National Instruments](https://
 * Definición e integración de módulos
 * Sistema de medición modular
 
+### Aplicaciones modulares LabVIEW
+* [Video](https://youtu.be/EC57StfQYWc)
+
 ## Semana 13
 ### Práctica 6
 
