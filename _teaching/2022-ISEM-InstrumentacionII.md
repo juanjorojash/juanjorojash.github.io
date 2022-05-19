@@ -155,6 +155,9 @@ Hacer una cuenta con su correo de estudianTEC en [National Instruments](https://
 * Control de instrumentos externos
 * Control de actuadores externos
 
+### Tarea 5
+* [Enunciado](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/ESxcpzdihflPiZr1NDdhof4B9Ybnye1SKa9Q4WmWH3tygw?e=ZYiHqG)
+
 ## Semana 15
 ### Práctica 7
 
