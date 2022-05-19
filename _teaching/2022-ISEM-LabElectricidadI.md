@@ -144,8 +144,8 @@ Se incluye Manual, machote de informe y machote de investigación previa
 ### Entrega de investigación previa de Lab 11. Tec Digital
 
 ### Lab 12. Taller de Arduino
-* Virtual
-* [Taller en Tinkercad](https://www.tinkercad.com/things/4n3Qfu5grMc-copy-of-temperatura-resistencia-corriente/editel?sharecode=5xvvrFeOsp4mgZHsY2LKc4oBZCRPxLzElVT3C_S1wu4)
+* Presencial
+* [Taller en Tinkercad](https://www.tinkercad.com/things/4n3Qfu5grMc-copia-para-compartir-temperatura-resistencia-corriente/editel?sharecode=obWSoDwlYgvayxb8B1uPYEKQD59g_jXeFdmnr8A4Lik)
 * [Datasheet del TMP36](https://www.analog.com/media/en/technical-documentation/data-sheets/TMP35_36_37.pdf)
 
 ## Semana 16
