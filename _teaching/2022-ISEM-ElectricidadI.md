@@ -154,7 +154,7 @@ Electricidad I es un curso introductorio de fundamentos de circuitos eléctricos
 
 ### Examen II
 * [Enunciado](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/Eak7jIdALUlArLaP5Xx05zcBugzdWYB4wmoAwvs6xBvP2g?e=PgNtmI)
-* [Solución]()
+* [Solución](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EVD3X9w_uBhLoy7LvhsdfqMBxhe48Dc3V8orc7qT14kFrw?e=Oo2iE3)
 
 ## Semana 13
 
