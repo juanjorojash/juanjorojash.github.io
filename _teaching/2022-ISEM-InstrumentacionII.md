@@ -153,7 +153,9 @@ Hacer una cuenta con su correo de estudianTEC en [National Instruments](https://
 ### Sistemas integrados de medición
 * SCPI
 * Control de instrumentos externos
-* Control de actuadores externos
+
+### Control de instrumetnos externos en LabVIEW (SCPI)
+* [Video](https://youtu.be/2TSfAIXaLtQ)
 
 ### Tarea 5
 * [Enunciado](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/ESxcpzdihflPiZr1NDdhof4B9Ybnye1SKa9Q4WmWH3tygw?e=ZYiHqG)
