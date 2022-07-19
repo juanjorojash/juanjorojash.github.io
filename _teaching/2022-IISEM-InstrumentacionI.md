@@ -35,15 +35,12 @@ Se incluye instructivo, machote de informe, presentaciones, tareas, etc.
 
 ## Semana 1
 ### Aspectos administrativos del curso
-* [Programa](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EQVFkz82K1lHmOT_3umZ4XsBtAgky_hNbrUIx1mNGu154g?e=bq4KkL)
+* [Programa](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EQVFkz82K1lHmOT_3umZ4XsBtAgky_hNbrUIx1mNGu154g)
 
-[//]: #(*[Cronograma](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EcR9EazOKlVKi6UjezfMHQ4BWBKMp9B0p2lxswi2pfOO5Q?e=kJBaEi))
 * Grupo 1 
-   * Horario: Martes, de las 15:00 a las 14:50.
-   * Profesor: MSc. Hugo Sanchez Ortiz
+   * Horario: Miercoles, de las 07:30 a las 09:20
 * Grupo 2
-   * Horario: Viernes, de las 09:30 a las 11:20
-   * Profesor: Dr-Ing. Juan J. Rojas
+   * Horario: Miercoles, de las 09:30 a las 11:20
 
 ## Semana 2
 ### Introducción a la Instrumentación Industrial. Sesión 1
