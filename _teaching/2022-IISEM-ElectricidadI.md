@@ -1,10 +1,10 @@
 ---
-title: "Electricidad I - I Semestre 2022"
+title: "Electricidad I - II Semestre 2022"
 collection: teaching
 type: "Curso de grado"
-permalink: /teaching/2022-ISEM-ElectricidadI
+permalink: /teaching/2022-IISEM-ElectricidadI
 venue: "Instituto Tecnológico de Costa Rica, Escuela de Ingeniería Eletromecánica"
-date: 2022-01-01
+date: 2022-07-01
 location: "Cartago, Costa Rica"
 ---
 Electricidad I es un curso introductorio de fundamentos de circuitos eléctricos. En el curso se estudian los conceptos básicos, teoremas y métodos de análisis de circuitos en corriente directa, luego se estudia la respuesta natural y forzada de los circuitos RL y RC, y por último se estudian para luego estudiar conceptos básicos, teoremas y métodos de análisis de circuitos en corriente alterna.
@@ -15,14 +15,14 @@ Electricidad I es un curso introductorio de fundamentos de circuitos eléctricos
 [//]: #(*[Cronograma](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/ERcQ4Ar5FF5CrTkj47-sEBUBA5ScynzkV4yrZE3WK_USNw?e=RYAqks))
 
 * Horario
-   * Lunes, de las 17:30 a las 18:30 y de las 18:50 a las 19:50
+   * Martes, de las 13:00 a las 15:50
 
 ## Recursos
 * [Recursos de programación en Python](https://colab.research.google.com/drive/1iNw40lY75LinoTdFgxM47JrHFZ1AQqky?usp=sharing)
 
 # Contenidos
 
-## Semana 1
+## Semana 1 (26/07)
 
 ### Estuctura atómica, carga y campo eléctrico
 * [Presentación](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EYVDyVyqFV5DmNMbQuG5k7MBgPYQV2FaFqxZWcm6uNSqCw?e=h8tLa0)
@@ -31,7 +31,7 @@ Electricidad I es un curso introductorio de fundamentos de circuitos eléctricos
    * [Niveles de energía](https://www.youtube.com/watch?v=J-DjEIlynjE) 
    * [Configuración electrónica](https://www.youtube.com/watch?v=diCGRJskeDA)
 
-## Semana 2
+## Semana 2 (02/08)
 
 ### Conceptos básicos
 * [Presentación](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/Eem9AsZIy8tDnncCvBGQaL4B1SHKZufIOKxpGpWiJoU5og?e=8BRyOp)
@@ -40,7 +40,7 @@ Electricidad I es un curso introductorio de fundamentos de circuitos eléctricos
 ### Tarea # 1
 * [Enunciado](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EdId4HEXT1ZKu_CcYqp8Xf8B7jW8GP4yU-h0etowk2Nqyw)
 
-## Semana 3
+## Semana 3 (09/08)
 ### Leyes básicas
 * [Presentación](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EXAR_6UUSDRDhEgHbSyTmsEBpfdmH8W_TJ2gwwVXluJ3iw?e=fzxrgp)
 
@@ -50,7 +50,7 @@ Electricidad I es un curso introductorio de fundamentos de circuitos eléctricos
 ### Tarea # 2
 * [Enunciado](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EQI3TLyXxs1KsAOHbLVKb4sBE7uT22Te4ki8OsjiRnKCpg)
 
-## Semana 4
+## Semana 4 (16/08)
 
 ### Nodos y supernodos
 * [Presentación](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EU8BeM5li-VJq3YxytFAChgB6jW2f6IUqtBDUlzYd_z2YQ?e=3FGTQQ)
@@ -70,7 +70,7 @@ Electricidad I es un curso introductorio de fundamentos de circuitos eléctricos
 ### Tarea # 3
 * [Enunciado](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EZ8vUBdzTWpJrHtpKPL-rBMB3wuvm-FdhdG3S7tru-XLoA)
 
-## Semana 5
+## Semana 5 (23/08)
 
 ### Superposición y transformación de fuentes
 * [Presentación](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EU6dkityo91HiX5SHxoYQi0BbpC8iSpzy6Y8u_hBykzXwA?e=3Mdo06)
@@ -84,7 +84,7 @@ Electricidad I es un curso introductorio de fundamentos de circuitos eléctricos
 ### Problemas complementarios
 * [Documento de problemas con respuesta](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EZZcY8qIUGhPjIQ98L8q4x0BRS-EcCZb2NU--OP7j9dkcA?e=OPHDpY)
 
-## Semana 6
+## Semana 6 (30/08)
 
 ### Thevenin, Norton y Máxima transferencia de potencia
 * [Presentación](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EaoLycwevS5KipXM7ZG2Ai4BKVvp7Oxh8NlUCA_01KheoQ?e=JS5jOa)
@@ -100,17 +100,17 @@ Electricidad I es un curso introductorio de fundamentos de circuitos eléctricos
 ### Tarea # 5
 * [Enunciado](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EXiN6WQEg51NoI-RvwW_V4EBcbhl3x0nw_gDy29AIf7RwA)
 
-## Semana 7
+## Semana 7 (06/09)
 
 ### Practica para examen
 
-## Semana 8
+## Semana 8 (13/09)
 
 ### Examen I
 * [Enunciado](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EY4GqMhb3D5GvJYHwOtenRIBIjdsmOLKB1SSsxMTbw6Wfg?e=bdKeFV)
 * [Solución](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EdjmRolZvKxNv7ifk35DrdcBh3Zr3ro66ysVAbu-QD0CUw?e=QKzhhK)
 
-## Semana 9
+## Semana 9 (20/09)
 
 ### Capacitores e Inductores
 * [Presentación](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EaIH-3Q7sz5JiEUXiDEErZQBQ8u3SOznNmbj_yyphSLcbA?e=CnwR9g)
@@ -126,7 +126,7 @@ Electricidad I es un curso introductorio de fundamentos de circuitos eléctricos
 ### Tarea # 6
 * [Enunciado](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EXsZ6qnJCXFIu8Wj6bfSc-EBIpGHLcxo9If9Thkqd7Bdcw)
 
-## Semana 10
+## Semana 10 (27/09)
 
 ### Funciones de singularidad
 * [Presentación](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/Ec2r74zTcJdEpK5MOtv-lHcBA4JsnZZ0V6WwAs9IikJDhA?e=eh9ytH)
@@ -146,17 +146,17 @@ Electricidad I es un curso introductorio de fundamentos de circuitos eléctricos
 ### Tarea # 7
 * [Enunciado](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EY5tQXMgh75GnRqwicOFNP8BjvIaibQ80MjICMHNKQXk_Q)
 
-## Semana 11
+## Semana 11 (04/10)
 
 ### Practica para examen
 
-## Semana 12
+## Semana 12 (11/10)
 
 ### Examen II
 * [Enunciado](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/Eak7jIdALUlArLaP5Xx05zcBugzdWYB4wmoAwvs6xBvP2g?e=PgNtmI)
 * [Solución](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EVD3X9w_uBhLoy7LvhsdfqMBxhe48Dc3V8orc7qT14kFrw?e=Oo2iE3)
 
-## Semana 13
+## Semana 13 (18/10)
 
 ### Senoides y Fasores
 * [Presentación](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EVYOP_XB1gdFiPg6MVrzPLMBTNCxnatSmHSIpyypY196Aw?e=7xqIyl) 
@@ -169,7 +169,7 @@ Electricidad I es un curso introductorio de fundamentos de circuitos eléctricos
 ### Tarea # 8
 * [Enunciado]()
 
-## Semana 14
+## Semana 14 (25/10)
 
 ### Nodos en CA
 
@@ -189,7 +189,7 @@ Electricidad I es un curso introductorio de fundamentos de circuitos eléctricos
 ### Tarea # 9
 * [Enunciado](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EUQkxyZP8nFEgCZYudwvdXUBmYtaiSwqnZbYOKcO1K-F9A)
 
-## Semana 15
+## Semana 15 (01/11)
 
 [//]: # (Teorema de superposición en CA) 
 
@@ -207,7 +207,7 @@ Electricidad I es un curso introductorio de fundamentos de circuitos eléctricos
 ### Tarea # 10
 * [Enunciado]()
 
-## Semana 16
+## Semana 16 (08/11)
 
 ### Corrección del factor de potencia
 * [Problema 11.72](https://youtu.be/BAZltzFz_S4)
@@ -215,7 +215,7 @@ Electricidad I es un curso introductorio de fundamentos de circuitos eléctricos
 ### Máxima transferencia de potencia promedio
 * [Problema 11.15](https://youtu.be/Cs8oqEDo1tQ)
 
-## Semana 17
+## Semana 17 (15/11)
 
 ### Examen III
 * [Enunciado](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/ERx4spfF9cZLmPW3YBWYUUEB9GlNnTCC46FcGd6QgTJD0w?e=uzNCaN)
