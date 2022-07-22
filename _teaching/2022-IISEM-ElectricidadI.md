@@ -38,9 +38,10 @@ Tareas | 18%
 ### Estuctura atómica, carga y campo eléctrico
 * [Presentación](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EYVDyVyqFV5DmNMbQuG5k7MBgPYQV2FaFqxZWcm6uNSqCw?e=h8tLa0)
 * [Clase asincrónica](https://youtu.be/twXnxkySVHo) 
-* Videos complementarios de otros autores:
-   * [Niveles de energía](https://www.youtube.com/watch?v=J-DjEIlynjE) 
-   * [Configuración electrónica](https://www.youtube.com/watch?v=diCGRJskeDA)
+
+### Videos complementarios de otros autores:
+* [Niveles de energía](https://www.youtube.com/watch?v=J-DjEIlynjE) 
+* [Configuración electrónica](https://www.youtube.com/watch?v=diCGRJskeDA)
 
 ### Conceptos básicos
 * [Presentación](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/Eem9AsZIy8tDnncCvBGQaL4B1SHKZufIOKxpGpWiJoU5og?e=8BRyOp)
@@ -48,6 +49,9 @@ Tareas | 18%
 
 ### Tarea # 1
 * [Enunciado](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EdId4HEXT1ZKu_CcYqp8Xf8B7jW8GP4yU-h0etowk2Nqyw)
+
+### Quiz # 1
+* [Formulario](https://forms.office.com/Pages/ResponsePage.aspx?id=nR3Pv-qTsUO5Ah2qaKZCSBILJBzzluxLhq5m4avaILdUMVVLMTVKRklGNUhBSzlNWVpQQ002MzMzVS4u)
 
 ## Semana 3 (09/08)
 
