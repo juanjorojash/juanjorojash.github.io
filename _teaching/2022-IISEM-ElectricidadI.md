@@ -48,7 +48,7 @@ Tareas | 18%
 * [Clase asincrónica](https://youtu.be/CoiBW32Tq9c) 
 
 ### Tarea # 1
-* [Enunciado](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/ES1H3GjGESRNnhgyL3AWwvMBvaU388wpMtx_nM_GZ9JM7g?e=7besuo)
+* [Enunciado](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/ES1H3GjGESRNnhgyL3AWwvMBFxPwIzGbfM84ykfEkaDNrA?e=2Wkcre)
 
 ### Quiz # 1
 * [Formulario](https://forms.office.com/Pages/ResponsePage.aspx?id=nR3Pv-qTsUO5Ah2qaKZCSBILJBzzluxLhq5m4avaILdUMVVLMTVKRklGNUhBSzlNWVpQQ002MzMzVS4u)
