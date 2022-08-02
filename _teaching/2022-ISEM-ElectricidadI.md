@@ -38,7 +38,7 @@ Electricidad I es un curso introductorio de fundamentos de circuitos eléctricos
 * [Clase asincrónica](https://youtu.be/CoiBW32Tq9c) 
 
 ### Tarea # 1
-* [Enunciado](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EdId4HEXT1ZKu_CcYqp8Xf8B7jW8GP4yU-h0etowk2Nqyw)
+* [Enunciado](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/ES1H3GjGESRNnhgyL3AWwvMBvaU388wpMtx_nM_GZ9JM7g?e=7besuo)
 
 ## Semana 3
 ### Leyes básicas
@@ -48,7 +48,7 @@ Electricidad I es un curso introductorio de fundamentos de circuitos eléctricos
 * [Documento de problemas con respuesta](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EXghntOtq8dNqkAFBQZkLrwBrMzkyhJjFnjL6CMNF6P1_w?e=qCsxtG)
 
 ### Tarea # 2
-* [Enunciado](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EQI3TLyXxs1KsAOHbLVKb4sBE7uT22Te4ki8OsjiRnKCpg)
+* [Enunciado](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EU8vseXRTptEvjgpoqTWf1cBmd9aWn6G2qC-3wah-RcBxg?e=cxFLiq)
 
 ## Semana 4
 
