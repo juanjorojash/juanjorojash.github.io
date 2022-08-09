@@ -62,7 +62,7 @@ Tareas | 18%
 * [Enunciado](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EU8vseXRTptEvjgpoqTWf1cBmd9aWn6G2qC-3wah-RcBxg?e=cxFLiq)
 
 ### Quiz # 2
-* [Formulario](https://forms.office.com/Pages/ResponsePage.aspx?id=nR3Pv-qTsUO5Ah2qaKZCSBILJBzzluxLhq5m4avaILdUMVVLMTVKRklGNUhBSzlNWVpQQ002MzMzVS4u)
+* [Formulario](https://forms.office.com/Pages/ResponsePage.aspx?id=nR3Pv-qTsUO5Ah2qaKZCSBILJBzzluxLhq5m4avaILdUMkFaVUJMM1laTUtXN0EyUzU4NFQ5UlEzTC4u)
 
 ## Semana 4 (16/08)
 
