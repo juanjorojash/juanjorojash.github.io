@@ -48,7 +48,7 @@ Tareas | 18%
 * [Clase asincrónica](https://youtu.be/CoiBW32Tq9c) 
 
 ### Tarea # 1
-* [Enunciado](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EdId4HEXT1ZKu_CcYqp8Xf8B7jW8GP4yU-h0etowk2Nqyw)
+* [Enunciado](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/ES1H3GjGESRNnhgyL3AWwvMBFxPwIzGbfM84ykfEkaDNrA?e=2Wkcre)
 
 ### Quiz # 1
 * [Formulario](https://forms.office.com/Pages/ResponsePage.aspx?id=nR3Pv-qTsUO5Ah2qaKZCSBILJBzzluxLhq5m4avaILdUMVVLMTVKRklGNUhBSzlNWVpQQ002MzMzVS4u)
@@ -59,7 +59,7 @@ Tareas | 18%
 * [Presentación](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EXAR_6UUSDRDhEgHbSyTmsEBpfdmH8W_TJ2gwwVXluJ3iw?e=fzxrgp)
 
 ### Tarea # 2
-* [Enunciado](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EQI3TLyXxs1KsAOHbLVKb4sBE7uT22Te4ki8OsjiRnKCpg)
+* [Enunciado](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EU8vseXRTptEvjgpoqTWf1cBmd9aWn6G2qC-3wah-RcBxg?e=cxFLiq)
 
 ### Quiz # 2
 * [Formulario](https://forms.office.com/Pages/ResponsePage.aspx?id=nR3Pv-qTsUO5Ah2qaKZCSBILJBzzluxLhq5m4avaILdUMVVLMTVKRklGNUhBSzlNWVpQQ002MzMzVS4u)
