@@ -88,7 +88,7 @@ Prácticas | 60%
 
 ## Semana 7 (07/09) (JP)
 
-### [Taller sobre visualización de datos en Python](https://teams.microsoft.com/l/channel/19%3AEY0dO9PbvVOWya-1G_42RFysF_EHeb6317TFUwJAmOU1%40thread.tacv2/tab%3A%3Aaec2ee15-b4bc-46ea-8feb-0252d7dd017f?groupId=95733c28-d2d0-4b20-879a-5687d5c03149&tenantId=bfcf1d9d-93ea-43b1-b902-1daa68a64248)
+### [Taller sobre lectura, manipulación, transformación y visualización de datos](https://colab.research.google.com/drive/1TsrwU_f3kp4RvPzwJnXl43CdO0Btc9y_?usp=sharing)
 
 ## Semana 8 (14/09)
 
