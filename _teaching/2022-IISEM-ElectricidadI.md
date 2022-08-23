@@ -95,6 +95,9 @@ Tareas | 18%
 ### Tarea # 4
 * [Enunciado](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/ETBpTWaVMEBOkPersUHVOgkBU1ErfcKv71jvfxtPNChO4A)
 
+### Quiz # 3
+* [Formulario](https://forms.office.com/r/sVfH6RrKXT)
+
 ## Semana 6 (30/08) (JP)
 
 ### Thevenin, Norton y Máxima transferencia de potencia
