@@ -142,6 +142,9 @@ Tareas | 18%
 ### Tarea # 6
 * [Enunciado](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EXsZ6qnJCXFIu8Wj6bfSc-EBIpGHLcxo9If9Thkqd7Bdcw)
 
+### Quiz #4
+* [Formulario](https://forms.office.com/Pages/ResponsePage.aspx?id=nR3Pv-qTsUO5Ah2qaKZCSBILJBzzluxLhq5m4avaILdUMlhJREtOMzY3T1k1VjlLTURQUlVGVlk4Vi4u)
+
 ## Semana 9 (20/09)
 
 ### Funciones de singularidad
@@ -163,9 +166,6 @@ Tareas | 18%
 
 ### Tarea # 7
 * [Enunciado](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EY5tQXMgh75GnRqwicOFNP8BjvIaibQ80MjICMHNKQXk_Q)
-
-### Quiz #4
-* [Formulario](https://forms.office.com/Pages/ResponsePage.aspx?id=nR3Pv-qTsUO5Ah2qaKZCSBILJBzzluxLhq5m4avaILdUMlhJREtOMzY3T1k1VjlLTURQUlVGVlk4Vi4u)
 
 ## Semana 10 (27/09)
 
