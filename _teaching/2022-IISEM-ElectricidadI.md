@@ -122,6 +122,8 @@ Tareas | 18%
 
 ### Examen I
 
+* [Solución](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EdjmRolZvKxNv7ifk35DrdcBh3Zr3ro66ysVAbu-QD0CUw)
+
 ## Semana 8 (13/09)
 
 ### Capacitores e Inductores
