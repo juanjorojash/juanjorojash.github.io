@@ -31,6 +31,13 @@ Se incluye instructivo, machote de informe, presentaciones, tareas, etc.
 ### Capstone
    * [Video sobre configuración](https://youtu.be/JOZz-7b-sLE)
 
+## Hardware 
+
+### [Arduino MEGA 2560](https://docs.arduino.cc/hardware/mega-2560)
+* [Datasheet](https://docs.arduino.cc/static/05b4951fcc463b2fed4e47dc4b4da0e0/A000067-datasheet.pdf)
+* [Pinout](https://docs.arduino.cc/static/2de2c8ff00fc05065634e3823a9266c4/A000067-pinout.png)
+
+
 # Contenidos
 
 ## Semana 1 (27/07)

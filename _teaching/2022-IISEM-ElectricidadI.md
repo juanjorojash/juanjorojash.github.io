@@ -223,7 +223,7 @@ Tareas | 18%
 * [Norton en CA: Problema 10.64](https://youtu.be/XXcemoZO-pU)
 
 ### Tarea # 10
-* [Enunciado]()
+* [Enunciado](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EVLC3X1jpjhBkyZMi6WGssYB6RPIrkuBGp8xrgx7l4ZmQg)
 
 ## Semana 14 (25/10)
 
