@@ -139,7 +139,7 @@ Prácticas | 60%
 ## Semana 15 (01/11)
 
 ### Taller de Arduino con sensores analógicos
-* [Datasheet del TMP36](https://www.analog.com/media/en/technical-documentation/data-sheets/TMP35_36_37.pdf)
+* [Código](https://estudianteccr-my.sharepoint.com/:f:/g/personal/prof_juan_rojas_estudiantec_cr/EiZQanZaqLBEuooVSueZwVoBm77Pjx44wIJ2PScI1sPqSw?e=0LDAL1)
 
 ## Semana 16 (08/11)
 
