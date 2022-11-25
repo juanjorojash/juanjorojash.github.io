@@ -18,9 +18,10 @@ Electricidad I es un curso introductorio de fundamentos de circuitos eléctricos
 ## Examenes anteriores
 * [Examenes viejos](https://estudianteccr-my.sharepoint.com/:f:/g/personal/prof_juan_rojas_estudiantec_cr/EmejnGo_GM1MrUtDixdi8KgB1opseAQVWkFun5VE7xtZ_Q?e=sv3TLi)
 
-### Método de enseñanza-aprendizaje
+## Método de enseñanza-aprendizaje
 * [Modelo pedagógico del TEC](https://www.tec.ac.cr/modelo-pedagogico-tec)
-* [Método de clase invertida](https://www3.gobiernodecanarias.org/medusa/ecoescuela/pedagotic/files/2018/11/flipped-classroom.pdf)
+* [Método de aula inversa](https://www3.gobiernodecanarias.org/medusa/ecoescuela/pedagotic/files/2018/11/flipped-classroom.pdf): es un enfoque pedagógico en el que la instrucción directa se realiza fuera del aula y se utiliza el tiempo de clae para llevar a cabo actividades que impliquen el desarrollo de procesos cognitivos de mayor complejidad, en la que son necesarias la ayuda y la experiencia del docente. 
+
 
 # Contenidos
 
