@@ -1,25 +1,33 @@
 ---
-title: "Electricidad I - II Semestre 2022"
+title: "Electricidad I - I Semestre 2023"
 collection: teaching
 type: "Curso de grado"
-permalink: /teaching/2022-IISEM-ElectricidadI
+permalink: /teaching/2023-IISEM-ElectricidadI
 venue: "Instituto Tecnológico de Costa Rica, Escuela de Ingeniería Eletromecánica"
-date: 2022-07-01
+date: 2023-01-01
 location: "Cartago, Costa Rica"
 ---
 Electricidad I es un curso introductorio de fundamentos de circuitos eléctricos. En el curso se estudian los conceptos básicos, teoremas y métodos de análisis de circuitos en corriente directa, luego se estudia la respuesta natural y forzada de los circuitos RL y RC, y por último se estudian para luego estudiar conceptos básicos, teoremas y métodos de análisis de circuitos en corriente alterna.
 
+# Recursos
 
-
-## Recursos
+## Herramientas de software
+* [LTspice](https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html)
 * [Recursos de programación en Python](https://colab.research.google.com/drive/1iNw40lY75LinoTdFgxM47JrHFZ1AQqky?usp=sharing)
+
+## Examenes anteriores
 * [Examenes viejos](https://estudianteccr-my.sharepoint.com/:f:/g/personal/prof_juan_rojas_estudiantec_cr/EmejnGo_GM1MrUtDixdi8KgB1opseAQVWkFun5VE7xtZ_Q?e=sv3TLi)
+
+## Método de enseñanza-aprendizaje
+* [Modelo pedagógico del TEC](https://www.tec.ac.cr/modelo-pedagogico-tec)
+* [Método de aula inversa](https://www3.gobiernodecanarias.org/medusa/ecoescuela/pedagotic/files/2018/11/flipped-classroom.pdf): es un enfoque pedagógico en el que la instrucción directa se realiza fuera del aula y se utiliza el tiempo de clae para llevar a cabo actividades que impliquen el desarrollo de procesos cognitivos de mayor complejidad, en la que son necesarias la ayuda y la experiencia del docente. 
+
 
 # Contenidos
 
 ## Semana 1 (26/07)
 
-## Aspectos administrativos del curso
+### Aspectos administrativos del curso
 * [Programa](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EVsO8UpGzEdCsu6VnKvw0ZQB3TNQR-yWH2ljdYBtsRAQAw)
 
 * Evaluación
@@ -29,7 +37,8 @@ I Examen Parcial | 25%
 II Examen Parcial | 25%
 II Examen Parcial | 25%
 Quices | 7%
-Tareas | 18%
+Trabajo el clase | 8%
+Tareas | 10%
 
 * Horario
    * Martes, de las 13:00 a las 15:50
