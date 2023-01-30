@@ -25,7 +25,7 @@ Electricidad I es un curso introductorio de fundamentos de circuitos eléctricos
 
 # Contenidos
 
-## Semana 1 (26/07)
+## Semana 1 (07/02)
 
 ### Aspectos administrativos del curso
 * [Programa](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EVsO8UpGzEdCsu6VnKvw0ZQB3TNQR-yWH2ljdYBtsRAQAw)
@@ -33,17 +33,15 @@ Electricidad I es un curso introductorio de fundamentos de circuitos eléctricos
 * Evaluación
 
 Rubro | Porcentaje
-I Examen Parcial | 25%
+I Examen Parcial | 30%
 II Examen Parcial | 25%
 II Examen Parcial | 25%
-Quices | 7%
-Trabajo el clase | 8%
-Tareas | 10%
+Tareas | 20%
 
 * Horario
    * Martes, de las 13:00 a las 15:50
 
-## Semana 2 (02/08)
+## Semana 2 (14/02)
 
 ### Estuctura atómica, carga y campo eléctrico
 * [Presentación](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EYVDyVyqFV5DmNMbQuG5k7MBgPYQV2FaFqxZWcm6uNSqCw?e=h8tLa0)
@@ -63,7 +61,7 @@ Tareas | 10%
 ### Quiz # 1
 * [Formulario](https://forms.office.com/Pages/ResponsePage.aspx?id=nR3Pv-qTsUO5Ah2qaKZCSBILJBzzluxLhq5m4avaILdUMVVLMTVKRklGNUhBSzlNWVpQQ002MzMzVS4u)
 
-## Semana 3 (09/08)
+## Semana 3 (21/02)
 
 ### Leyes básicas
 * [Presentación](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EXAR_6UUSDRDhEgHbSyTmsEBpfdmH8W_TJ2gwwVXluJ3iw?e=fzxrgp)
@@ -74,7 +72,7 @@ Tareas | 10%
 ### Quiz # 2
 * [Formulario](https://forms.office.com/Pages/ResponsePage.aspx?id=nR3Pv-qTsUO5Ah2qaKZCSBILJBzzluxLhq5m4avaILdUMkFaVUJMM1laTUtXN0EyUzU4NFQ5UlEzTC4u)
 
-## Semana 4 (16/08)
+## Semana 4 (28/02)
 
 ### Nodos y supernodos
 * [Presentación](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EU8BeM5li-VJq3YxytFAChgB6jW2f6IUqtBDUlzYd_z2YQ?e=3FGTQQ)
@@ -92,7 +90,7 @@ Tareas | 10%
 ### Tarea # 3
 * [Enunciado](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EZ8vUBdzTWpJrHtpKPL-rBMB3wuvm-FdhdG3S7tru-XLoA)
 
-## Semana 5 (23/08)
+## Semana 5 (07/03)
 
 ### Superposición y transformación de fuentes
 * [Presentación](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EU6dkityo91HiX5SHxoYQi0BbpC8iSpzy6Y8u_hBykzXwA?e=3Mdo06)
@@ -108,7 +106,7 @@ Tareas | 10%
 ### Quiz # 3
 * [Formulario](https://forms.office.com/r/sVfH6RrKXT)
 
-## Semana 6 (30/08) (JP)
+## Semana 6 (14/03)
 
 ### Thevenin, Norton y Máxima transferencia de potencia
 * [Presentación](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EaoLycwevS5KipXM7ZG2Ai4BKVvp7Oxh8NlUCA_01KheoQ?e=JS5jOa)
@@ -128,13 +126,13 @@ Tareas | 10%
 ### Tarea # 5
 * [Enunciado](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EXiN6WQEg51NoI-RvwW_V4EBcbhl3x0nw_gDy29AIf7RwA)
 
-## Semana 7 (06/09) (JP)
+## Semana 7 (21/03)
 
 ### Examen I
 
 * [Solución](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EdjmRolZvKxNv7ifk35DrdcBh3Zr3ro66ysVAbu-QD0CUw)
 
-## Semana 8 (13/09)
+## Semana 8 (28/03)
 
 ### Capacitores e Inductores
 * [Presentación](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EaIH-3Q7sz5JiEUXiDEErZQBQ8u3SOznNmbj_yyphSLcbA?e=CnwR9g)
@@ -157,7 +155,7 @@ Tareas | 10%
 ### Quiz #4
 * [Formulario](https://forms.office.com/Pages/ResponsePage.aspx?id=nR3Pv-qTsUO5Ah2qaKZCSBILJBzzluxLhq5m4avaILdUMlhJREtOMzY3T1k1VjlLTURQUlVGVlk4Vi4u)
 
-## Semana 9 (20/09)
+## Semana 9 (11/04)
 
 ### Funciones de singularidad
 * [Presentación](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/Ec2r74zTcJdEpK5MOtv-lHcBA4JsnZZ0V6WwAs9IikJDhA?e=eh9ytH)
@@ -179,11 +177,11 @@ Tareas | 10%
 ### Tarea # 7
 * [Enunciado](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EY5tQXMgh75GnRqwicOFNP8BjvIaibQ80MjICMHNKQXk_Q)
 
-## Semana 10 (27/09)
+## Semana 10 (18/04)
 
 ### Examen II
 
-## Semana 11 (04/10)
+## Semana 11 (25/04)
 
 ### Senoides y Fasores
 * [Presentación](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EVYOP_XB1gdFiPg6MVrzPLMBTNCxnatSmHSIpyypY196Aw?e=7xqIyl) 
@@ -199,7 +197,7 @@ Tareas | 10%
 ### Quiz #5
 * [Formulario](https://forms.office.com/r/2ksA5xmpG2)
 
-## Semana 12 (11/10)
+## Semana 12 (02/05)
 
 ### Nodos en CA
 
@@ -219,7 +217,7 @@ Tareas | 10%
 ### Tarea # 9
 * [Enunciado](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EUQkxyZP8nFEgCZYudwvdXUBmYtaiSwqnZbYOKcO1K-F9A)
 
-## Semana 13 (18/10)
+## Semana 13 (09/05)
 
 ### Transformación de fuentes en CA
 
@@ -234,7 +232,7 @@ Tareas | 10%
 ### Tarea # 10
 * [Enunciado](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EVLC3X1jpjhBkyZMi6WGssYB6RPIrkuBGp8xrgx7l4ZmQg)
 
-## Semana 14 (25/10)
+## Semana 14 (09/05)
 
 ### Potencia compleja
 
@@ -248,7 +246,7 @@ Tareas | 10%
 ### Tarea # 11
 * [Enunciado]()
 
-## Semana 15 (01/11)
+## Semana 15 (16/05)
 
 [//]: # (Teorema de superposición en CA) 
 
@@ -263,6 +261,6 @@ Tareas | 10%
 ### Tarea # 12
 * [Enunciado]()
 
-## Semana 16 (08/11)
+## Semana 16 (23/05)
 
 ### Examen III
