@@ -1,10 +1,10 @@
 ---
-title: "Instrumentación II - I Semestre 2022"
+title: "Instrumentación II - I Semestre 2023"
 collection: teaching
 type: "Curso de grado"
-permalink: /teaching/2022-ISEM-InstrumentacionII
+permalink: /teaching/2023-ISEM-InstrumentacionII
 venue: "Instituto Tecnológico de Costa Rica, Escuela de Física"
-date: 2022-01-01
+date: 2023-01-01
 location: "Cartago, Costa Rica"
 ---
 Este curso comprende el estudio de los conceptos intermedios de la instrumentación industrial y proporciona una base sólida en varios tópicos que quienes son profesionales en Ingeniería Física deben dominar para un exitoso desempeño con los sistemas de medición, presentes en un sinnúmero de actividades de ingeniería del mundo real.
@@ -16,9 +16,9 @@ Este curso comprende el estudio de los conceptos intermedios de la instrumentaci
 
 [//]: #(*[Cronograma](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EcR9EazOKlVKi6UjezfMHQ4BWBKMp9B0p2lxswi2pfOO5Q?e=kJBaEi))
 * Grupo 1 
-   * Horario: Martes, de las 09:30 a las 11:20.
+   * Horario: Jueves, de las 07:30 a las 09:20.
 * Grupo 2
-   * Horario: Martes, de las 13:00 a las 14:50
+   * Horario: Martes, de las 09:30 a las 11:20
 
 ## Repositorio de Overleaf (en proceso)
 Se incluye instructivo, machote de informe, presentaciones, tareas, etc. 
