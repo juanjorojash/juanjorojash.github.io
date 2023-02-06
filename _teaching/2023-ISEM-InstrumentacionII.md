@@ -14,7 +14,6 @@ Este curso comprende el estudio de los conceptos intermedios de la instrumentaci
 ## Aspectos administrativos del curso
 * [Programa](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/Ed7ek1-q20hNu2qrLJxd20YB0GYuBZM9vuaQKYIwY5eKQA?e=NpbWlr)
 
-[//]: #(*[Cronograma](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EcR9EazOKlVKi6UjezfMHQ4BWBKMp9B0p2lxswi2pfOO5Q?e=kJBaEi))
 * Grupo 1 
    * Horario: Jueves, de las 07:30 a las 09:20. Aula: C1-02
 * Grupo 2
