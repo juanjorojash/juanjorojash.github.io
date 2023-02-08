@@ -58,9 +58,6 @@ Tareas | 20%
 ### Tarea # 1
 * [Enunciado](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/ES1H3GjGESRNnhgyL3AWwvMBFxPwIzGbfM84ykfEkaDNrA?e=2Wkcre)
 
-### Quiz # 1
-* [Formulario](https://forms.office.com/Pages/ResponsePage.aspx?id=nR3Pv-qTsUO5Ah2qaKZCSBILJBzzluxLhq5m4avaILdUMVVLMTVKRklGNUhBSzlNWVpQQ002MzMzVS4u)
-
 ## Semana 3 (21/02)
 
 ### Leyes básicas
@@ -68,9 +65,6 @@ Tareas | 20%
 
 ### Tarea # 2
 * [Enunciado](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EU8vseXRTptEvjgpoqTWf1cBmd9aWn6G2qC-3wah-RcBxg?e=cxFLiq)
-
-### Quiz # 2
-* [Formulario](https://forms.office.com/Pages/ResponsePage.aspx?id=nR3Pv-qTsUO5Ah2qaKZCSBILJBzzluxLhq5m4avaILdUMkFaVUJMM1laTUtXN0EyUzU4NFQ5UlEzTC4u)
 
 ## Semana 4 (28/02)
 
@@ -102,9 +96,6 @@ Tareas | 20%
 
 ### Tarea # 4
 * [Enunciado](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/ETBpTWaVMEBOkPersUHVOgkBU1ErfcKv71jvfxtPNChO4A)
-
-### Quiz # 3
-* [Formulario](https://forms.office.com/r/sVfH6RrKXT)
 
 ## Semana 6 (14/03)
 
@@ -152,9 +143,6 @@ Tareas | 20%
 ### Tarea # 6
 * [Enunciado](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EXsZ6qnJCXFIu8Wj6bfSc-EBIpGHLcxo9If9Thkqd7Bdcw)
 
-### Quiz #4
-* [Formulario](https://forms.office.com/Pages/ResponsePage.aspx?id=nR3Pv-qTsUO5Ah2qaKZCSBILJBzzluxLhq5m4avaILdUMlhJREtOMzY3T1k1VjlLTURQUlVGVlk4Vi4u)
-
 ## Semana 9 (11/04)
 
 ### Funciones de singularidad
@@ -193,9 +181,6 @@ Tareas | 20%
 
 ### Tarea # 8
 * [Enunciado](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EXeebsN47HlPueqTS7RM77cBjTVxgNetLy4xfNEETdupMQ)
-
-### Quiz #5
-* [Formulario](https://forms.office.com/r/2ksA5xmpG2)
 
 ## Semana 12 (02/05)
 
