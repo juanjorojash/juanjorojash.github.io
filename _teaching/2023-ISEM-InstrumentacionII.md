@@ -41,19 +41,19 @@ Hacer una cuenta con su correo de estudianTEC en [National Instruments](https://
 
 ## Semana 1.
 
-### Introducción a la adquisición de datos y el entorno de LabVIEW
-* Videos
-   * [Introducción a LabVIEW](https://learn.ni.com/learn/course/introduccin-a-labview-1/introduccin-a-labview/lesson-content?page=1)
-   * [Primera toma de medida](https://learn.ni.com/learn/course/primera-medida-dispositivo-ni-daq/primera-medida-dispositivo-ni-daq/lesson-content?page=1)
-
-* Temas
-   * Tipos de señales
-   * Acondicionamiento de señales
-   * Entorno de LabVIEW
-
-
+### Aspectos administrativos del curso
 
 ## Semana 2
+
+### Introducción a la adquisición de datos y el entorno de LabVIEW
+* Tipos de señales
+* Acondicionamiento de señales
+* Entorno de LabVIEW
+
+* Videos
+   * [Writing Your First LabVIEW Program](https://youtu.be/ZHNlKyYzrPE)
+   * [Data Flow Programming Basics](https://youtu.be/PqxStfwjQoQ)
+
 ### Implementación de un instrumento virtual básico y su interfaz de usuario
 * Mediciones de corriente y voltaje usando la NI MyDAQ
 * Interfaz básica para medición de corriente y voltaje
@@ -74,8 +74,10 @@ Hacer una cuenta con su correo de estudianTEC en [National Instruments](https://
 * Enums
 * Mediciones multicanal y multimuestral
 
-### Lectura extraclase
-* [Estructuras de datos en LabVIEW](https://www.ni.com/getting-started/labview-basics/esa/data-structures)
+* Videos
+   * [LabVIEW Data Types](https://youtu.be/dvShgNdY_GE)
+* Lectura
+   * [Estructuras de datos en LabVIEW](https://www.ni.com/getting-started/labview-basics/esa/data-structures)
 
 ### Tarea 2
 * [Enunciado](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EYChsp9EOF9Nls0_UV33GagBIJjNcCVbgfAdYlPXDJgVRA)
