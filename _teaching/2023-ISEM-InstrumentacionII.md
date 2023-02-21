@@ -48,11 +48,13 @@ Hacer una cuenta con su correo de estudianTEC en [National Instruments](https://
 ### Introducción a la adquisición de datos y el entorno de LabVIEW
 * Tipos de señales
 * Acondicionamiento de señales
+* Conversión analógica-digital
 * Entorno de LabVIEW
 
 * Videos
    * [Writing Your First LabVIEW Program](https://youtu.be/ZHNlKyYzrPE)
    * [Data Flow Programming Basics](https://youtu.be/PqxStfwjQoQ)
+   * [Señal analógica vrs. señal digital](https://youtu.be/c-h-cSNPfzE)
 
 ### Implementación de un instrumento virtual básico y su interfaz de usuario
 * Mediciones de corriente y voltaje usando la NI MyDAQ
