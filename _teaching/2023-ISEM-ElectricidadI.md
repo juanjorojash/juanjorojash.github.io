@@ -232,7 +232,7 @@ Tareas | 20%
 * [Potencia compleja: Problema 11.63](https://youtu.be/k7_hb1OJUnA)
 
 ### Tarea # 11
-* [Enunciado]()
+* [Enunciado](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EWKvpsksGLtAkL9WDTTEVE8BlPDai7W1tkL1pasUeGPeJw?e=yDA6wY)
 
 ## Semana 15 (16/05)
 
