@@ -150,6 +150,13 @@ Hacer una cuenta con su correo de estudianTEC en [National Instruments](https://
 * SCPI
 * Control de instrumentos externos
 
+### Control de fuente DP832
+* [SCPI basics](https://rfmw.em.keysight.com/wireless/helpfiles/n5106a/SCPI_Basics.htm)
+* [DP800 Programming Guide](https://int.rigol.com/Public/Uploads/uploadfile/files/20211028/20211028151336_617a4da001f78.pdf)
+
+
+
+
 ### Control de instrumetnos externos en LabVIEW (SCPI)
 * [Video](https://youtu.be/2TSfAIXaLtQ)
 
