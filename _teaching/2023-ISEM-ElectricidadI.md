@@ -15,8 +15,8 @@ Electricidad I es un curso introductorio de fundamentos de circuitos eléctricos
 * [LTspice](https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html)
 * [Recursos de programación en Python](https://colab.research.google.com/drive/1iNw40lY75LinoTdFgxM47JrHFZ1AQqky?usp=sharing)
 
-## Examenes anteriores
-* [Examenes viejos](https://estudianteccr-my.sharepoint.com/:f:/g/personal/prof_juan_rojas_estudiantec_cr/EmejnGo_GM1MrUtDixdi8KgB1opseAQVWkFun5VE7xtZ_Q?e=sv3TLi)
+## Examenes anteriores (repo de Overleaf)
+* [Examenes viejos](https://www.overleaf.com/read/vnjpxybxhxjh)
 
 ## Método de enseñanza-aprendizaje
 * [Modelo pedagógico del TEC](https://www.tec.ac.cr/modelo-pedagogico-tec)
