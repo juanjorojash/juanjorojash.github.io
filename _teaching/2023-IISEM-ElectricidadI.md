@@ -19,9 +19,8 @@ Electricidad I es un curso introductorio de fundamentos de circuitos eléctricos
 * [Examenes viejos](https://www.overleaf.com/read/vnjpxybxhxjh)
 
 ## Método de enseñanza-aprendizaje
+* Cada semana se realizará una sesión magistral donde se cubren los temas correspondientes y luego de esto una sesión de trabajo grupal para iniciar la resolución de la tarea asignada para la siguiente semana. 
 * [Modelo pedagógico del TEC](https://www.tec.ac.cr/modelo-pedagogico-tec)
-* [Método de aula inversa](https://www3.gobiernodecanarias.org/medusa/ecoescuela/pedagotic/files/2018/11/flipped-classroom.pdf): es un enfoque pedagógico en el que la instrucción directa se realiza fuera del aula y se utiliza el tiempo de clae para llevar a cabo actividades que impliquen el desarrollo de procesos cognitivos de mayor complejidad, en la que son necesarias la ayuda y la experiencia del docente. 
-
 
 # Contenidos
 
@@ -41,7 +40,10 @@ Tareas | 20%
 * Horario
    * Martes, de las 13:00 a las 15:50
 
-### Estuctura atómica, carga y campo eléctrico
+### Bandas de energía, carga y campo eléctrico
+* Objetivos
+   * Explicar la conducción eléctrica por medio del modelo de bandas de energía
+   * Comprender los conceptos de carga, fuerza y campo eléctrico
 * [Presentación](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EYVDyVyqFV5DmNMbQuG5k7MBgPYQV2FaFqxZWcm6uNSqCw?e=h8tLa0)
 * [Clase asincrónica](https://youtu.be/twXnxkySVHo) 
 
@@ -52,6 +54,14 @@ Tareas | 20%
 ## Semana 2 (14/02)
 
 ### Conceptos básicos
+* Objetivos
+   * Comprender los conceptos de corriente, voltaje y resistencia
+   * Relacionar el voltaje y la corriente de un resistor ideal por medio de la ley de Ohm
+   * Calcular la potencia suministrada o consumida por un elemento en un instante dado
+   * Calcular la energía suministrada o consumida por un elemento en un intevalo de tiempo dado
+   * Discriminar entre elementos activos y pasivos en un circuito
+   * Relacionar el corto circuito con un elemento de resistencia nula
+   * Relacionar el circuito abierto con un elemento de resistencia infinita
 * [Presentación](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/Eem9AsZIy8tDnncCvBGQaL4B1SHKZufIOKxpGpWiJoU5og?e=8BRyOp)
 * [Clase asincrónica](https://youtu.be/CoiBW32Tq9c) 
 
