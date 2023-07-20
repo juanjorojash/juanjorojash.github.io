@@ -40,9 +40,9 @@ Tareas | 20%
 
 ## Semana 1 (07/02)
 
-* Objetivos
-   * Explicar la conducción eléctrica por medio del modelo de bandas de energía
-   * Comprender los conceptos de carga, fuerza y campo eléctrico
+### Objetivos
+* Explicar la conducción eléctrica por medio del modelo de bandas de energía
+* Comprender los conceptos de carga, fuerza y campo eléctrico
 
 ### Bandas de energía, carga y campo eléctrico
 * [Presentación](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EYVDyVyqFV5DmNMbQuG5k7MBgPYQV2FaFqxZWcm6uNSqCw?e=h8tLa0)
@@ -54,14 +54,14 @@ Tareas | 20%
 
 ## Semana 2 (14/02)
 
-* Objetivos
-   * Comprender los conceptos de corriente, voltaje y resistencia
-   * Relacionar el voltaje y la corriente de un resistor ideal por medio de la ley de Ohm
-   * Calcular la potencia suministrada o consumida por un elemento en un instante dado
-   * Calcular la energía suministrada o consumida por un elemento en un intevalo de tiempo dado
-   * Discriminar entre elementos activos y pasivos en un circuito
-   * Relacionar el corto circuito con un elemento de resistencia nula
-   * Relacionar el circuito abierto con un elemento de resistencia infinita
+### Objetivos
+* Comprender los conceptos de corriente, voltaje y resistencia
+* Relacionar el voltaje y la corriente de un resistor ideal por medio de la ley de Ohm
+* Calcular la potencia suministrada o consumida por un elemento en un instante dado
+* Calcular la energía suministrada o consumida por un elemento en un intevalo de tiempo dado
+* Discriminar entre elementos activos y pasivos en un circuito
+* Relacionar el corto circuito con un elemento de resistencia nula
+* Relacionar el circuito abierto con un elemento de resistencia infinita
 
 ### Conceptos básicos
 * [Presentación](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/Eem9AsZIy8tDnncCvBGQaL4B1SHKZufIOKxpGpWiJoU5og?e=8BRyOp)
@@ -72,16 +72,16 @@ Tareas | 20%
 
 ## Semana 3 (21/02)
 
-* Objetivos
-   * Discriminar entre fuentes dependientes e independientes
-   * Modelar una fuente real de corriente y de voltaje
-   * Identificar ramas, nodos, lazos y mallas de un circuito
-   * Calcular el balance de las corrientes en un nodo usando la Ley de Corriente de Kirchhoff
-   * Calcular el balance de las tensiones en un lazo usando la Ley de Voltaje de Kirchhoff
-   * Indentificar cuando dos o más elementos se encuentran en serie
-   * Calcular el voltaje de un elemento en un circuito serie usando divisor de voltaje
-   * Indentificar cuando dos o más elementos se encuentran en paralelo
-   * Calcular el corriente de un elemento en un circuito paralelo usando divisor de corriente
+### Objetivos
+* Discriminar entre fuentes dependientes e independientes
+* Modelar una fuente real de corriente y de voltaje
+* Identificar ramas, nodos, lazos y mallas de un circuito
+* Calcular el balance de las corrientes en un nodo usando la Ley de Corriente de Kirchhoff
+* Calcular el balance de las tensiones en un lazo usando la Ley de Voltaje de Kirchhoff
+* Indentificar cuando dos o más elementos se encuentran en serie
+* Calcular el voltaje de un elemento en un circuito serie usando divisor de voltaje
+* Indentificar cuando dos o más elementos se encuentran en paralelo
+* Calcular el corriente de un elemento en un circuito paralelo usando divisor de corriente
 
 ### Leyes básicas
 * [Presentación](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EXAR_6UUSDRDhEgHbSyTmsEBpfdmH8W_TJ2gwwVXluJ3iw?e=fzxrgp)
@@ -94,9 +94,9 @@ Tareas | 20%
 
 ## Semana 4 (28/02)
 
-* Objetivos
-   * Calcular los voltajes de los nodos de un circuito de corriente directa por medio del análisis de nodos y supernodos
-   * Calcular las corrientes de las ramas de un circuito de corriente directa por medio del análisis de mallas y supermallas
+## Objetivos
+* Calcular los voltajes de los nodos de un circuito de corriente directa por medio del análisis de nodos y supernodos
+* Calcular las corrientes de las ramas de un circuito de corriente directa por medio del análisis de mallas y supermallas
 
 ### Nodos y supernodos
 * Objetivos [Presentación](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EU8BeM5li-VJq3YxytFAChgB6jW2f6IUqtBDUlzYd_z2YQ?e=3FGTQQ)
@@ -116,9 +116,9 @@ Tareas | 20%
 
 ## Semana 5 (07/03)
 
-* Objetivos
-   * Resolver circuitos en corriente directa con más de una fuente utilizando el problema de superposición
-   * Realizar transformaciones de fuente para facilitar la resolución de un circuito en corriente directa 
+### Objetivos
+* Resolver circuitos en corriente directa con más de una fuente utilizando el problema de superposición
+* Realizar transformaciones de fuente para facilitar la resolución de un circuito en corriente directa 
 
 ### Superposición y transformación de fuentes
 * [Presentación](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EU6dkityo91HiX5SHxoYQi0BbpC8iSpzy6Y8u_hBykzXwA?e=3Mdo06)
@@ -133,11 +133,11 @@ Tareas | 20%
 
 ## Semana 6 (14/03)
 
-* Objetivos
-   * Representar un circuito en corriente directa por medio de su equivalente de Thevenin
-   * Representar un circuito en corriente directa por medio de su equivalente de Norton
-   * Determinar las condiciones en las que se da la máxima transferencia de potencia a un elemento en un circuito en corriente directa 
-   * Conocer las aplicaciones de los circuitos puente en instrumentación
+### Objetivos
+* Representar un circuito en corriente directa por medio de su equivalente de Thevenin
+* Representar un circuito en corriente directa por medio de su equivalente de Norton
+* Determinar las condiciones en las que se da la máxima transferencia de potencia a un elemento en un circuito en corriente directa 
+* Conocer las aplicaciones de los circuitos puente en instrumentación
 
 ### Thevenin, Norton y Máxima transferencia de potencia
 * [Presentación](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EaoLycwevS5KipXM7ZG2Ai4BKVvp7Oxh8NlUCA_01KheoQ?e=JS5jOa)
@@ -163,10 +163,10 @@ Tareas | 20%
 
 ## Semana 8 (28/03)
 
-* Objetivos
-   * Comprender el principio de funcionamiento y la construcción de capacitores e inductores
-   * Calcular el valor equivalente de capacitores e inductores en combinaciones de serie y paralelo
-   * Calcular la respuesta natural de los circuitos RL y RC
+### Objetivos
+* Comprender el principio de funcionamiento y la construcción de capacitores e inductores
+* Calcular el valor equivalente de capacitores e inductores en combinaciones de serie y paralelo
+* Calcular la respuesta natural de los circuitos RL y RC
 
 ### Capacitores e Inductores
 * [Presentación](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EaIH-3Q7sz5JiEUXiDEErZQBQ8u3SOznNmbj_yyphSLcbA?e=CnwR9g)
@@ -188,10 +188,10 @@ Tareas | 20%
 
 ## Semana 9 (11/04)
 
-* Objetivos
-   * Modelar operaciones de conmutación utilizando funciones de singularidad
-   * Calcular la respuesta completa de los circuitos RL y RC
-   * Analizar la respuesta de circuitos de primer orden
+### Objetivos
+* Modelar operaciones de conmutación utilizando funciones de singularidad
+* Calcular la respuesta completa de los circuitos RL y RC
+* Analizar la respuesta de circuitos de primer orden
 
 ### Funciones de singularidad
 * [Presentación](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/Ec2r74zTcJdEpK5MOtv-lHcBA4JsnZZ0V6WwAs9IikJDhA?e=eh9ytH)
@@ -219,9 +219,9 @@ Tareas | 20%
 
 ## Semana 11 (25/04)
 
-* Objetivos
-   * Estudiar los parámetros de la onda senoidal y su representación fasorial
-   * Realizar operaciones con fasores que representen magnitudes eléctricas en corriente alterna 
+### Objetivos
+* Estudiar los parámetros de la onda senoidal y su representación fasorial
+* Realizar operaciones con fasores que representen magnitudes eléctricas en corriente alterna 
 
 ### Senoides y Fasores
 * [Presentación](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EVYOP_XB1gdFiPg6MVrzPLMBTNCxnatSmHSIpyypY196Aw?e=7xqIyl) 
@@ -261,9 +261,9 @@ Tareas | 20%
 
 ## Semana 13 (09/05)
 
-* Objetivos
-   * Realizar transformaciones de fuente para facilitar la resolución de un circuito en corriente alterna
-   * Representar un circuito en corriente alterna por medio de su equivalente de Thevenin y Norton
+### Objetivos
+* Realizar transformaciones de fuente para facilitar la resolución de un circuito en corriente alterna
+* Representar un circuito en corriente alterna por medio de su equivalente de Thevenin y Norton
 
 
 ### Transformación de fuentes en CA
@@ -281,8 +281,8 @@ Tareas | 20%
 
 ## Semana 14 (09/05)
 
-* Objetivo
-   * Calcular la potencia compleja de los elementos de un circuito en corriente alterna
+### Objetivo
+* Calcular la potencia compleja de los elementos de un circuito en corriente alterna
 
 ### Potencia compleja
 
@@ -298,9 +298,9 @@ Tareas | 20%
 
 ## Semana 15 (16/05)
 
-* Objetivos
-   * Determinar el valor y el tipo de elemento reactivo que permita realizar una corrección del factor de potencia en un circuito de corriente alterna
-   * Determinar las condiciones en las que se da la máxima transferencia de potencia a un elemento en un circuito en corriente alterna
+### Objetivos
+* Determinar el valor y el tipo de elemento reactivo que permita realizar una corrección del factor de potencia en un circuito de corriente alterna
+* Determinar las condiciones en las que se da la máxima transferencia de potencia a un elemento en un circuito en corriente alterna
 
 ### Corrección del factor de potencia
 
