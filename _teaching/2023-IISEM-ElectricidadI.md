@@ -222,6 +222,7 @@ Tareas | 20%
 ### Objetivos
 * Estudiar los parámetros de la onda senoidal y su representación fasorial
 * Realizar operaciones con fasores que representen magnitudes eléctricas en corriente alterna 
+* Calcular la impedancia o admitancia de los elementos de un circuito en corriente alterna
 
 ### Senoides y Fasores
 * [Presentación](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EVYOP_XB1gdFiPg6MVrzPLMBTNCxnatSmHSIpyypY196Aw?e=7xqIyl) 
@@ -236,10 +237,9 @@ Tareas | 20%
 
 ## Semana 12 (02/05)
 
-* Objetivos
-   * Calcular la impedancia o admitancia de los elementos de un circuito en corriente alterna
-   * Calcular los voltajes de los nodos de un circuito en corriente alterna por medio del análisis de nodos y supernodos 
-   * Calcular las corrientes de las ramas de un circuito en corriente alterna por medio del análisis de mallas y supermallas
+### Objetivos
+* Calcular los voltajes de los nodos de un circuito en corriente alterna por medio del análisis de nodos y supernodos 
+* Calcular las corrientes de las ramas de un circuito en corriente alterna por medio del análisis de mallas y supermallas
 
 ### Nodos en CA
 
