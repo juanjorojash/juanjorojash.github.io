@@ -1,8 +1,8 @@
 ---
-title: "Instrumentación I - II Semestre 2021"
+title: "Instrumentación I - II Semestre 2023"
 collection: teaching
 type: "Curso de pregrado"
-permalink: /teaching/2021-IISEM-InstrumentacionI
+permalink: /teaching/2023-IISEM-InstrumentacionI
 venue: "Instituto Tecnológico de Costa Rica, Escuela de Física"
 date: 2021-01-01
 location: "Cartago, Costa Rica"
@@ -39,11 +39,11 @@ Se incluye instructivo, machote de informe, presentaciones, tareas, etc.
 
 [//]: #(*[Cronograma](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EcR9EazOKlVKi6UjezfMHQ4BWBKMp9B0p2lxswi2pfOO5Q?e=kJBaEi))
 * Grupo 1 
-   * Horario: Martes, de las 15:00 a las 14:50.
-   * Profesor: MSc. Hugo Sanchez Ortiz
-* Grupo 2
-   * Horario: Viernes, de las 09:30 a las 11:20
+   * Horario: Martes, de las 07:30 a las 09:20.
    * Profesor: Dr-Ing. Juan J. Rojas
+* Grupo 2
+   * Horario: Martes, de las 09:30 a las 11:20.
+   * Profesor: Dr-Ing. Juan Luis Guerrero Fernández
 
 ## Semana 2
 ### Introducción a la Instrumentación Industrial. Sesión 1
