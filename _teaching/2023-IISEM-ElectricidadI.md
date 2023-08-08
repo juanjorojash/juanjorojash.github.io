@@ -38,7 +38,7 @@ Tareas | 20%
 
 # Contenidos
 
-## Semana 1 (07/02)
+## Semana 1 (25/07)
 
 ### Objetivos
 * Explicar la conducción eléctrica por medio del modelo de bandas de energía
@@ -52,7 +52,7 @@ Tareas | 20%
 * [Niveles de energía](https://www.youtube.com/watch?v=J-DjEIlynjE) 
 * [Configuración electrónica](https://www.youtube.com/watch?v=diCGRJskeDA)
 
-## Semana 2 (14/02)
+## Semana 2 (01/08)
 
 ### Objetivos
 * Comprender los conceptos de corriente, voltaje y resistencia
@@ -70,7 +70,7 @@ Tareas | 20%
 ### Tarea # 1
 * [Enunciado](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/ES1H3GjGESRNnhgyL3AWwvMBFxPwIzGbfM84ykfEkaDNrA?e=2Wkcre)
 
-## Semana 3 (21/02)
+## Semana 3 (08/08)
 
 ### Objetivos
 * Discriminar entre fuentes dependientes e independientes
@@ -92,7 +92,7 @@ Tareas | 20%
 ### Tarea # 2
 * [Enunciado](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EU8vseXRTptEvjgpoqTWf1cBmd9aWn6G2qC-3wah-RcBxg?e=cxFLiq)
 
-## Semana 4 (28/02)
+## Semana 4 (15/08)
 
 ## Objetivos
 * Calcular los voltajes de los nodos de un circuito de corriente directa por medio del análisis de nodos y supernodos
@@ -114,7 +114,7 @@ Tareas | 20%
 ### Tarea # 3
 * [Enunciado](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EZ8vUBdzTWpJrHtpKPL-rBMB3wuvm-FdhdG3S7tru-XLoA)
 
-## Semana 5 (07/03)
+## Semana 5 (22/08)
 
 ### Objetivos
 * Resolver circuitos en corriente directa con más de una fuente utilizando el problema de superposición
@@ -131,7 +131,7 @@ Tareas | 20%
 ### Tarea # 4
 * [Enunciado](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/ETBpTWaVMEBOkPersUHVOgkBU1ErfcKv71jvfxtPNChO4A)
 
-## Semana 6 (14/03)
+## Semana 6 (29/08)
 
 ### Objetivos
 * Representar un circuito en corriente directa por medio de su equivalente de Thevenin
@@ -157,11 +157,11 @@ Tareas | 20%
 ### Tarea # 5
 * [Enunciado](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EXiN6WQEg51NoI-RvwW_V4EBcbhl3x0nw_gDy29AIf7RwA)
 
-## Semana 7 (21/03)
+## Semana 7 (05/09)
 
 ### Examen I
 
-## Semana 8 (28/03)
+## Semana 8 (12/09)
 
 ### Objetivos
 * Comprender el principio de funcionamiento y la construcción de capacitores e inductores
@@ -186,7 +186,7 @@ Tareas | 20%
 ### Tarea # 6
 * [Enunciado](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EXsZ6qnJCXFIu8Wj6bfSc-EBIpGHLcxo9If9Thkqd7Bdcw)
 
-## Semana 9 (11/04)
+## Semana 9 (19/09)
 
 ### Objetivos
 * Modelar operaciones de conmutación utilizando funciones de singularidad
@@ -213,11 +213,11 @@ Tareas | 20%
 ### Tarea # 7
 * [Enunciado](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EY5tQXMgh75GnRqwicOFNP8BjvIaibQ80MjICMHNKQXk_Q)
 
-## Semana 10 (18/04)
+## Semana 10 (26/09)
 
 ### Examen II
 
-## Semana 11 (25/04)
+## Semana 11 (03/10)
 
 ### Objetivos
 * Estudiar los parámetros de la onda senoidal y su representación fasorial
@@ -235,7 +235,7 @@ Tareas | 20%
 ### Tarea # 8
 * [Enunciado](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EXeebsN47HlPueqTS7RM77cBjTVxgNetLy4xfNEETdupMQ)
 
-## Semana 12 (02/05)
+## Semana 12 (10/10)
 
 ### Objetivos
 * Calcular los voltajes de los nodos de un circuito en corriente alterna por medio del análisis de nodos y supernodos 
@@ -259,7 +259,7 @@ Tareas | 20%
 ### Tarea # 9
 * [Enunciado](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EUQkxyZP8nFEgCZYudwvdXUBmYtaiSwqnZbYOKcO1K-F9A)
 
-## Semana 13 (09/05)
+## Semana 13 (17/10)
 
 ### Objetivos
 * Realizar transformaciones de fuente para facilitar la resolución de un circuito en corriente alterna
@@ -279,7 +279,7 @@ Tareas | 20%
 ### Tarea # 10
 * [Enunciado](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EVLC3X1jpjhBkyZMi6WGssYB6RPIrkuBGp8xrgx7l4ZmQg)
 
-## Semana 14 (09/05)
+## Semana 14 (24/10)
 
 ### Objetivo
 * Calcular la potencia compleja de los elementos de un circuito en corriente alterna
@@ -296,7 +296,7 @@ Tareas | 20%
 ### Tarea # 11
 * [Enunciado](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EWKvpsksGLtAkL9WDTTEVE8BlPDai7W1tkL1pasUeGPeJw?e=yDA6wY)
 
-## Semana 15 (16/05)
+## Semana 15 (31/10)
 
 ### Objetivos
 * Determinar el valor y el tipo de elemento reactivo que permita realizar una corrección del factor de potencia en un circuito de corriente alterna
@@ -313,6 +313,6 @@ Tareas | 20%
 ### Tarea # 12
 * [Enunciado]()
 
-## Semana 16 (23/05)
+## Semana 16 (07/11)
 
 ### Examen III
