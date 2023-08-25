@@ -99,7 +99,7 @@ Tareas | 20%
 * Calcular las corrientes de las ramas de un circuito de corriente directa por medio del análisis de mallas y supermallas
 
 ### Nodos y supernodos
-* Objetivos [Presentación](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EU8BeM5li-VJq3YxytFAChgB6jW2f6IUqtBDUlzYd_z2YQ?e=3FGTQQ)
+* [Presentación](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EU8BeM5li-VJq3YxytFAChgB6jW2f6IUqtBDUlzYd_z2YQ?e=3FGTQQ)
 * [Clase asincrónica](https://youtu.be/0yTrAKQYVVw)
 
 ### Mallas y supermallas
