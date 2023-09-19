@@ -87,7 +87,7 @@ Se incluye instructivo, machote de informe, presentaciones, tareas, etc.
 
 ## Semana 9
 
-### [Taller sobre visualización de datos en Python](https://teams.microsoft.com/l/channel/19%3AEY0dO9PbvVOWya-1G_42RFysF_EHeb6317TFUwJAmOU1%40thread.tacv2/tab%3A%3Aaec2ee15-b4bc-46ea-8feb-0252d7dd017f?groupId=95733c28-d2d0-4b20-879a-5687d5c03149&tenantId=bfcf1d9d-93ea-43b1-b902-1daa68a64248)
+### [Taller sobre visualización de datos en Python](https://web.microsoftstream.com/video/b678eddf-fa86-4434-8b3b-21fd6670494e?list=user&userId=18ddad9b-513d-42b1-849f-9817c80401f8)
 
 ## Semana 10
 
