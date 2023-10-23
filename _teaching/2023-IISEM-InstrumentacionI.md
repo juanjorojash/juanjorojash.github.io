@@ -120,6 +120,8 @@ Se incluye instructivo, machote de informe, presentaciones, tareas, etc.
 ## Semana 14
 
 ### Medidas de propiedades ópticas 
+* [Presentación](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EWGH3s_jMNZHiMZ7t-FXzxcB7gdJl5j0RAHLHPcy2DbNNg?e=EdZXf9)
+* [Video](https://estudianteccr.sharepoint.com/:v:/s/IIS-2021-InstrumentacinI/EY8vgQxjVpVBuShmy3uHs6kBHgFM2bQuhFhaEi96BNKCyQ?e=ovfBXq)
 
 ### Tarea 6: 
 * [Enunciado](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EV7n37iejB5DviOEq5QT_30B9-FejHRtQOklDrIyStvIKg?e=tOYXJr)
