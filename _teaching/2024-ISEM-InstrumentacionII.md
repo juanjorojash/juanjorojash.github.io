@@ -16,7 +16,6 @@ Este curso comprende el estudio de los conceptos intermedios de la instrumentaci
 
 * Grupo 1 
    * Horario: Martes, de las 07:30 a las 09:20. Aula: C1-02
-   
 * Grupo 2
    * Horario: Martes, de las 09:30 a las 11:20. Aula: C1-02
 
