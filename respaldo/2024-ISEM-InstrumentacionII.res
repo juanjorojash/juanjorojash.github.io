@@ -4,7 +4,7 @@ collection: teaching
 type: "Curso de grado"
 permalink: /teaching/2024-ISEM-InstrumentacionII
 venue: "Instituto Tecnológico de Costa Rica, Escuela de Física"
-date: 2023-01-01
+date: 2024-01-01
 location: "Cartago, Costa Rica"
 ---
 Este curso comprende el estudio de los conceptos intermedios de la instrumentación industrial y proporciona una base sólida en varios tópicos que quienes son profesionales en Ingeniería Física deben dominar para un exitoso desempeño con los sistemas de medición, presentes en un sinnúmero de actividades de ingeniería del mundo real.
@@ -15,8 +15,9 @@ Este curso comprende el estudio de los conceptos intermedios de la instrumentaci
 * [Programa](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/Ed7ek1-q20hNu2qrLJxd20YB0GYuBZM9vuaQKYIwY5eKQA?e=NpbWlr)
 
 * Grupo 1 
-   * Horario: Jueves, de las 07:30 a las 09:20. Aula: C1-02
-
+   * Horario: Martes, de las 07:30 a las 09:20. Aula: C1-02
+* Grupo 2
+   * Horario: Martes, de las 09:30 a las 11:20. Aula: C1-02
 
 ## Repositorio de Overleaf
 Se incluye instructivo, machote de informe, presentaciones, tareas, etc. 
