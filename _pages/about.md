@@ -7,10 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Doctor of Engineering in Applied Science for System Integration from Kyushu Institute of Technology. Master of Science in Electronics with emphasis in MEMS and Bachelor in Electromechanical Enginnering from Instituto Tecnológico de Costa Rica. 
+Doctor of Engineering in Applied Science for System Integration from Kyushu Institute of Technology. Master of Science in Electronics with emphasis in MEMS and Bachelor in Electromechanical Enginnering from Instituto Tecnológico de Costa Rica. Data Science Specialist from Instituto Tecnológico de Costa Rica.
 
-Researcher at [SETECLab](https://www.tec.ac.cr/unidades/laboratorio-sistemas-espaciales) and [SESLab](https://www.tec.ac.cr/unidades/laboratorio-sistemas-electronicos-sostenibilidad-seslab-escuela-ingenieria-electronica)
-[Clean energy research program](https://www.tec.ac.cr/programa-investigacion/programa-energias-limpias-tec-peltec) coordinator. 
+Researcher at [Delta Lab](https://www.tec.ac.cr/laboratorio-delta) and [SETECLab](https://www.tec.ac.cr/unidades/laboratorio-sistemas-espaciales)  
 
 Interests: 
 * Electrical power systems for lean satellites
