@@ -26,7 +26,7 @@ Se incluye Manual, machote de informe y machote de investigación previa
 
 ## Semana 1
 ### Aspectos administrativos del curso
-* [Programa](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EYdhpNEWRiBFi46s3FOCwG4B0zFwBtvgnewEYFzCiCCOgg?e=zKbsIV)
+* [Programa](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/Eb41xze1amRCgrhqhIhoMtABA6y_n7FPPxhSTDiZEun4HA?e=r61bSy)
 
 [//]: #(*[Cronograma](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EcR9EazOKlVKi6UjezfMHQ4BWBKMp9B0p2lxswi2pfOO5Q?e=kJBaEi))
 * Horario 
@@ -112,15 +112,3 @@ Se incluye Manual, machote de informe y machote de investigación previa
 ### Lab 7. Programación con LOGO! 
 
 ## Semana 15
-
-### Entrega de informe del Lab 7. Tec Digital
-
-## Semana 16
-
-### Lab 12. Taller de Arduino
-* Presencial
-* [Taller en Tinkercad](https://www.tinkercad.com/things/4n3Qfu5grMc-copia-para-compartir-temperatura-resistencia-corriente/editel?sharecode=obWSoDwlYgvayxb8B1uPYEKQD59g_jXeFdmnr8A4Lik)
-* [Datasheet del TMP36](https://www.analog.com/media/en/technical-documentation/data-sheets/TMP35_36_37.pdf)
-
-## Semana 16
-### Entrega de informe del Lab 12. Tec Digital
