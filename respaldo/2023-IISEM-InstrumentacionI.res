@@ -1,8 +1,8 @@
 ---
-title: "Instrumentación I - II Semestre 2022"
+title: "Instrumentación I - II Semestre 2023"
 collection: teaching
 type: "Curso de pregrado"
-permalink: /teaching/2022-IISEM-InstrumentacionI
+permalink: /teaching/2023-IISEM-InstrumentacionI
 venue: "Instituto Tecnológico de Costa Rica, Escuela de Física"
 date: 2021-01-01
 location: "Cartago, Costa Rica"
@@ -31,35 +31,25 @@ Se incluye instructivo, machote de informe, presentaciones, tareas, etc.
 ### Capstone
    * [Video sobre configuración](https://youtu.be/JOZz-7b-sLE)
 
-## Hardware 
-
-### [Arduino MEGA 2560](https://docs.arduino.cc/hardware/mega-2560)
-* [Datasheet](https://docs.arduino.cc/static/05b4951fcc463b2fed4e47dc4b4da0e0/A000067-datasheet.pdf)
-* [Pinout](https://docs.arduino.cc/static/2de2c8ff00fc05065634e3823a9266c4/A000067-pinout.png)
-
-
 # Contenidos
 
-## Semana 1 (27/07)
-
+## Semana 1
 ### Aspectos administrativos del curso
+* [Programa](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EQVFkz82K1lHmOT_3umZ4XsBtAgky_hNbrUIx1mNGu154g?e=bq4KkL)
 
-* [Programa](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EQVFkz82K1lHmOT_3umZ4XsBtAgky_hNbrUIx1mNGu154g)
-
-* Evaluación
-
-Rubro | Porcentaje
-Tareas | 40%
-Prácticas | 60%
-
+[//]: #(*[Cronograma](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EcR9EazOKlVKi6UjezfMHQ4BWBKMp9B0p2lxswi2pfOO5Q?e=kJBaEi))
 * Grupo 1 
-   * Horario: Miercoles, de las 07:30 a las 09:20
+   * Horario: Martes, de las 07:30 a las 09:20.
+   * Profesor: Dr-Ing. Juan J. Rojas
 * Grupo 2
-   * Horario: Miercoles, de las 09:30 a las 11:20
+   * Horario: Martes, de las 09:30 a las 11:20.
+   * Profesor: Dr-Ing. Juan Luis Guerrero Fernández
 
-## Semana 2 (03/08)
+## Semana 2
 ### Introducción a la Instrumentación Industrial. Sesión 1
 * [Presentación](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EQdAJYjvaEhMroNYkio9ku4BEX20iHap58oArHoGIT5gXw?e=bZzgfh)
+
+## Semana 3
 
 ### Introducción a la Instrumentación Industrial. Sesión 2
 * [Presentación](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/Ec5JXy17Q5FAkW60xv15trIBdjdaG3Fd-XEphw109JX96w?e=3kF7yh)
@@ -68,11 +58,11 @@ Prácticas | 60%
 * [Enunciado](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EUqIVmje6itFozSxAuQR-8ABA0w8OqvgGvdAClBRB-T72Q?e=L0qkLj)
 * [Datos](https://estudianteccr-my.sharepoint.com/:x:/g/personal/prof_juan_rojas_estudiantec_cr/EdPgXIwyTmhMgulR94-n6JUBvSWLipoVPb18x3d9gS7syg?e=nHJdWq)
 
-## Semana 3 (10/08)
+## Semana 4
 
 ### Lab 1. Características generales de instrumentos
 
-## Semana 4 (17/08)
+## Semana 5
 
 ### Medidas de temperatura.
 * [Presentación](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/Ed88IgFv1JJFlF11Ptvp-B8B1a-PYg_5mOA5Fd1NSwKdOw?e=o8fkjY)
@@ -80,12 +70,10 @@ Prácticas | 60%
 ### Tarea 2. 
 * [Enunciado](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EYwKHsRoPglMkMnXzDuFH2YBhzGzAtbqLTMPM5ecHEor6g?e=Y4PeTW)
 
-## Semana 5 (24/08)
-
+## Semana 6
 ### Lab 2. Sensores de temperatura
 
-## Semana 6 (31/08) (JP)
-
+## Semana 7
 ### 3. Medidas de presión
 * [Presentación](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EfRyAQhsU4dAjSUAWhamDVoBM6l8ClwSxgoweDSb746LpA?e=XgCYad)
 
@@ -93,15 +81,19 @@ Prácticas | 60%
 * [Enunciado](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/Ec6DSOSBAGVBgWcqJp7HDWQBp2uZwC1XzToAE_DlQVx44A?e=PAOIQd)
 * [Datos](https://estudianteccr-my.sharepoint.com/:u:/g/personal/prof_juan_rojas_estudiantec_cr/ES5u-pJPlFNBnMxKUXgPvi0B6mYtfNTDfYd4Du76JagNqA?e=5g6mPB)
 
-## Semana 7 (07/09) (JP)
-
-### [Taller sobre lectura, manipulación, transformación y visualización de datos](https://colab.research.google.com/drive/1TsrwU_f3kp4RvPzwJnXl43CdO0Btc9y_?usp=sharing)
-
-## Semana 8 (14/09)
+## Semana 8
 
 ### Lab 3. Sensores de presión
 
-## Semana 9 (21/09)
+## Semana 9
+
+### Taller sobre visualización de datos
+
+* [Video](https://web.microsoftstream.com/video/b678eddf-fa86-4434-8b3b-21fd6670494e?list=user&userId=18ddad9b-513d-42b1-849f-9817c80401f8)
+* [Colab notebook](https://colab.research.google.com/drive/1haYercJg4Ate2mbFjbSG0pPVMjEMOTsx?usp=sharing)
+
+
+## Semana 10
 
 ### Medidas de nivel
 * [Presentación](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EXYwHhL0y1xNnX3zOtBfaw0BHq6fZdA72Si6iXUrVGk3aA?e=Qxoi9L)
@@ -109,11 +101,11 @@ Prácticas | 60%
 ### Tarea 4: 
 * [Enunciado](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EVWTrQYTWAZJj9ArW29HPOUBS_RqVoTUMsjnaooZWMHeow?e=wlSvG3)
 
-## Semana 10 (28/09)
+## Semana 11
 
 ### Lab 4. Sensores de nivel
 
-## Semana 11 (05/10)
+## Semana 12
 
 ### Medidas de fuerza y vibración
 * [Presentación](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EY7NwfFrki5Mmx0ZfizG2cIBfUeB2jGVdrgTYNzII3QM6g?e=piuC56)
@@ -121,26 +113,25 @@ Prácticas | 60%
 ### Tarea 5: 
 * [Enunciado](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/ETqIF_VW_hxIjYTjjOebjg4B5rrl3iWz9SefTHgDDFkZkw?e=os6cOp)
 
-## Semana 12 (12/10)
+## Semana 13
 
 ### Lab 5. Sensores de fuerza y vibración
 
-## Semana 13 (19/10)
+## Semana 14
 
 ### Medidas de propiedades ópticas 
+* [Presentación](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EWGH3s_jMNZHiMZ7t-FXzxcB7gdJl5j0RAHLHPcy2DbNNg?e=EdZXf9)
+* [Video](https://estudianteccr.sharepoint.com/:v:/s/IIS-2021-InstrumentacinI/EY8vgQxjVpVBuShmy3uHs6kBHgFM2bQuhFhaEi96BNKCyQ?e=ovfBXq)
 
 ### Tarea 6: 
 * [Enunciado](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EV7n37iejB5DviOEq5QT_30B9-FejHRtQOklDrIyStvIKg?e=tOYXJr)
 
-## Semana 14 (26/10)
+## Semana 15
 
-### Lab 6. Sensores ópticos
+### Lab 6. Sensores de fuerza y vibración
 
-## Semana 15 (01/11)
+## Semana 16
 
-### Taller de Arduino con sensores analógicos
-* [Código](https://estudianteccr-my.sharepoint.com/:f:/g/personal/prof_juan_rojas_estudiantec_cr/EiZQanZaqLBEuooVSueZwVoBm77Pjx44wIJ2PScI1sPqSw?e=0LDAL1)
-
-## Semana 16 (08/11)
-
-### Taller de Arduino con sensores digitales
+### Taller de Arduino
+* [Taller en Tinkercad](https://www.tinkercad.com/things/4n3Qfu5grMc-copy-of-temperatura-resistencia-corriente/editel?sharecode=5xvvrFeOsp4mgZHsY2LKc4oBZCRPxLzElVT3C_S1wu4)
+* [Datasheet del TMP36](https://www.analog.com/media/en/technical-documentation/data-sheets/TMP35_36_37.pdf)

@@ -1,10 +1,10 @@
 ---
-title: "Instrumentación I - II Semestre 2023"
+title: "Instrumentación I - II Semestre 2024"
 collection: teaching
 type: "Curso de pregrado"
 permalink: /teaching/2023-IISEM-InstrumentacionI
 venue: "Instituto Tecnológico de Costa Rica, Escuela de Física"
-date: 2021-01-01
+date: 2024-01-01
 location: "Cartago, Costa Rica"
 ---
 Este curso comprende el estudio de los conceptos básicos de la instrumentación industrial y proporciona una base sólida en varios tópicos que quienes son profesionales en Ingeniería Física deben dominar para un exitoso desempeño con los sistemas de medición, presentes en un sinnúmero de actividades de ingeniería del mundo real.
@@ -43,7 +43,7 @@ Se incluye instructivo, machote de informe, presentaciones, tareas, etc.
    * Profesor: Dr-Ing. Juan J. Rojas
 * Grupo 2
    * Horario: Martes, de las 09:30 a las 11:20.
-   * Profesor: Dr-Ing. Juan Luis Guerrero Fernández
+   * Profesor: Dr-Ing. Juan J. Rojas
 
 ## Semana 2
 ### Introducción a la Instrumentación Industrial. Sesión 1
@@ -120,6 +120,8 @@ Se incluye instructivo, machote de informe, presentaciones, tareas, etc.
 ## Semana 14
 
 ### Medidas de propiedades ópticas 
+* [Presentación](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EWGH3s_jMNZHiMZ7t-FXzxcB7gdJl5j0RAHLHPcy2DbNNg?e=EdZXf9)
+* [Video](https://estudianteccr.sharepoint.com/:v:/s/IIS-2021-InstrumentacinI/EY8vgQxjVpVBuShmy3uHs6kBHgFM2bQuhFhaEi96BNKCyQ?e=ovfBXq)
 
 ### Tarea 6: 
 * [Enunciado](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EV7n37iejB5DviOEq5QT_30B9-FejHRtQOklDrIyStvIKg?e=tOYXJr)
