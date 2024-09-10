@@ -89,7 +89,7 @@ Se incluye instructivo, machote de informe, presentaciones, tareas, etc.
 
 ### Taller sobre visualización de datos
 
-* [Video](https://web.microsoftstream.com/video/b678eddf-fa86-4434-8b3b-21fd6670494e?list=user&userId=18ddad9b-513d-42b1-849f-9817c80401f8)
+* [Video](https://www.youtube.com/watch?v=0K3tuhN1rJE&t=12s)
 * [Colab notebook](https://colab.research.google.com/drive/1haYercJg4Ate2mbFjbSG0pPVMjEMOTsx?usp=sharing)
 
 
