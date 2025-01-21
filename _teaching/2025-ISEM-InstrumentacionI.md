@@ -1,10 +1,10 @@
 ---
-title: "Instrumentación I - II Semestre 2024"
+title: "Instrumentación I - I Semestre 2025"
 collection: teaching
 type: "Curso de pregrado"
-permalink: /teaching/2023-IISEM-InstrumentacionI
+permalink: /teaching/2025-ISEM-InstrumentacionI
 venue: "Instituto Tecnológico de Costa Rica, Escuela de Física"
-date: 2024-01-01
+date: 2025-01-01
 location: "Cartago, Costa Rica"
 ---
 Este curso comprende el estudio de los conceptos básicos de la instrumentación industrial y proporciona una base sólida en varios tópicos que quienes son profesionales en Ingeniería Física deben dominar para un exitoso desempeño con los sistemas de medición, presentes en un sinnúmero de actividades de ingeniería del mundo real.

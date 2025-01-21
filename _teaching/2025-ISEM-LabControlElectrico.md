@@ -1,10 +1,10 @@
 ---
-title: "Laboratorio de Control Electrico - II Semestre 2024"
+title: "Laboratorio de Control Electrico - I Semestre 2025"
 collection: teaching
 type: "Curso de grado"
-permalink: /teaching/2024-IISEM-LabControlElectrico
+permalink: /teaching/2025-IISEM-LabControlElectrico
 venue: "Instituto Tecnológico de Costa Rica, Escuela de Ingeniería Eletromecánica"
-date: 2024-01-01
+date: 2025-01-01
 location: "Cartago, Costa Rica"
 ---
 El curso Laboratorio de Control Eléctrico está diseñado para brindar al estudiante las destrezas necesarias que le permitirá realizar proyectos pequeños y de mediana escala en torno a la automatización de procesos industriales, agroindustriales, etc., realizando prácticas con tecnologías tales como: circuitos digitales, lógica cableada, relés inteligentes, lógica programada y micro PLC. El curso es de asistencia obligatoria.
