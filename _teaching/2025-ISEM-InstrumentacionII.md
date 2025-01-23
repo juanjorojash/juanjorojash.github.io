@@ -50,6 +50,8 @@ Hacer una cuenta con su correo de estudianTEC en [National Instruments](https://
 * Conversión analógica-digital
 * Entorno de LabVIEW
 
+* Web apps
+   * [Succesive approximation register resolution example](https://adc-dashboard.streamlit.app/)
 * Videos
    * [Writing Your First LabVIEW Program](https://youtu.be/ZHNlKyYzrPE)
    * [Data Flow Programming Basics](https://youtu.be/PqxStfwjQoQ)
