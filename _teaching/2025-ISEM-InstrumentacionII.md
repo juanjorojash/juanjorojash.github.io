@@ -52,6 +52,7 @@ Hacer una cuenta con su correo de estudianTEC en [National Instruments](https://
 
 * Web apps
    * [Succesive approximation register resolution example](https://adc-dashboard.streamlit.app/)
+   * [Digital transmission example](https://digital-transmission.streamlit.app/)
 * Videos
    * [Writing Your First LabVIEW Program](https://youtu.be/ZHNlKyYzrPE)
    * [Data Flow Programming Basics](https://youtu.be/PqxStfwjQoQ)

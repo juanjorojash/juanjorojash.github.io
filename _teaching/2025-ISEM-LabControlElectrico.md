@@ -32,12 +32,14 @@ Se incluye Manual, machote de informe y machote de investigación previa
 * Horario 
    * Grupo 3: Viernes, de la 15:00 a las 16:50
 
-### Lab 1. Taller de programación en Arduino
-* Actividad 1
-
 ## Semana 2
 
+* Web apps
+   * [Succesive approximation register resolution example](https://adc-dashboard.streamlit.app/)
+   * [Digital transmission example](https://digital-transmission.streamlit.app/)
+
 ### Lab 1. Taller de programación en Arduino
+* Actividad 1
 * Actividad 2
 
 ## Semana 3
