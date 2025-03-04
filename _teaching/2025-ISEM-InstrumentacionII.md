@@ -58,15 +58,13 @@ Hacer una cuenta con su correo de estudianTEC en [National Instruments](https://
    * [Data Flow Programming Basics](https://youtu.be/PqxStfwjQoQ)
    * [Señal analógica vrs. señal digital](https://youtu.be/c-h-cSNPfzE)
 
-### Implementación de un instrumento virtual básico y su interfaz de usuario
-* Mediciones de corriente y voltaje usando la NI MyDAQ
-* Interfaz básica para medición de corriente y voltaje
-
 ### Tarea 1
-* [Enunciado](https://estudianteccr-my.sharepoint.com/:f:/g/personal/prof_juan_rojas_estudiantec_cr/EnRzzkyXVadOpA_f6Xye5cUB8Bd9gybjBHux4Go529PRaQ?e=QWF7j)
+* [Enunciado](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EcBUDbuxsPpEgfDYiIpykx4Bl9e49o-Ae8-fsMx_BF9h7w?e=rkpd7p)
 
 ## Semana 3
-### Práctica 1
+### Práctica 1: Implementación de un instrumento virtual básico y su interfaz de usuario
+* Mediciones de corriente y voltaje usando la NI MyDAQ
+* Interfaz básica para medición de corriente y voltaje
 
 ## Semana 4
 ### Defensa de Tarea 1
