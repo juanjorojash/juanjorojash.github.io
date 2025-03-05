@@ -49,20 +49,18 @@ Se incluye instructivo, machote de informe, presentaciones, tareas, etc.
 ### Introducción a la Instrumentación Industrial. Sesión 1
 * [Presentación](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EQdAJYjvaEhMroNYkio9ku4BEX20iHap58oArHoGIT5gXw?e=bZzgfh)
 
-## Semana 3
-
 ### Introducción a la Instrumentación Industrial. Sesión 2
 * [Presentación](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/Ec5JXy17Q5FAkW60xv15trIBdjdaG3Fd-XEphw109JX96w?e=3kF7yh)
 
+## Semana 3
+
+### Lab 1. Medición de voltaje
+
 ### Tarea 1. 
 * [Enunciado](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EUqIVmje6itFozSxAuQR-8ABA0w8OqvgGvdAClBRB-T72Q?e=L0qkLj)
-* [Datos](https://estudianteccr-my.sharepoint.com/:x:/g/personal/prof_juan_rojas_estudiantec_cr/EdPgXIwyTmhMgulR94-n6JUBvSWLipoVPb18x3d9gS7syg?e=nHJdWq)
+[//]: #(* [Datos](https://estudianteccr-my.sharepoint.com/:x:/g/personal/prof_juan_rojas_estudiantec_cr/EdPgXIwyTmhMgulR94-n6JUBvSWLipoVPb18x3d9gS7syg?e=nHJdWq))
 
 ## Semana 4
-
-### Lab 1. Características generales de instrumentos
-
-## Semana 5
 
 ### Medidas de temperatura.
 * [Presentación](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/Ed88IgFv1JJFlF11Ptvp-B8B1a-PYg_5mOA5Fd1NSwKdOw?e=o8fkjY)
@@ -70,10 +68,12 @@ Se incluye instructivo, machote de informe, presentaciones, tareas, etc.
 ### Tarea 2. 
 * [Enunciado](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EYwKHsRoPglMkMnXzDuFH2YBhzGzAtbqLTMPM5ecHEor6g?e=Y4PeTW)
 
-## Semana 6
+## Semana 5
+
 ### Lab 2. Sensores de temperatura
 
-## Semana 7
+## Semana 6
+
 ### 3. Medidas de presión
 * [Presentación](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EfRyAQhsU4dAjSUAWhamDVoBM6l8ClwSxgoweDSb746LpA?e=XgCYad)
 
@@ -81,19 +81,18 @@ Se incluye instructivo, machote de informe, presentaciones, tareas, etc.
 * [Enunciado](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/Ec6DSOSBAGVBgWcqJp7HDWQBp2uZwC1XzToAE_DlQVx44A?e=PAOIQd)
 * [Datos](https://estudianteccr-my.sharepoint.com/:u:/g/personal/prof_juan_rojas_estudiantec_cr/ES5u-pJPlFNBnMxKUXgPvi0B6mYtfNTDfYd4Du76JagNqA?e=5g6mPB)
 
-## Semana 8
+## Semana 7
 
 ### Lab 3. Sensores de presión
 
-## Semana 9
+## Semana 8
 
 ### Taller sobre visualización de datos
 
 * [Video](https://www.youtube.com/watch?v=0K3tuhN1rJE&t=12s)
 * [Colab notebook](https://colab.research.google.com/drive/1haYercJg4Ate2mbFjbSG0pPVMjEMOTsx?usp=sharing)
 
-
-## Semana 10
+## Semana 9
 
 ### Medidas de nivel
 * [Presentación](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EXYwHhL0y1xNnX3zOtBfaw0BHq6fZdA72Si6iXUrVGk3aA?e=Qxoi9L)
@@ -101,11 +100,11 @@ Se incluye instructivo, machote de informe, presentaciones, tareas, etc.
 ### Tarea 4: 
 * [Enunciado](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EVWTrQYTWAZJj9ArW29HPOUBS_RqVoTUMsjnaooZWMHeow?e=wlSvG3)
 
-## Semana 11
+## Semana 10
 
 ### Lab 4. Sensores de nivel
 
-## Semana 12
+## Semana 11
 
 ### Medidas de fuerza y vibración
 * [Presentación](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EY7NwfFrki5Mmx0ZfizG2cIBfUeB2jGVdrgTYNzII3QM6g?e=piuC56)
@@ -113,11 +112,11 @@ Se incluye instructivo, machote de informe, presentaciones, tareas, etc.
 ### Tarea 5: 
 * [Enunciado](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/ETqIF_VW_hxIjYTjjOebjg4B5rrl3iWz9SefTHgDDFkZkw?e=os6cOp)
 
-## Semana 13
+## Semana 12
 
 ### Lab 5. Sensores de fuerza y vibración
 
-## Semana 14
+## Semana 13
 
 ### Medidas de propiedades ópticas 
 * [Presentación](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EWGH3s_jMNZHiMZ7t-FXzxcB7gdJl5j0RAHLHPcy2DbNNg?e=EdZXf9)
@@ -126,12 +125,10 @@ Se incluye instructivo, machote de informe, presentaciones, tareas, etc.
 ### Tarea 6: 
 * [Enunciado](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EV7n37iejB5DviOEq5QT_30B9-FejHRtQOklDrIyStvIKg?e=tOYXJr)
 
-## Semana 15
+## Semana 14
 
 ### Lab 6. Sensores de fuerza y vibración
 
-## Semana 16
+## Semana 15
 
-### Taller de Arduino
-* [Taller en Tinkercad](https://www.tinkercad.com/things/4n3Qfu5grMc-copy-of-temperatura-resistencia-corriente/editel?sharecode=5xvvrFeOsp4mgZHsY2LKc4oBZCRPxLzElVT3C_S1wu4)
-* [Datasheet del TMP36](https://www.analog.com/media/en/technical-documentation/data-sheets/TMP35_36_37.pdf)
+### TBD
