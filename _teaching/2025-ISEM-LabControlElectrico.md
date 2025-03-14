@@ -51,16 +51,20 @@ Se incluye Manual, machote de informe y machote de investigación previa
 
 ### Entrega de informe del Lab 1. Tec Digital
 
-### Defensa de Lab 1
+### Quiz 1
 
-### Lab 2. Programación de funiones combinacionales
+### Lab 2. Programación de funciones combinacionales
+* Actividad 1
 
 ## Semana 5
 
-### Lab 2. Programación de funiones combinacionales
+### Lab 2. Programación de funciones combinacionales
+* Actividad 2
 
 ## Semana 6
 ### Entrega de informe del Lab 2. Tec Digital
+
+### Quiz 2
 
 ### Defensa de Lab 2
 
@@ -81,8 +85,6 @@ Se incluye Manual, machote de informe y machote de investigación previa
 ## Semana 9
 
 ### Entrega de informe del Lab 4. Tec Digital
-
-### Quiz 1
 
 ###  Lab 5. Arranques a tensión reducida y circuitos temporizados
 
@@ -105,7 +107,7 @@ Se incluye Manual, machote de informe y machote de investigación previa
 
 ### Entrega de informe del Lab 6. Tec Digital
 
-### Quiz 2
+### Quiz 3
 
 ### Lab 7. Programación con LOGO! 
 
