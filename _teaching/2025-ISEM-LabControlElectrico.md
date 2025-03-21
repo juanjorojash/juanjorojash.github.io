@@ -66,8 +66,6 @@ Se incluye Manual, machote de informe y machote de investigación previa
 
 ### Quiz 2
 
-### Defensa de Lab 2
-
 ### Lab 3. Programación de flip-flops, contadores y drivers
 
 ## Semana 7
@@ -77,8 +75,6 @@ Se incluye Manual, machote de informe y machote de investigación previa
 ## Semana 8
 
 ### Entrega de informe del Lab 3. Tec Digital
-
-### Defensa de Lab 3
 
 ###  Lab 4. Lógica convencional, arranque-paro sencillo y reversible
 
@@ -94,8 +90,6 @@ Se incluye Manual, machote de informe y machote de investigación previa
 
 ## Semana 11
 ### Entrega de informe del Lab 5. Tec Digital
-
-### Defensa de Lab 5
 
 ### Lab 6. Programación de variadores de frecuencia y arrancadores suaves 
 
