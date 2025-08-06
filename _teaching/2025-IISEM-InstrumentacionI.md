@@ -1,8 +1,8 @@
 ---
-title: "Instrumentación I - I Semestre 2025"
+title: "Instrumentación I - II Semestre 2025"
 collection: teaching
 type: "Curso de pregrado"
-permalink: /teaching/2025-ISEM-InstrumentacionI
+permalink: /teaching/2025-IISEM-InstrumentacionI
 venue: "Instituto Tecnológico de Costa Rica, Escuela de Física"
 date: 2025-01-01
 location: "Cartago, Costa Rica"
@@ -38,12 +38,13 @@ Se incluye instructivo, machote de informe, presentaciones, tareas, etc.
 * [Programa](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EQVFkz82K1lHmOT_3umZ4XsBtAgky_hNbrUIx1mNGu154g?e=bq4KkL)
 
 [//]: #(*[Cronograma](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EcR9EazOKlVKi6UjezfMHQ4BWBKMp9B0p2lxswi2pfOO5Q?e=kJBaEi))
-* Grupo 1 
-   * Horario: Martes, de las 07:30 a las 09:20.
-   * Profesor: Dr-Ing. Juan J. Rojas
-* Grupo 2
+
+* Grupo 1
    * Horario: Martes, de las 09:30 a las 11:20.
-   * Profesor: Dr-Ing. Juan J. Rojas
+* Grupo 2
+   * Horario: Martes, de las 13:00 a las 14:50.
+* Grupo 3
+   * Horario: Martes, de las 07:30 a las 09:20.
 
 ## Semana 2
 ### Introducción a la Instrumentación Industrial. Sesión 1

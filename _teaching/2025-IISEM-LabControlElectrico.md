@@ -1,5 +1,5 @@
 ---
-title: "Laboratorio de Control Electrico - I Semestre 2025"
+title: "Laboratorio de Control Electrico - II Semestre 2025"
 collection: teaching
 type: "Curso de grado"
 permalink: /teaching/2025-IISEM-LabControlElectrico
