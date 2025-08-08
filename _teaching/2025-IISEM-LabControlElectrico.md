@@ -27,16 +27,16 @@ Se incluye Manual, machote de informe y machote de investigación previa
 ## Semana 1
 ### Aspectos administrativos del curso
 * [Programa](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/Eb41xze1amRCgrhqhIhoMtABA6y_n7FPPxhSTDiZEun4HA?e=r61bSy)
+### Introducción a Arduino
+* [Presentación](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EW1djwrBCX5GoMHPxsrwHU0B99oVeWfdr1cTUK4KALwAuA?e=eNToxS)
+### Adquisición y transmisión de datos
+* [Web app: Succesive approximation register resolution example](https://adc-dashboard.streamlit.app/)
+* [Web app: Digital transmission example](https://digital-transmission.streamlit.app/)
 
-[//]: #(*[Cronograma](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EcR9EazOKlVKi6UjezfMHQ4BWBKMp9B0p2lxswi2pfOO5Q?e=kJBaEi))
 * Horario 
    * Grupo 3: Viernes, de la 15:00 a las 16:50
 
 ## Semana 2
-
-* Web apps
-   * [Succesive approximation register resolution example](https://adc-dashboard.streamlit.app/)
-   * [Digital transmission example](https://digital-transmission.streamlit.app/)
 
 ### Lab 1. Taller de programación en Arduino
 * Actividad 1
