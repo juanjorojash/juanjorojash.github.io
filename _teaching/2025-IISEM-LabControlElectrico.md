@@ -16,7 +16,7 @@ Se incluye Manual, machote de informe y machote de investigación previa
 
 ## Software
 * [Arduino IDE](https://www.arduino.cc/en/software)
-* [Thinkercad](https://www.tinkercad.com/dashboard)
+* [VS Code](https://code.visualstudio.com/download)
 
 
 ## Materiales que debe aportar el estudiante
