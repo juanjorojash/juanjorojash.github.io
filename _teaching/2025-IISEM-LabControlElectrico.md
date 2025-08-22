@@ -10,6 +10,11 @@ location: "Cartago, Costa Rica"
 El curso Laboratorio de Control Eléctrico está diseñado para brindar al estudiante las destrezas necesarias que le permitirá realizar proyectos pequeños y de mediana escala en torno a la automatización de procesos industriales, agroindustriales, etc., realizando prácticas con tecnologías tales como: circuitos digitales, lógica cableada, relés inteligentes, lógica programada y micro PLC. El curso es de asistencia obligatoria.
 
 # Generales
+## Instructivo
+* [Instructivo](https://github.com/juanjorojash/lab_control_electrico/blob/main/instructivo/00_instructivo.pdf)ç
+* [Machote reporte](https://github.com/juanjorojash/lab_control_electrico/blob/main/instructivo/reporte.tex)
+
+
 ## Repositorio de Overleaf
 Se incluye Manual, machote de informe y machote de investigación previa
 * Click [aquí](https://www.overleaf.com/read/sknrshwwcpgz#8e8c36)
