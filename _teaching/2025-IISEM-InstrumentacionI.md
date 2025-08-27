@@ -10,9 +10,9 @@ location: "Cartago, Costa Rica"
 Este curso comprende el estudio de los conceptos básicos de la instrumentación industrial y proporciona una base sólida en varios tópicos que quienes son profesionales en Ingeniería Física deben dominar para un exitoso desempeño con los sistemas de medición, presentes en un sinnúmero de actividades de ingeniería del mundo real.
 
 # Generales
-## Repositorio de Overleaf
-Se incluye instructivo, machote de informe, presentaciones, tareas, etc. 
-* Click [aquí](https://www.overleaf.com/read/zjkbkmvfnrcc)
+## Instructivo
+* [Instructivo](https://github.com/juanjorojash/instrumentacion_I/blob/master/instructivo/00_instructivo.pdf)
+* [Machote reporte](https://github.com/juanjorojash/instrumentacion_I/blob/master/instructivo/reporte.tex)
 
 ## Software
 
@@ -48,13 +48,12 @@ Se incluye instructivo, machote de informe, presentaciones, tareas, etc.
 
 ## Semana 3
 
-### Lab 1. Medición de voltaje
+### Lab 1. Medición de estímulos eléctricos
 * [Hoja de datos: INA219](https://www.ti.com/lit/ds/symlink/ina219.pdf)
 * [Algoritmos](https://github.com/juanjorojash/instrumentacion_I/tree/master/algoritmos/L01)
 
 ### Tarea 1. 
 * [Enunciado](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EUqIVmje6itFozSxAuQR-8ABA0w8OqvgGvdAClBRB-T72Q?e=L0qkLj)
-[//]: #(* [Datos](https://estudianteccr-my.sharepoint.com/:x:/g/personal/prof_juan_rojas_estudiantec_cr/EdPgXIwyTmhMgulR94-n6JUBvSWLipoVPb18x3d9gS7syg?e=nHJdWq))
 
 ## Semana 4
 

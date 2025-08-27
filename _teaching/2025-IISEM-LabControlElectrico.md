@@ -11,18 +11,12 @@ El curso Laboratorio de Control Eléctrico está diseñado para brindar al estud
 
 # Generales
 ## Instructivo
-* [Instructivo](https://github.com/juanjorojash/lab_control_electrico/blob/main/instructivo/00_instructivo.pdf)ç
+* [Instructivo](https://github.com/juanjorojash/lab_control_electrico/blob/main/instructivo/00_instructivo.pdf)
 * [Machote reporte](https://github.com/juanjorojash/lab_control_electrico/blob/main/instructivo/reporte.tex)
-
-
-## Repositorio de Overleaf
-Se incluye Manual, machote de informe y machote de investigación previa
-* Click [aquí](https://www.overleaf.com/read/sknrshwwcpgz#8e8c36)
 
 ## Software
 * [Arduino IDE](https://www.arduino.cc/en/software)
 * [VS Code](https://code.visualstudio.com/download)
-
 
 ## Materiales que debe aportar el estudiante
 * [Breadboard](https://www.microjpm.com/products/mb-102-breadboard-830-pts/)
