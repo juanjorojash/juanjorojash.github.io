@@ -1,9 +1,9 @@
 ---
 title: "DeltaLab Onboarding - II Semester 2025"
 collection: deltalab
-type: "Curso de pregrado"
-permalink: /teaching/2025-IISEM-InstrumentacionI
-venue: "Instituto Tecnológico de Costa Rica, Escuela de Física"
+type: "Onboarding"
+permalink: /deltalab/2025-IISEM-DeltaLabOnboarding
+venue: "Instituto Tecnológico de Costa Rica, Escuela de Electromecánica"
 date: 2025-01-01
 location: "Cartago, Costa Rica"
 ---
