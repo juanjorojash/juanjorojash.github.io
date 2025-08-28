@@ -7,7 +7,7 @@ venue: "Instituto Tecnológico de Costa Rica, Escuela de Electromecánica"
 date: 2025-01-01
 location: "Cartago, Costa Rica"
 ---
-Este curso comprende el estudio de los conceptos básicos de la instrumentación industrial y proporciona una base sólida en varios tópicos que quienes son profesionales en Ingeniería Física deben dominar para un exitoso desempeño con los sistemas de medición, presentes en un sinnúmero de actividades de ingeniería del mundo real.
+Onboarding for new members of DeltaLab
 
 # General
 ## Guide
