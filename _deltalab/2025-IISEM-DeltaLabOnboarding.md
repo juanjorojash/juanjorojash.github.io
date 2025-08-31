@@ -12,16 +12,4 @@ Onboarding for new members of DeltaLab
 # General
 ## Guide
 * [Guide](https://github.com/DeltaLabo/onboarding/blob/main/guide/00_guide.pdf)
-* [Report]()
-
-## Software
-
-### [VS Code](https://code.visualstudio.com/download)
-### [MikTeX](https://miktex.org/download)
-### [Python](https://www.python.org/downloads/)
-
-# Units
-
-## Unit 1: LaTeX
-### Environment set-up
-
+* [Report](https://github.com/DeltaLabo/onboarding/blob/main/guide/99_report.tex)
