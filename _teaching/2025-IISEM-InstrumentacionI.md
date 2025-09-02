@@ -11,8 +11,8 @@ Este curso comprende el estudio de los conceptos básicos de la instrumentación
 
 # Generales
 ## Instructivo
-* [Instructivo](https://github.com/juanjorojash/instrumentacion_I/blob/master/instructivo/00_instructivo.pdf)
-* [Machote reporte](https://github.com/juanjorojash/instrumentacion_I/blob/master/instructivo/reporte.tex)
+* [Instructivo](https://github.com/juanjorojash/instrumentacion_I/blob/master/guide/00_instructivo.pdf)
+* [Machote reporte](https://github.com/juanjorojash/instrumentacion_I/blob/master/guide/reporte.tex)
 
 ## Software
 
