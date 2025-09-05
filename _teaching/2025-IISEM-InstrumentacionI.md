@@ -53,7 +53,7 @@ Este curso comprende el estudio de los conceptos básicos de la instrumentación
 * [Algoritmos](https://github.com/juanjorojash/instrumentacion_I/tree/master/algoritmos/L01)
 
 ### Tarea 1. 
-* [Enunciado](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EUqIVmje6itFozSxAuQR-8ABA0w8OqvgGvdAClBRB-T72Q?e=L0qkLj)
+* [Enunciado](https://github.com/juanjorojash/instrumentacion_I/blob/master/tareas/t1.pdf)
 
 ## Semana 4
 
@@ -61,7 +61,7 @@ Este curso comprende el estudio de los conceptos básicos de la instrumentación
 * [Presentación](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/Ed88IgFv1JJFlF11Ptvp-B8B1a-PYg_5mOA5Fd1NSwKdOw?e=o8fkjY)
 
 ### Tarea 2. 
-* [Enunciado](https://estudianteccr-my.sharepoint.com/:b:/g/personal/prof_juan_rojas_estudiantec_cr/EYwKHsRoPglMkMnXzDuFH2YBhzGzAtbqLTMPM5ecHEor6g?e=Y4PeTW)
+* [Enunciado](https://github.com/juanjorojash/instrumentacion_I/blob/master/tareas/t2.pdf)
 
 ## Semana 5
 
