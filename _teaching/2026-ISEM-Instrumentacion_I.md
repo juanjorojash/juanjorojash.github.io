@@ -1,13 +1,20 @@
 ---
-title: "Instrumentación I - II Semestre 2025"
+title: "Instrumentación I - I Semestre 2026"
 collection: teaching
 type: "Curso de pregrado"
-permalink: /teaching/2025-IISEM-InstrumentacionI
+permalink: /teaching/2026-ISEM-Instrumentacion_I
 venue: "Instituto Tecnológico de Costa Rica, Escuela de Física"
-date: 2025-01-01
+date: 2026-01-01
 location: "Cartago, Costa Rica"
 ---
-Este curso comprende el estudio de los conceptos básicos de la instrumentación industrial y proporciona una base sólida en varios tópicos que quienes son profesionales en Ingeniería Física deben dominar para un exitoso desempeño con los sistemas de medición, presentes en un sinnúmero de actividades de ingeniería del mundo real.
+Este curso aborda el estudio integral de los transductores utilizados para medir y manipular variables físicas. Se analizan los conceptos fundamentales relacionados
+con señales, modelos, sensores, actuadores y su clasificación, así como las características estáticas, dinámicas, eléctricas y de fabricación que determinan el
+funcionamiento y desempeño de los transductores.
+
+Se estudian los principios de operación y aplicaciones de transductores térmicos, ópticos, eléctricos, magnéticos, mecánicos, acústicos, químicos, de radiación
+y dispositivos MEMS modernos. Además, se examinan las interfaces necesarias para su integración en sistemas de instrumentación, tales como acondicionamiento
+de señales, amplificación, conversión analógica-digital y transmisión de datos. Las experiencias prácticas permiten al estudiantado desarrollar habilidades aplicadas
+para la evaluación, selección e implementación de transductores en sistemas reales.
 
 # Generales
 ## Instructivo
