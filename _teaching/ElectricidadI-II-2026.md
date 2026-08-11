@@ -7,23 +7,46 @@ venue: "Instituto Tecnológico de Costa Rica, Escuela de Ingeniería Electromec�
 date: 2026-01-01
 location: "Cartago, Costa Rica"
 ---
-El curso de Análisis de circuitos I aporta en el desarrollo del siguiente rasgo del
-plan de estudios: conocer y aplicar los principios de los circuitos eléctricos y la
-electrónica, y analizar su funcionamiento en las diversas aplicaciónes en ingeniería
-electromecánica.
-Los aprendizajes que los estudiantes desarrollarán en el curso son: comprender
-la teoría de los circuitos eléctricos en corriente directa, incluyendo sus leyes y
-componentes principales; aplicar métodos de análisis y simulación para la solución
-de circuitos eléctricos en corriente directa; y evaluar circuitos en corriente directa
-para su uso en diversas aplicaciones de sistemas electromecánico.
-Para desempeñarse adecuadamente en este curso, los estudiantes deben poner 
-en práctica lo aprendido en los cursos de: Cálculo diferencial e integral, y Física
-general II.
-Una vez aprobado este curso, los estudiantes podrán emplear algunos de los
-aprendizajes adquiridos en los cursos de: Análisis de circuitos II, Transductores, e
-Instrumentación.
+<h1 class="course-plan-title">Evaluación</h1>
 
-# Objetivos
+<div class="assessment-card" role="region" aria-label="Evaluación de Electricidad I" tabindex="0">
+<table class="assessment-table">
+  <caption>Distribución de la nota final</caption>
+  <thead>
+    <tr>
+      <th scope="col">Rubro</th>
+      <th scope="col">Valor</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">Examen 1</th>
+      <td>30%</td>
+    </tr>
+    <tr>
+      <th scope="row">Examen 2</th>
+      <td>20%</td>
+    </tr>
+    <tr>
+      <th scope="row">Examen 3</th>
+      <td>25%</td>
+    </tr>
+    <tr>
+      <th scope="row">Portafolio</th>
+      <td>25%</td>
+    </tr>
+  </tbody>
+  <tfoot>
+    <tr>
+      <th scope="row">Total</th>
+      <td>100%</td>
+    </tr>
+  </tfoot>
+</table>
+</div>
+
+<h1 class="course-plan-title">Objetivos</h1>
+
 Al final del curso la persona estudiante será capaz de:
 ### Objetivo general
 Analizar los circuitos eléctricos en corriente directa, mediante métodos y teore-
@@ -48,6 +71,68 @@ el bloque de corriente alterna.
 <style>
   .course-plan-title {
     color: #275da8;
+  }
+  .assessment-card {
+    max-width: 34rem;
+    margin: 1rem 0 2.25rem;
+    overflow: hidden;
+    border: 1px solid #d9eef8;
+    border-radius: 0.65rem;
+    box-shadow: 0 0.2rem 0.7rem rgba(39, 93, 168, 0.1);
+  }
+  .assessment-table {
+    width: 100%;
+    margin: 0;
+    border-collapse: collapse;
+    color: #30343b;
+    font-size: 0.98rem;
+  }
+  .assessment-table caption {
+    padding: 0.8rem 1rem;
+    color: #30343b;
+    background: #eaf2fb;
+    font-weight: 600;
+    text-align: left;
+  }
+  .assessment-table th,
+  .assessment-table td {
+    padding: 0.8rem 1rem;
+    border: 0;
+    border-bottom: 1px solid #d9eef8;
+  }
+  .assessment-table thead th {
+    color: #fff;
+    background: #275da8;
+    font-weight: 600;
+    text-align: left;
+  }
+  .assessment-table thead th:last-child,
+  .assessment-table tbody td,
+  .assessment-table tfoot td {
+    width: 8rem;
+    text-align: right;
+    font-variant-numeric: tabular-nums;
+  }
+  .assessment-table tbody th {
+    font-weight: 400;
+    text-align: left;
+  }
+  .assessment-table tbody td {
+    color: #275da8;
+    font-weight: 700;
+  }
+  .assessment-table tbody tr:nth-child(even) {
+    background: #f5f9fd;
+  }
+  .assessment-table tfoot th,
+  .assessment-table tfoot td {
+    color: #9a6a00;
+    background: #fff8e5;
+    border-bottom: 0;
+    font-weight: 700;
+  }
+  .assessment-table tfoot th {
+    text-align: left;
   }
   .course-plan-wrap {
     margin: 1.5rem 0;
@@ -178,7 +263,7 @@ el bloque de corriente alterna.
     </tr>
     <tr class="exam-row">
       <th scope="row">8</th>
-      <td></td>
+      <td> </td>
       <td><span class="exam">Examen 1</span></td>
     </tr>
     <tr>
@@ -195,7 +280,7 @@ el bloque de corriente alterna.
     </tr>
     <tr class="exam-row">
       <th scope="row">11</th>
-      <td></td>
+      <td> </td>
       <td><span class="exam">Examen 2</span></td>
     </tr>
     <tr>
@@ -218,7 +303,7 @@ el bloque de corriente alterna.
     </tr>
     <tr class="exam-row">
       <th scope="row">15</th>
-      <td></td>
+      <td> </td>
       <td><span class="exam">Examen 3</span></td>
     </tr>
     <tr>
