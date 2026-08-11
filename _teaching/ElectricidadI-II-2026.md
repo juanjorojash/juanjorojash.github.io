@@ -39,9 +39,10 @@ sistemas electromecánico.
 
 <h1 class="course-plan-title">Plan del curso</h1>
 
-El plan distribuye los contenidos del programa oficial en 16 semanas. Los exámenes
-1 y 2 se realizan antes de iniciar, respectivamente, los bloques de bobinas y
-condensadores y de corriente alterna; el examen 3 se realiza después de concluir
+El plan distribuye los contenidos del programa oficial en 16 semanas. Cada clase
+corresponde a 4 horas, por lo que las 48 horas temáticas ocupan 12 semanas. Los
+exámenes 1 y 2 se realizan antes de iniciar, respectivamente, los bloques de bobinas
+y condensadores y de corriente alterna; el examen 3 se realiza después de concluir
 el bloque de corriente alterna.
 
 <style>
@@ -56,7 +57,7 @@ el bloque de corriente alterna.
   }
   .course-plan {
     width: 100%;
-    min-width: 980px;
+    min-width: 760px;
     margin: 0;
     border-collapse: collapse;
     font-size: 0.92rem;
@@ -79,6 +80,14 @@ el bloque de corriente alterna.
   .course-plan td:first-child {
     width: 4.5rem;
     text-align: center;
+  }
+  .course-plan th:nth-child(2),
+  .course-plan td:nth-child(2) {
+    width: 58%;
+  }
+  .course-plan th:nth-child(3),
+  .course-plan td:nth-child(3) {
+    width: 36%;
   }
   .course-plan tbody tr:nth-child(even) {
     background: #eaf2fb;
@@ -103,6 +112,16 @@ el bloque de corriente alterna.
     font-weight: 700;
     white-space: nowrap;
   }
+   .course-plan .topic-title {
+   display: block;
+   margin-bottom: 0.4rem;
+   color: #275da8;
+   font-size: 1.2em;
+   font-weight: 400;
+   }
+  .course-plan a {
+    color: #275da8;
+  }
 </style>
 
 <div class="course-plan-wrap" role="region" aria-label="Plan del curso Electricidad I" tabindex="0">
@@ -111,126 +130,102 @@ el bloque de corriente alterna.
     <tr>
       <th scope="col">Sem.</th>
       <th scope="col">Tema</th>
-      <th scope="col">Objetivo</th>
-      <th scope="col">Metodología</th>
-      <th scope="col">Evaluaciones</th>
+      <th scope="col">Recursos y entregas</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <th scope="row">1</th>
-      <td><ul><li><strong>Conceptos y definiciones</strong></li><li>Bandas de energía</li><li>Carga eléctrica</li><li>Corriente y voltaje</li></ul></td>
-      <td>Reconocer el origen y las relaciones entre las magnitudes eléctricas fundamentales.</td>
-      <td>Clase magistral, análisis de ejemplos y resolución guiada de ejercicios.</td>
-      <td>Evaluación formativa mediante ejercicios en clase.</td>
+      <td><span class="topic-title">Conceptos y definiciones</span>
+      <ul><li>Bandas de energía</li><li>Carga eléctrica</li><li>Corriente y voltaje</li><li>Resistencia eléctrica y Ley de Ohm</li><li>Potencia y energía</li><li>Elementos activos y pasivos</li><li>Corto circuito y circuito abierto</li><li>Fuentes dependientes e independientes</li><li>Elementos de un circuito</li></ul></td>
+      <td><span aria-label="Sin recursos o entregas">—</span></td>
     </tr>
     <tr>
       <th scope="row">2</th>
-      <td><ul><li>Resistencia eléctrica y Ley de Ohm</li><li>Potencia y energía</li><li>Elementos activos y pasivos</li></ul></td>
-      <td>Aplicar la ley de Ohm y los balances de potencia y energía en circuitos sencillos.</td>
-      <td>Clase magistral y resolución guiada de problemas.</td>
-      <td>Evaluación formativa mediante ejercicios en clase.</td>
+      <td><span class="topic-title">Análisis de circuitos básicos</span>
+      <ul><li>Leyes de Kirchhoff</li><li>Elementos y circuitos en serie</li><li>Divisor de voltaje</li></ul></td>
+      <td><span aria-label="Sin recursos o entregas">—</span></td>
     </tr>
     <tr>
       <th scope="row">3</th>
-      <td><ul><li><strong>Análisis de circuitos básicos</strong></li><li>Corto circuito y circuito abierto</li><li>Fuentes dependientes e independientes</li><li>Elementos de un circuito</li><li>Leyes de Kirchhoff</li></ul></td>
-      <td>Modelar circuitos básicos y formular sus ecuaciones mediante las leyes de Kirchhoff.</td>
-      <td>Exposición de conceptos y práctica guiada de planteamiento de ecuaciones.</td>
-      <td>Evaluación formativa mediante ejercicios en clase.</td>
+      <td><span class="topic-title">Análisis de circuitos básicos</span>
+      <ul><li>Elementos y circuitos en paralelo</li><li>Divisor de corriente</li><li>Fuentes reales</li></ul></td>
+      <td><span aria-label="Sin recursos o entregas">—</span></td>
     </tr>
     <tr>
       <th scope="row">4</th>
-      <td><ul><li>Circuitos en serie y divisor de voltaje</li><li>Circuitos en paralelo y divisor de corriente</li><li>Fuentes reales</li></ul></td>
-      <td>Analizar asociaciones serie-paralelo y representar el comportamiento de fuentes reales.</td>
-      <td>Resolución guiada e individual de problemas de circuitos básicos.</td>
-      <td>Evaluación formativa mediante ejercicios en clase.</td>
+      <td><span class="topic-title">Técnicas para el análisis de circuitos complejos</span>
+      <ul><li>Análisis de mallas y supermallas</li><li>Análisis de nodos y supernodos</li></ul></td>
+      <td><span aria-label="Sin recursos o entregas">—</span></td>
     </tr>
     <tr>
       <th scope="row">5</th>
-      <td><ul><li><strong>Técnicas para el análisis de circuitos complejos</strong></li><li>Análisis de mallas y supermallas</li></ul></td>
-      <td>Resolver circuitos complejos mediante corrientes de malla y supermallas.</td>
-      <td>Clase magistral, ejemplos desarrollados y práctica de resolución.</td>
-      <td>Evaluación formativa mediante ejercicios en clase.</td>
+      <td><span class="topic-title">Técnicas para el análisis de circuitos complejos</span>
+      <ul><li>Superposición</li><li>Conversión de fuentes</li></ul></td>
+      <td><span aria-label="Sin recursos o entregas">—</span></td>
     </tr>
     <tr>
       <th scope="row">6</th>
-      <td><ul><li>Análisis de nodos y supernodos</li></ul></td>
-      <td>Resolver circuitos complejos mediante voltajes nodales y supernodos.</td>
-      <td>Clase magistral, ejemplos desarrollados y práctica de resolución.</td>
-      <td>Evaluación formativa mediante ejercicios en clase.</td>
+      <td><span class="topic-title">Técnicas para el análisis de circuitos complejos</span>
+      <ul><li>Teoremas de Thévenin y Norton</li><li>Teorema de máxima transferencia de potencia</li></ul></td>
+      <td><ul><li><a href="https://youtu.be/LQFKj_J37cA">LTSpice: máxima transferencia de potencia</a></li><li><a href="https://youtu.be/kjDn_0aK00A">Problema 4.69: máxima transferencia de potencia</a></li></ul></td>
     </tr>
     <tr>
       <th scope="row">7</th>
-      <td><ul><li>Superposición</li><li>Conversión de fuentes</li><li>Teoremas de Thévenin y Norton</li></ul></td>
-      <td>Simplificar y analizar circuitos lineales mediante superposición, transformación de fuentes y equivalentes.</td>
-      <td>Demostración de métodos, resolución guiada y comprobación de resultados.</td>
-      <td>Evaluación formativa mediante ejercicios en clase.</td>
-    </tr>
-    <tr>
-      <th scope="row">8</th>
-      <td><ul><li>Máxima transferencia de potencia</li><li>Conversión delta-estrella y estrella-delta</li><li>Circuitos puente H y Wheatstone</li></ul></td>
-      <td>Seleccionar y aplicar técnicas de reducción y optimización de circuitos resistivos.</td>
-      <td>Estudio de casos y resolución de problemas integradores.</td>
-      <td>Preparación para el examen 1.</td>
+      <td><span class="topic-title">Técnicas para el análisis de circuitos complejos</span>
+      <ul><li>Conversión de delta-estrella y estrella-delta</li><li>Circuitos puente (H, Wheatstone)</li></ul></td>
+      <td><span aria-label="Sin recursos o entregas">—</span></td>
     </tr>
     <tr class="exam-row">
-      <th scope="row">9</th>
-      <td><ul><li><strong>Examen 1 antes del bloque de bobinas y condensadores</strong></li><li><strong>Bobinas y condensadores</strong></li><li>Definición de elementos reactivos</li><li>Fundamentos de condensadores y bobinas</li></ul></td>
-      <td>Demostrar dominio del análisis de circuitos resistivos e identificar las variables constitutivas de los elementos reactivos.</td>
-      <td>Examen escrito; posteriormente, introducción magistral y ejemplos conceptuales.</td>
+      <th scope="row">8</th>
+      <td><span class="topic-title">Examen 1</span>Evaluación antes de iniciar bobinas y condensadores.</td>
       <td><span class="exam">Examen 1</span></td>
     </tr>
     <tr>
-      <th scope="row">10</th>
-      <td><ul><li>Elementos reactivos en serie y paralelo</li><li>Respuesta natural y forzada</li></ul></td>
-      <td>Obtener equivalentes de elementos reactivos y distinguir las componentes natural y forzada de la respuesta.</td>
-      <td>Clase magistral, ejercicios guiados y análisis de formas de onda.</td>
-      <td>Evaluación formativa mediante ejercicios en clase.</td>
+      <th scope="row">9</th>
+      <td><span class="topic-title">Bobinas y condensadores</span>
+      <ul><li>Definición de elementos reactivos</li><li>Fundamentos de condensadores y bobinas</li><li>Arreglo de elementos reactivos en serie y paralelo</li></ul></td>
+      <td><ul><li><a href="https://youtu.be/Icl9_5sV-6E">Capacitores e inductores: clase asincrónica</a></li></ul></td>
     </tr>
     <tr>
-      <th scope="row">11</th>
-      <td><ul><li>Funciones de singularidad</li><li>Circuitos de primer orden RL y RC</li></ul></td>
-      <td>Determinar la respuesta temporal de circuitos RL y RC de primer orden.</td>
-      <td>Resolución de problemas, representación gráfica y comprobación de respuestas.</td>
-      <td>Preparación para el examen 2.</td>
+      <th scope="row">10</th>
+      <td><span class="topic-title">Bobinas y condensadores</span>
+      <ul><li>Respuesta natural y forzada</li><li>Las funciones de singularidad</li><li>Circuitos de primer orden RL y RC</li></ul></td>
+      <td><ul><li><a href="https://youtu.be/bWRGyjY0niY">Respuestas naturales: clase asincrónica</a></li><li><a href="https://youtu.be/37KDKfhaRO8">Problema 7.10: respuesta natural RC</a></li><li><a href="https://youtu.be/-DqJL51fJ6w">Funciones de singularidad: clase asincrónica</a></li></ul></td>
     </tr>
     <tr class="exam-row">
-      <th scope="row">12</th>
-      <td><ul><li><strong>Examen 2 antes del bloque de corriente alterna</strong></li><li><strong>Análisis en corriente alterna</strong></li><li>Parámetros de la onda alterna</li><li>Valor eficaz</li><li>Fasores</li></ul></td>
-      <td>Demostrar dominio de circuitos RL y RC e interpretar una señal alterna mediante sus parámetros y representación fasorial.</td>
-      <td>Examen escrito; posteriormente, exposición magistral y ejercicios de representación.</td>
+      <th scope="row">11</th>
+      <td><span class="topic-title">Examen 2</span>Evaluación antes de iniciar el análisis en corriente alterna.</td>
       <td><span class="exam">Examen 2</span></td>
     </tr>
     <tr>
+      <th scope="row">12</th>
+      <td><span class="topic-title">Análisis en corriente alterna</span>
+      <ul><li>Parámetros de la onda alterna</li><li>Valor eficaz</li><li>Fasores</li><li>Impedancia y admitancia</li></ul></td>
+      <td><span aria-label="Sin recursos o entregas">—</span></td>
+    </tr>
+    <tr>
       <th scope="row">13</th>
-      <td><ul><li>Impedancia y admitancia</li><li>Nodos y supernodos en corriente alterna</li></ul></td>
-      <td>Modelar elementos en el dominio fasorial y resolver circuitos de corriente alterna por análisis nodal.</td>
-      <td>Clase magistral, transformación al dominio fasorial y resolución guiada.</td>
-      <td>Evaluación formativa mediante ejercicios en clase.</td>
+      <td><span class="topic-title">Análisis en corriente alterna</span>
+      <ul><li>Análisis de nodos y supernodos en corriente alterna</li><li>Análisis de mallas y supermallas en corriente alterna</li><li>Conversión de fuentes en corriente alterna</li></ul></td>
+      <td><span aria-label="Sin recursos o entregas">—</span></td>
     </tr>
     <tr>
       <th scope="row">14</th>
-      <td><ul><li>Mallas y supermallas en corriente alterna</li><li>Conversión de fuentes en corriente alterna</li></ul></td>
-      <td>Resolver circuitos de corriente alterna mediante análisis de mallas y transformación de fuentes.</td>
-      <td>Resolución guiada e individual de problemas en el dominio fasorial.</td>
-      <td>Evaluación formativa mediante ejercicios en clase.</td>
-    </tr>
-    <tr>
-      <th scope="row">15</th>
-      <td><ul><li>Teoremas de Thévenin y Norton en corriente alterna</li><li>Potencia compleja</li><li>Máxima transferencia de potencia promedio</li></ul></td>
-      <td>Aplicar equivalentes y relaciones de potencia para evaluar y optimizar circuitos de corriente alterna.</td>
-      <td>Problemas integradores, análisis de potencia y repaso del bloque de corriente alterna.</td>
-      <td>Preparación para el examen 3.</td>
+      <td><span class="topic-title">Análisis en corriente alterna</span>
+      <ul><li>Teoremas de Thévenin y Norton en corriente alterna</li><li>Potencia compleja</li><li>Teorema de máxima transferencia de potencia promedio en corriente alterna</li></ul></td>
+      <td><span aria-label="Sin recursos o entregas">—</span></td>
     </tr>
     <tr class="exam-row">
-      <th scope="row">16</th>
-      <td><ul><li><strong>Examen 3 después del bloque de corriente alterna</strong></li><li>Cierre del curso</li></ul></td>
-      <td>Integrar los métodos de análisis de circuitos en corriente alterna y evaluar sus resultados.</td>
-      <td>Examen escrito y cierre académico del curso.</td>
+      <th scope="row">15</th>
+      <td><span class="topic-title">Examen 3</span>Evaluación después de concluir el análisis en corriente alterna.</td>
       <td><span class="exam">Examen 3</span></td>
+    </tr>
+    <tr>
+      <th scope="row">16</th>
+      <td><span class="topic-title">Cierre del curso</span></td>
+      <td><span aria-label="Sin recursos o entregas">—</span></td>
     </tr>
   </tbody>
 </table>
 </div>
-
-
