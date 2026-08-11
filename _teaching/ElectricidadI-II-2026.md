@@ -178,7 +178,7 @@ el bloque de corriente alterna.
     </tr>
     <tr class="exam-row">
       <th scope="row">8</th>
-      <td><span class="topic-title">Examen 1</span>Evaluación antes de iniciar bobinas y condensadores.</td>
+      <td></td>
       <td><span class="exam">Examen 1</span></td>
     </tr>
     <tr>
@@ -195,7 +195,7 @@ el bloque de corriente alterna.
     </tr>
     <tr class="exam-row">
       <th scope="row">11</th>
-      <td><span class="topic-title">Examen 2</span>Evaluación antes de iniciar el análisis en corriente alterna.</td>
+      <td></td>
       <td><span class="exam">Examen 2</span></td>
     </tr>
     <tr>
@@ -218,7 +218,7 @@ el bloque de corriente alterna.
     </tr>
     <tr class="exam-row">
       <th scope="row">15</th>
-      <td><span class="topic-title">Examen 3</span>Evaluación después de concluir el análisis en corriente alterna.</td>
+      <td></td>
       <td><span class="exam">Examen 3</span></td>
     </tr>
     <tr>
