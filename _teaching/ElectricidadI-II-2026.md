@@ -221,7 +221,7 @@ resuelven problemas de corriente alterna mediante Laplace.
     <tr>
       <th scope="col">Sem.</th>
       <th scope="col">Tema</th>
-      <th scope="col">Recursos y entregas</th>
+      <th scope="col">Recursos, entregas y asignacion</th>
     </tr>
   </thead>
   <tbody>
