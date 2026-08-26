@@ -203,7 +203,8 @@ resuelven problemas de corriente alterna mediante Laplace.
   .course-plan td > .exam {
     margin-top: 0.5rem;
   }
-   .course-plan .topic-title {
+   .course-plan .topic-title,
+   .course-plan .resource-title {
    display: block;
    margin-bottom: 0.4rem;
    color: #275da8;
@@ -221,7 +222,7 @@ resuelven problemas de corriente alterna mediante Laplace.
     <tr>
       <th scope="col">Sem.</th>
       <th scope="col">Tema</th>
-      <th scope="col">Recursos, entregas y asignacion</th>
+      <th scope="col">Recursos, entregas y asignaciones</th>
     </tr>
   </thead>
   <tbody>
@@ -229,7 +230,7 @@ resuelven problemas de corriente alterna mediante Laplace.
       <th scope="row">1</th>
       <td><span class="topic-title">Conceptos y definiciones</span>
       <ul><li>Bandas de energía</li><li>Carga eléctrica</li><li>Corriente y voltaje</li><li>Resistencia eléctrica y Ley de Ohm</li><li>Potencia y energía</li><li>Elementos activos y pasivos</li><li>Corto circuito y circuito abierto</li><li>Fuentes dependientes e independientes</li><li>Elementos de un circuito</li></ul></td>
-      <td><ul><li><a href="https://www.youtube.com/watch?v=twXnxkySVHo">Estructura atómica, carga eléctrica y campo eléctrico</a></li><li><a href="https://www.youtube.com/watch?v=CoiBW32Tq9c">Conceptos básicos</a></li></ul></td>
+      <td><span class="resource-title">Recursos</span><ul><li><a href="https://www.youtube.com/watch?v=twXnxkySVHo">Estructura atómica, carga eléctrica y campo eléctrico</a></li><li><a href="https://www.youtube.com/watch?v=CoiBW32Tq9c">Conceptos básicos</a></li></ul></td>
     </tr>
     <tr>
       <th scope="row">2</th>
