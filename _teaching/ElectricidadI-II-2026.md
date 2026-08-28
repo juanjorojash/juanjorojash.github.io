@@ -235,20 +235,19 @@ resuelven problemas de corriente alterna mediante Laplace.
     <tr>
       <th scope="row">2</th>
       <td><span class="topic-title">Análisis de circuitos básicos</span>
-      <ul><li>Leyes de Kirchhoff</li><li>Elementos y circuitos en serie</li><li>Divisor de voltaje</li></ul></td>
+      <ul><li>Leyes de Kirchhoff</li><li>Elementos y circuitos en serie</li><li>Divisor de voltaje</li><li>Elementos y circuitos en paralelo</li><li>Divisor de corriente</li><li>Fuentes reales</li></ul></td>
       <td><span aria-label="Sin recursos o entregas">—</span></td>
     </tr>
     <tr>
       <th scope="row">3</th>
-      <td><span class="topic-title">Análisis de circuitos básicos</span>
-      <ul><li>Elementos y circuitos en paralelo</li><li>Divisor de corriente</li><li>Fuentes reales</li></ul></td>
-      <td><span aria-label="Sin recursos o entregas">—</span></td>
-    </tr>
-    <tr>
-      <th scope="row">4</th>
       <td><span class="topic-title">Técnicas para el análisis de circuitos complejos</span>
       <ul><li>Análisis de mallas y supermallas</li><li>Análisis de nodos y supernodos</li></ul></td>
       <td><span class="resource-title">Recursos</span><ul><li><a href="https://www.youtube.com/watch?v=5EhkEt3EgDc">Mallas y supermallas</a></li><li><a href="https://www.youtube.com/watch?v=eoNDHvzIkPw">Supermallas: problema 3.63</a></li><li><a href="https://www.youtube.com/watch?v=0yTrAKQYVVw">Nodos y supernodos</a></li><li><a href="https://www.youtube.com/watch?v=eJkdc0B9UF4">Nodos y supernodos: problema 3.30</a></li><li><a href="https://www.youtube.com/watch?v=w5-UEOt6S-8">Nodos y supernodos: problema en vivo 3.88</a></li></ul><span class="resource-title">Asignaciones</span><ul><li><a href="https://github.com/juanjorojash/electricidad_I/blob/master/problems/Portfolio/E1.pdf">Avance 1 Portafolio</a></li></ul></td>
+    </tr>
+    <tr>
+      <th scope="row">4</th>
+      <td><span aria-label="Sin clase">—</span></td>
+      <td><span aria-label="Sin recursos o entregas">—</span></td>
     </tr>
     <tr>
       <th scope="row">5</th>
