@@ -248,7 +248,7 @@ resuelven problemas de corriente alterna mediante Laplace.
       <th scope="row">4</th>
       <td><span class="topic-title">Técnicas para el análisis de circuitos complejos</span>
       <ul><li>Análisis de mallas y supermallas</li><li>Análisis de nodos y supernodos</li></ul></td>
-      <td><span class="resource-title">Recursos</span><ul><li><a href="https://www.youtube.com/watch?v=5EhkEt3EgDc">Mallas y supermallas</a></li><li><a href="https://www.youtube.com/watch?v=eoNDHvzIkPw">Supermallas: problema 3.63</a></li><li><a href="https://www.youtube.com/watch?v=0yTrAKQYVVw">Nodos y supernodos</a></li><li><a href="https://www.youtube.com/watch?v=eJkdc0B9UF4">Nodos y supernodos: problema 3.30</a></li><li><a href="https://www.youtube.com/watch?v=w5-UEOt6S-8">Nodos y supernodos: problema en vivo 3.88</a></li></ul><span class="resource-title">Evaluaciones</span><ul><li><a href="https://github.com/juanjorojash/electricidad_I/blob/master/problems/Portfolio/E1.pdf">Avance 1 Portafolio</a></li></ul></td>
+      <td><span class="resource-title">Recursos</span><ul><li><a href="https://www.youtube.com/watch?v=5EhkEt3EgDc">Mallas y supermallas</a></li><li><a href="https://www.youtube.com/watch?v=eoNDHvzIkPw">Supermallas: problema 3.63</a></li><li><a href="https://www.youtube.com/watch?v=0yTrAKQYVVw">Nodos y supernodos</a></li><li><a href="https://www.youtube.com/watch?v=eJkdc0B9UF4">Nodos y supernodos: problema 3.30</a></li><li><a href="https://www.youtube.com/watch?v=w5-UEOt6S-8">Nodos y supernodos: problema en vivo 3.88</a></li></ul><span class="resource-title">Asignaciones</span><ul><li><a href="https://github.com/juanjorojash/electricidad_I/blob/master/problems/Portfolio/E1.pdf">Avance 1 Portafolio</a></li></ul></td>
     </tr>
     <tr>
       <th scope="row">5</th>
@@ -260,18 +260,18 @@ resuelven problemas de corriente alterna mediante Laplace.
       <th scope="row">6</th>
       <td><span class="topic-title">Técnicas para el análisis de circuitos complejos</span>
       <ul><li>Teoremas de Thévenin y Norton</li><li>Teorema de máxima transferencia de potencia</li></ul></td>
-      <td><span class="resource-title">Recursos</span><ul><li><a href="https://www.youtube.com/watch?v=cjt_Yn3We_U">Teoremas de Thévenin, Norton y máxima transferencia de potencia</a></li><li><a href="https://www.youtube.com/watch?v=uZMb7ePdymo">Teorema de Thévenin: ejemplo en vivo 4.9</a></li><li><a href="https://www.youtube.com/watch?v=J3qmHVAxVng">Teorema de Norton: problema en vivo 4.53</a></li><li><a href="https://www.youtube.com/watch?v=8FDMvIkFpcg">Teorema de Norton: problema en vivo 4.55</a></li><li><a href="https://www.youtube.com/watch?v=kjDn_0aK00A">Máxima transferencia de potencia: problema 4.69</a></li><li><a href="https://www.youtube.com/watch?v=bCPKjsO13qw">Máxima transferencia de potencia: problema en vivo 4.92</a></li><li><a href="https://www.youtube.com/watch?v=LQFKj_J37cA">Tutorial LTSpice: máxima transferencia de potencia</a></li><li><a href="https://www.youtube.com/watch?v=zTHbcZEvnpk">Video explicativo para la Tarea 5</a></li></ul><span class="resource-title">Evaluaciones</span><ul><li>Entrega Avance 1 mediante Tec Digital</li></ul></td>
-    </tr>
-    <tr class="exam-row">
-      <th scope="row">7</th>
-      <td><span aria-label="Sin clase">—</span></td>
-      <td><span class="exam">Examen 1</span></td>
+      <td><span class="resource-title">Recursos</span><ul><li><a href="https://www.youtube.com/watch?v=cjt_Yn3We_U">Teoremas de Thévenin, Norton y máxima transferencia de potencia</a></li><li><a href="https://www.youtube.com/watch?v=uZMb7ePdymo">Teorema de Thévenin: ejemplo en vivo 4.9</a></li><li><a href="https://www.youtube.com/watch?v=J3qmHVAxVng">Teorema de Norton: problema en vivo 4.53</a></li><li><a href="https://www.youtube.com/watch?v=8FDMvIkFpcg">Teorema de Norton: problema en vivo 4.55</a></li><li><a href="https://www.youtube.com/watch?v=kjDn_0aK00A">Máxima transferencia de potencia: problema 4.69</a></li><li><a href="https://www.youtube.com/watch?v=bCPKjsO13qw">Máxima transferencia de potencia: problema en vivo 4.92</a></li><li><a href="https://www.youtube.com/watch?v=LQFKj_J37cA">Tutorial LTSpice: máxima transferencia de potencia</a></li><li><a href="https://www.youtube.com/watch?v=zTHbcZEvnpk">Video explicativo para la Tarea 5</a></li></ul></td>
     </tr>
     <tr>
-      <th scope="row">8</th>
+      <th scope="row">7</th>
       <td><span class="topic-title">Bobinas y condensadores</span>
       <ul><li>Definición de elementos reactivos</li><li>Fundamentos de condensadores y bobinas</li><li>Arreglo de elementos reactivos en serie y paralelo</li></ul></td>
-      <td><ul><li><a href="https://www.youtube.com/watch?v=Icl9_5sV-6E">Capacitores e inductores</a></li></ul></td>
+      <td><span class="resource-title">Recursos</span><ul><li><a href="https://www.youtube.com/watch?v=Icl9_5sV-6E">Capacitores e inductores</a></li></ul><span class="resource-title">Evaluaciones</span><ul><li>Entrega Avance 1 mediante Tec Digital</li></ul></td>
+    </tr>
+    <tr class="exam-row">
+      <th scope="row">8</th>
+      <td><span aria-label="Sin clase">—</span></td>
+      <td><span class="exam">Examen 1</span></td>
     </tr>
     <tr>
       <th scope="row">9</th>
