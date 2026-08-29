@@ -258,9 +258,8 @@ resuelven problemas de corriente alterna mediante Laplace.
     </tr>
     <tr>
       <th scope="row">6</th>
-      <td><span class="topic-title">Bobinas y condensadores</span>
-      <ul><li>Definición de elementos reactivos</li><li>Fundamentos de condensadores y bobinas</li><li>Arreglo de elementos reactivos en serie y paralelo</li></ul></td>
-      <td><span class="resource-title">Recursos</span><ul><li><a href="https://www.youtube.com/watch?v=Icl9_5sV-6E">Capacitores e inductores</a></li></ul></td>
+      <td><span>Resolución de ejercios de practica para el primer parcial</span></td>
+      <td><span aria-label="Sin recursos o entregas">—</span></td>
     </tr>
     <tr>
       <th scope="row">7</th>
