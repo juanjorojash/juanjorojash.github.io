@@ -248,7 +248,7 @@ resuelven problemas de corriente alterna mediante Laplace.
       <th scope="row">4</th>
       <td><span class="topic-title">Técnicas para el análisis de circuitos complejos</span>
       <ul><li>Superposición</li><li>Conversión de fuentes</li><li>Conversión de delta-estrella y estrella-delta</li><li>Circuitos puente (H, Wheatstone y celda de carga)</li><li>Teoremas de Thévenin y Norton</li><li>Teorema de máxima transferencia de potencia</li></ul></td>
-      <td><span class="resource-title">Recursos</span><ul><li><a href="https://www.youtube.com/watch?v=j3InyCSizoU">Superposición y transformación de fuentes</a></li><li><a href="https://www.youtube.com/watch?v=iInz_GyKwDA">Superposición: problema en vivo</a></li><li><a href="https://www.youtube.com/watch?v=sDLgUlPzi-Q">Transformación de fuentes: problema en vivo</a></li><li><a href="https://www.youtube.com/watch?v=cjt_Yn3We_U">Teoremas de Thévenin, Norton y máxima transferencia de potencia</a></li><li><a href="https://www.youtube.com/watch?v=uZMb7ePdymo">Teorema de Thévenin: ejemplo en vivo 4.9</a></li><li><a href="https://www.youtube.com/watch?v=J3qmHVAxVng">Teorema de Norton: problema en vivo 4.53</a></li><li><a href="https://www.youtube.com/watch?v=8FDMvIkFpcg">Teorema de Norton: problema en vivo 4.55</a></li><li><a href="https://www.youtube.com/watch?v=kjDn_0aK00A">Máxima transferencia de potencia: problema 4.69</a></li><li><a href="https://www.youtube.com/watch?v=bCPKjsO13qw">Máxima transferencia de potencia: problema en vivo 4.92</a></li><li><a href="https://www.youtube.com/watch?v=LQFKj_J37cA">Tutorial LTSpice: máxima transferencia de potencia</a></li><li><a href="https://www.youtube.com/watch?v=zTHbcZEvnpk">Video explicativo para la Tarea 5</a></li></ul><span class="resource-title">Asignaciones</span><ul><li><a href="https://github.com/juanjorojash/electricidad_I/blob/master/problems/Portfolio/E1.pdf">Avance 1 Portafolio</a></li></ul></td>
+      <td><span class="resource-title">Recursos</span><ul><li><a href="https://www.youtube.com/watch?v=j3InyCSizoU">Superposición y transformación de fuentes</a></li><li><a href="https://www.youtube.com/watch?v=iInz_GyKwDA">Superposición: problema en vivo</a></li><li><a href="https://www.youtube.com/watch?v=sDLgUlPzi-Q">Transformación de fuentes: problema en vivo</a></li><li><a href="https://www.youtube.com/watch?v=cjt_Yn3We_U">Teoremas de Thévenin, Norton y máxima transferencia de potencia</a></li><li><a href="https://www.youtube.com/watch?v=uZMb7ePdymo">Teorema de Thévenin: ejemplo en vivo 4.9</a></li><li><a href="https://www.youtube.com/watch?v=J3qmHVAxVng">Teorema de Norton: problema en vivo 4.53</a></li><li><a href="https://www.youtube.com/watch?v=8FDMvIkFpcg">Teorema de Norton: problema en vivo 4.55</a></li><li><a href="https://www.youtube.com/watch?v=kjDn_0aK00A">Máxima transferencia de potencia: problema 4.69</a></li><li><a href="https://www.youtube.com/watch?v=bCPKjsO13qw">Máxima transferencia de potencia: problema en vivo 4.92</a></li><li><a href="https://www.youtube.com/watch?v=LQFKj_J37cA">Tutorial LTSpice: máxima transferencia de potencia</a></li><li><a href="https://www.youtube.com/watch?v=zTHbcZEvnpk">Video explicativo para la Tarea 5</a></li></ul><span class="resource-title">Asignaciones</span><ul><li><a href="https://github.com/juanjorojash/electricidad_I/blob/master/Portfolio/Avance1.pdf">Avance 1 Portafolio</a></li></ul></td>
     </tr>
     <tr>
       <th scope="row">5</th>
@@ -283,22 +283,21 @@ resuelven problemas de corriente alterna mediante Laplace.
       <ul><li>Definición de la transformada de Laplace</li><li>Propiedades de la transformada de Laplace</li><li>Definición de elementos en el dominio <em>s</em></li><li>Análisis de circuitos RLC en estado transitorio utilizando la transformada de Laplace</li><li>Resolución de circuitos RL y RC mediante la transformada de Laplace</li></ul></td>
       <td><span aria-label="Sin recursos o entregas">—</span></td>
     </tr>
-    <tr class="exam-row">
+    <tr>
       <th scope="row">11</th>
+      <td><span>Resolución de ejercicios de práctica para el segundo parcial</span></td>
+      <td><span aria-label="Sin recursos o entregas">—</span></td>
+    </tr>
+    <tr class="exam-row">
+      <th scope="row">12</th>
       <td><span aria-label="Sin clase">—</span></td>
       <td><span class="exam">Examen 2</span></td>
     </tr>
     <tr>
-      <th scope="row">12</th>
-      <td><span class="topic-title">Análisis en corriente alterna</span>
-      <ul><li>Parámetros de la onda alterna</li><li>Valor eficaz</li><li>Onda alterna sinusoidal</li><li>Fasores</li></ul></td>
-      <td><ul><li><a href="https://www.youtube.com/watch?v=kkTsLRy2c8A">Senoides y fasores</a></li></ul></td>
-    </tr>
-    <tr>
       <th scope="row">13</th>
       <td><span class="topic-title">Análisis en corriente alterna</span>
-      <ul><li>Impedancia y admitancia</li><li>Análisis de nodos y supernodos en corriente alterna</li><li>Análisis de mallas y supermallas en corriente alterna</li><li>Conversión de fuentes en corriente alterna</li></ul></td>
-      <td><ul><li><a href="https://www.youtube.com/watch?v=G33ZNiWucew">Impedancia y admitancia</a></li><li><a href="https://www.youtube.com/watch?v=UD9dGjgiBio">Nodos en CA: problema 10.17</a></li><li><a href="https://www.youtube.com/watch?v=Ra_zuZzI260">Mallas en CA: problema 10.38</a></li><li><a href="https://www.youtube.com/watch?v=0pd06IfKtqU">Transformación de fuentes en CA: problema 10.52</a></li></ul></td>
+      <ul><li>Parámetros de la onda alterna</li><li>Valor eficaz</li><li>Onda alterna sinusoidal</li><li>Fasores</li><li>Impedancia y admitancia</li><li>Análisis de nodos y supernodos en corriente alterna</li><li>Análisis de mallas y supermallas en corriente alterna</li><li>Conversión de fuentes en corriente alterna</li></ul></td>
+      <td><ul><li><a href="https://www.youtube.com/watch?v=kkTsLRy2c8A">Senoides y fasores</a></li><li><a href="https://www.youtube.com/watch?v=G33ZNiWucew">Impedancia y admitancia</a></li><li><a href="https://www.youtube.com/watch?v=UD9dGjgiBio">Nodos en CA: problema 10.17</a></li><li><a href="https://www.youtube.com/watch?v=Ra_zuZzI260">Mallas en CA: problema 10.38</a></li><li><a href="https://www.youtube.com/watch?v=0pd06IfKtqU">Transformación de fuentes en CA: problema 10.52</a></li></ul></td>
     </tr>
     <tr>
       <th scope="row">14</th>
